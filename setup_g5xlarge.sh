@@ -51,9 +51,25 @@ echo "Code patches applied."
 
 # Download data
 echo ""
-echo "Downloading data from Dryad (~2GB)..."
-echo "This may take several minutes..."
+echo "Downloading data from Dryad..."
+echo "Files to download:"
+echo "  - t15_copyTask_neuralData.zip (~1.8 GB) - neural recordings"
+echo "  - t15_pretrained_rnn_baseline.zip (~50 MB) - pretrained model"
+echo "  - t15_copyTask.pkl, t15_personalUse.pkl - analysis data"
+echo ""
+echo "This may take 5-15 minutes depending on network speed..."
 python3 download_data.py
+
+echo ""
+echo "Verifying data download..."
+if [ -d "data/hdf5_data_final" ] && [ -d "data/t15_pretrained_rnn_baseline" ]; then
+    echo "Data downloaded and extracted successfully."
+    echo "  - Neural data: data/hdf5_data_final/ (45 sessions)"
+    echo "  - Pretrained model: data/t15_pretrained_rnn_baseline/"
+else
+    echo "ERROR: Data download may have failed. Check data/ directory."
+    exit 1
+fi
 
 echo ""
 echo "=========================================="
