@@ -1,4 +1,4 @@
-import torch 
+import torch
 from torch.utils.data import DataLoader
 from torch.optim.lr_scheduler import LambdaLR
 import random
@@ -17,6 +17,12 @@ from data_augmentations import gauss_smooth
 
 import torchaudio.functional as F # for edit distance
 from omegaconf import OmegaConf
+
+try:
+    import wandb
+    WANDB_AVAILABLE = True
+except ImportError:
+    WANDB_AVAILABLE = False
 
 torch.set_float32_matmul_precision('high') # makes float32 matmuls faster on some GPUs
 torch.backends.cudnn.deterministic = True # makes training more reproducible
@@ -80,6 +86,18 @@ class BrainToTextDecoder_Trainer:
         sh = logging.StreamHandler(sys.stdout)
         sh.setFormatter(formatter)
         self.logger.addHandler(sh)
+
+        # Initialize wandb if available and enabled
+        self.use_wandb = WANDB_AVAILABLE and args.get('use_wandb', False)
+        if self.use_wandb:
+            wandb.init(
+                project=args.get('wandb_project', 'brain-to-text'),
+                name=args.get('wandb_run_name', None),
+                config=OmegaConf.to_container(args, resolve=True),
+            )
+            self.logger.info("Wandb initialized")
+        elif args.get('use_wandb', False) and not WANDB_AVAILABLE:
+            self.logger.warning("Wandb requested but not installed. Run: pip install wandb")
 
         # Configure device pytorch will use 
         if torch.cuda.is_available():
@@ -568,6 +586,14 @@ class BrainToTextDecoder_Trainer:
                         f'grad norm: {grad_norm:.2f} '
                         f'time: {train_step_duration:.3f}')
 
+                if self.use_wandb:
+                    wandb.log({
+                        'train/loss': loss.detach().item(),
+                        'train/grad_norm': grad_norm,
+                        'train/lr': self.learning_rate_scheduler.get_last_lr()[0],
+                        'train/batch': i,
+                    }, step=i)
+
             # Incrementally run a test step
             if i % self.args['batches_per_val_step'] == 0 or i == ((self.args['num_training_batches'] - 1)):
                 self.logger.info(f"Running test after training batch: {i}")
@@ -578,11 +604,24 @@ class BrainToTextDecoder_Trainer:
                 val_step_duration = time.time() - start_time
 
 
-                # Log info 
+                # Log info
                 self.logger.info(f'Val batch {i}: ' +
                         f'PER (avg): {val_metrics["avg_PER"]:.4f} ' +
                         f'CTC Loss (avg): {val_metrics["avg_loss"]:.4f} ' +
                         f'time: {val_step_duration:.3f}')
+
+                if self.use_wandb:
+                    wandb_metrics = {
+                        'val/PER': val_metrics['avg_PER'],
+                        'val/loss': val_metrics['avg_loss'],
+                        'val/batch': i,
+                    }
+                    # Log per-day PER
+                    for day_idx, day_per in val_metrics['day_PERs'].items():
+                        if day_per['total_seq_length'] > 0:
+                            day_name = self.args['dataset']['sessions'][day_idx]
+                            wandb_metrics[f'val_per_day/{day_name}'] = day_per['total_edit_distance'] / day_per['total_seq_length']
+                    wandb.log(wandb_metrics, step=i)
                 
                 if self.args['log_individual_day_val_PER']:
                     for day in val_metrics['day_PERs'].keys():
@@ -644,9 +683,14 @@ class BrainToTextDecoder_Trainer:
 
         train_stats = {}
         train_stats['train_losses'] = train_losses
-        train_stats['val_losses'] = val_losses 
+        train_stats['val_losses'] = val_losses
         train_stats['val_PERs'] = val_PERs
         train_stats['val_metrics'] = val_results
+
+        # Finish wandb run
+        if self.use_wandb:
+            wandb.log({'final/best_val_PER': self.best_val_PER})
+            wandb.finish()
 
         return train_stats
 

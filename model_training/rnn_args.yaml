@@ -14,9 +14,14 @@ model:
     input_trainable: true # whether the input layer is trainable
     input_layer_dropout: 0.2 # dropout rate for the input layer
 
-gpu_number: '1' # GPU number to use for training, formatted as a string (e.g., '0', '1', etc.)
+gpu_number: '0' # GPU number to use for training, formatted as a string (e.g., '0', '1', etc.)
 mode: train
 use_amp: true # whether to use automatic mixed precision (AMP) for training
+
+# Weights & Biases logging
+use_wandb: false # set to true to enable wandb logging
+wandb_project: brain-to-text # wandb project name
+wandb_run_name: null # wandb run name (null for auto-generated)
 
 output_dir: trained_models/baseline_rnn # directory to save the trained model and logs
 checkpoint_dir: trained_models/baseline_rnn/checkpoint # directory to save checkpoints during training
