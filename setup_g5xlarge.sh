@@ -14,12 +14,42 @@ echo "Brain-to-Text Setup for g5.xlarge"
 echo "Working directory: $(pwd)"
 echo "=========================================="
 
-# Use the pre-installed PyTorch environment from the AMI
-# The AMI has PyTorch 2.9 with CUDA already configured
+# Check if conda is available, if not install miniconda
+if ! command -v conda &> /dev/null; then
+    echo ""
+    echo "Conda not found. Installing Miniconda..."
+    wget -q https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O /tmp/miniconda.sh
+    bash /tmp/miniconda.sh -b -p $HOME/miniconda3
+    rm /tmp/miniconda.sh
+
+    # Initialize conda
+    eval "$($HOME/miniconda3/bin/conda shell.bash hook)"
+    conda init bash
+
+    echo "Miniconda installed. Please run: source ~/.bashrc && ./setup_g5xlarge.sh"
+    exit 0
+fi
+
+# Ensure conda is initialized
+eval "$(conda shell.bash hook)"
+
+# Create conda environment
+echo ""
+echo "Creating conda environment 'b2txt25'..."
+conda create -n b2txt25 python=3.10 -y
+
+# Activate environment
+conda activate b2txt25
+
+# Install PyTorch with CUDA 12.4 (compatible with CUDA 13.0 driver)
+echo ""
+echo "Installing PyTorch with CUDA 12.4..."
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
 
 # Verify PyTorch and GPU
-echo "Checking PyTorch installation..."
-python3 -c "import torch; print(f'PyTorch: {torch.__version__}'); print(f'CUDA available: {torch.cuda.is_available()}'); print(f'GPU: {torch.cuda.get_device_name(0) if torch.cuda.is_available() else \"None\"}')"
+echo ""
+echo "Verifying PyTorch installation..."
+python -c "import torch; print(f'PyTorch: {torch.__version__}'); print(f'CUDA available: {torch.cuda.is_available()}'); print(f'GPU: {torch.cuda.get_device_name(0) if torch.cuda.is_available() else \"None\"}')"
 
 # Install additional dependencies
 echo ""
@@ -77,8 +107,9 @@ echo "Setup complete!"
 echo "=========================================="
 echo ""
 echo "To train the model:"
+echo "  conda activate b2txt25"
 echo "  cd model_training"
-echo "  python3 train_model.py"
+echo "  python train_model.py"
 echo ""
 echo "Expected training time: ~8-10 hours on g5.xlarge"
 echo "Expected result: ~10.1% Phoneme Error Rate"
