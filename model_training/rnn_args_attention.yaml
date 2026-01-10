@@ -25,7 +25,7 @@ mode: train
 use_amp: true # whether to use automatic mixed precision (AMP) for training
 
 # Weights & Biases logging
-use_wandb: false # set to true to enable wandb logging
+use_wandb: true # set to true to enable wandb logging
 wandb_project: brain-to-text # wandb project name
 wandb_run_name: null # wandb run name (null for auto-generated)
 
