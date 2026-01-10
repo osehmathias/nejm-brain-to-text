@@ -17,7 +17,7 @@ model:
 # Attention-specific parameters
 attention:
   n_heads: 8 # number of attention heads
-  n_layers: 1 # number of self-attention layers after GRU
+  n_layers: 2 # number of self-attention layers after GRU
   dropout: 0.1 # dropout rate for attention layers
 
 gpu_number: '0' # GPU number to use for training, formatted as a string (e.g., '0', '1', etc.)
