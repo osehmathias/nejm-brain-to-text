@@ -18,6 +18,11 @@ gpu_number: '1' # GPU number to use for training, formatted as a string (e.g., '
 mode: train
 use_amp: true # whether to use automatic mixed precision (AMP) for training
 
+# Wandb logging
+use_wandb: true
+wandb_project: brain-to-text
+wandb_run_name: gru-baseline
+
 output_dir: trained_models/baseline_rnn # directory to save the trained model and logs
 checkpoint_dir: trained_models/baseline_rnn/checkpoint # directory to save checkpoints during training
 init_from_checkpoint: false # whether to initialize the model from a checkpoint
