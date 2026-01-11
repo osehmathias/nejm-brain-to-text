@@ -29,7 +29,7 @@ checkpoint_dir: trained_models/mwer_finetuned/checkpoint
 
 # Initialize from pretrained CTC checkpoint
 init_from_checkpoint: true
-init_checkpoint_path: trained_models/baseline_rnn/checkpoint/best_checkpoint
+init_checkpoint_path: ../data/t15_pretrained_rnn_baseline/checkpoint/best_checkpoint
 
 # Checkpoint settings
 save_best_checkpoint: true
