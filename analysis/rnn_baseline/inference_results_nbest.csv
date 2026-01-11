@@ -1,0 +1,1343 @@
+idx,n_candidates,prediction,ground_truth,time_ms,tokens_in,tokens_out
+0,5,You can see the code at this point as well.,You can see the code at this point as well.,7134.21,468,11
+1,5,How does it keep the cost down?,How does it keep the cost down?,35284.68,379,8
+2,5,Not too controversial.,Not too controversial.,13232.14,301,4
+3,5,The jury and the judge work together on it.,The jury and a judge work together on it.,1388.79,456,10
+4,5,We're quite vocal about it.,Were quite vocal about it.,31862.49,336,6
+5,5,He said the decision to part ways was mutual.,He said the decision to part ways was mutual.,1504.26,494,10
+6,5,"In fact, this morning when they were talking.",In fact this morning when they were talking.,1084.24,431,10
+7,5,This is like a crunchy joke.,This is like a cruelty joke.,17708.62,368,7
+8,5,Has such a high click count.,Has such a high clay content.,24895.14,360,7
+9,5,What working mastery.,Woodworking mastery.,1534.13,299,4
+10,5,"Wait a minute, we know this thing isn't.",Wait a minute we know this thing isn't.,11987.95,419,10
+11,5,Up in New England where I'm from.,Up in New England where I'm from.,1147.37,389,8
+12,5,One thing or the other.,One thing or the other.,870.02,317,6
+13,5,He's one of the big proponents of that.,He's one of the big proponents of that.,801.76,433,9
+14,5,I have not gone back lately.,I have not gone back lately.,724.67,359,7
+15,5,To me it's a treasure.,"To me, it's a treasure.",1360.98,330,6
+16,5,He is also a member of the Royal Academy.,He is also a member of the Royal Irish Academy.,800.59,477,10
+17,5,I guess I like to take care of it.,I guess I like to take care of it.,938.74,414,10
+18,5,Put that back in the substan.,Put that back in the saucepan.,913.12,360,8
+19,5,He does the yard.,He does the yard.,827.67,294,5
+20,5,You just really can't tell what's going to happen.,You just really can't tell what's going to happen.,825.22,468,10
+21,5,And who is in charge of making that decision?,And who is in charge of making that decision?,804.64,462,10
+22,5,Not for the job I have now.,Not for the job I have now.,1069.22,373,8
+23,5,It's really not too difficult.,It's really not too difficult.,14042.31,335,6
+24,5,Closures should never happen.,Collisions should never happen.,737.36,328,6
+25,5,I'm trying to think.,I'm trying to think.,849.01,294,5
+26,5,Employee contrary.,Employee controller.,647.3,290,3
+27,5,Bacon and all that good stuff.,Bacon and all that good stuff.,836.9,369,8
+28,5,If you look back.,If you look back.,8059.33,288,5
+29,5,And it also helps when they were reading.,And it also helps when they were winning.,809.19,418,9
+30,5,She came last June and worked a grave in the same town.,She came last June and watched a game in the sky dome.,893.72,515,13
+31,5,"For me, I had no choice but to move.","For me, I had no choice but to move.",858.6,429,11
+32,5,Then its twice as hard.,Then it's twice as hard.,608.81,320,6
+33,5,I can't really complain.,I can't really complain.,681.9,321,5
+34,5,When I do recipes I just throw stuff in.,When I do recipes I just throw stuff in.,781.4,456,10
+35,5,They originally released him.,They recently released him.,702.69,332,5
+36,5,One year public service for everybody.,One year public service for everybody.,784.46,409,7
+37,5,It's an eighty-seven degree day.,It's an eighty seven degree day.,817.69,371,7
+38,5,I don't know if they do it all over.,I don't know if they do it all over.,1054.93,409,10
+39,5,Employing benefits.,Employee Benefits.,670.41,284,4
+40,5,How long are we supposed to talk for?,How long are we supposed to talk for?,801.08,419,9
+41,5,You start to take pleasure in it.,You start to take pleasure in it.,716.62,391,8
+42,5,They had us fill out a loan questionnaire.,They had us fill out a long questionnaire.,749.99,424,9
+43,5,We've had our way of life.,We've had our way of life.,699.07,346,7
+44,5,His side of the family.,His side of the family.,753.34,333,6
+45,5,Good to hear from you.,Good to hear from you.,6367.97,330,6
+46,5,I don't know where the answer is.,I don't know where the answer is.,713.33,372,8
+47,5,Where did you get the car?,Where'd you get the car?,676.78,318,7
+48,5,And you pet around it.,And you paint around it.,732.42,321,6
+49,5,Crime is too much.,Crime is too much.,728.47,295,5
+50,5,House robberies.,House robberies.,797.68,259,4
+51,5,The Grand Canyon.,The Grand Canyon.,630.47,279,4
+52,5,The experience.,The experience.,703.17,270,3
+53,5,He said it's been saying one more.,He said he's been saying one more.,728.02,389,8
+54,5,I can't really think of anything else offhand.,I can't really think of anything else offhand.,893.27,445,10
+55,5,I couldn't even think of what you call them.,I couldn't even think of what you call them.,808.89,459,10
+56,5,I grew up water skiing.,I grew up water skiing.,767.45,329,6
+57,5,They waited a couple years.,They waited a couple years.,626.43,336,6
+58,5,I have a cold one.,I have a gold one.,797.81,311,6
+59,5,There's not a whole lot.,There's not a whole lot.,655.66,320,6
+60,5,There was no word on casualties.,There was no word on casualties.,919.23,386,7
+61,5,It kind of calmed down.,It kind of wound down.,755.85,326,7
+62,5,But my boss won't pay for it.,But my boss wouldn't pay for it.,790.93,384,8
+63,5,My mother was complaining last year about that.,My mother was complaining last year about that.,865.59,456,9
+64,5,Very scary to see what they found out.,Very scary to see what they found out.,837.26,430,9
+65,5,Not too much soy sauce.,Not too much soy sauce.,686.48,322,6
+66,5,He put up all of his pastries.,He put up all of his ash trays.,798.15,401,8
+67,5,He didn't just say.,He didn't just say.,830.06,313,5
+68,5,If there was a credible punishment.,If there was a credible punishment.,726.01,399,7
+69,5,In the previous version.,In the previous version.,602.62,326,5
+70,5,Was it third of December?,Was it third of December?,936.07,334,6
+71,5,Envision of formal.,Invasion of Burma.,626.27,294,5
+72,5,I guess we don't really use that many ten cats.,I guess we don't really use that many tin cans.,955.26,492,11
+73,5,"We're all sat down together, family.",We're a sit down together family.,821.82,389,8
+74,5,I'm originally from Maine.,I'm originally from Maine.,685.95,327,5
+75,5,He had a heart attack.,He had a hot pad.,687.16,314,6
+76,5,Sometimes they're not very open.,Sometimes they're not very open.,634.94,360,6
+77,5,Right now I'm getting about sixty bucks a month.,Right now I'm getting about sixty bucks a month.,787.67,464,10
+78,5,That kind of case matches.,That kind of gas mileage.,826.74,337,6
+79,5,He won't do that yet.,He won't do that yet.,816.67,324,6
+80,5,I mean it's dying now.,I mean it's dying now.,824.24,324,6
+81,5,It was written many years ago.,It was written many years ago.,777.92,381,7
+82,5,Do you go by the ads when you look at them?,Do you go by the ads when you look at them?,975.45,474,12
+83,5,Do you get cable?,Do you get cable?,697.79,297,5
+84,5,And these gets back to capital punishment.,And this gets back to capital punishment.,813.77,438,8
+85,5,Here are some key points from the briefing.,Here are some key points from the briefing.,825.84,447,9
+86,5,Not even since a week.,Ninety seven cents a week.,749.08,345,6
+87,5,We started taking her.,We started taking her.,723.93,325,5
+88,5,So thank you for not using the exploit.,So thank you for not using the exploit.,880.25,441,9
+89,5,Their accomplishments are a little bit weak.,Their economy's a little bit weak.,759.03,398,8
+90,5,Employees will not get any severance pay.,Employees will not get any severance pay.,17040.06,442,9
+91,5,I really feel bad for the people I see there.,I really feel bad for the people I see there.,1037.35,481,11
+92,5,Even in my case.,Even in my case.,959.75,292,5
+93,5,According to the judicial system.,According to the judicial system.,716.08,381,6
+94,5,Afford the payments on a used car.,Afford the payments on a used car.,785.35,395,9
+95,5,Couple of hundred kids in the band.,Couple of hundred kids in the band.,728.91,402,9
+96,5,I found that really helps.,I found that really helps.,803.69,341,6
+97,5,That sort of stuff.,That sort of stuff.,614.55,305,5
+98,5,We went to Colorado Springs.,We went to Colorado Springs.,790.24,361,6
+99,5,"No, it doesn't bother me at all.",Now it doesn't bother me at all.,744.72,388,9
+100,5,Don't have enough money.,Don't have enough money.,817.77,322,5
+101,5,But I haven't told my husband.,But I haven't told my husband.,689.66,380,7
+102,5,I have some neighbors across the field.,I have some neighbors across the field.,745.68,400,8
+103,5,Have some part of the law.,Have some part of the law.,716.53,349,7
+104,5,Once the children were grown.,Once the children were grown.,643.43,344,6
+105,5,Special to the Detroit Free Press.,Special to the Detroit Free Press.,785.43,393,7
+106,5,I'm doing all right.,I'm doing all right.,719.37,294,5
+107,5,I guess it's close enough.,I guess it's close enough.,55445.29,327,6
+108,5,A good appearance to do a good job there you work.,A good appearance to do a good job where you work.,875.36,498,12
+109,5,People don't make more money.,People donate more money.,691.73,336,6
+110,5,People put them in.,People put them in.,836.33,304,5
+111,5,Every time I do something.,Every time I do something.,952.72,330,6
+112,5,Is there a basis for it?,Is there a basis for it?,708.36,349,7
+113,5,I think because it costs less.,I think because it costs less.,905.14,359,7
+114,5,It's a heavy eight.,It's a eighty eight.,690.36,285,5
+115,5,Things are free enough.,Things are free enough.,741.03,308,5
+116,5,At the time you hired on with this company.,At the time you hired on with this company.,2157.58,456,10
+117,5,For the things that we want.,For the things that we want.,694.04,357,7
+118,5,"Trimming season is upon you, boys.",Streaming season is opening boys!,822.35,369,9
+119,5,It's already done for you.,It's already done for you.,651.08,343,6
+120,5,He had been in that position for years.,He had been in that position for years.,802.85,434,9
+121,5,"Outside the building, it's not bad.",Outside the building it's not bad.,718.35,376,8
+122,5,"The victims, families and things.",The victims' families and things.,839.32,367,7
+123,5,I don't want to do anything.,I don't want to do anything.,709.49,367,7
+124,5,"You know, I don't know.",You know I don't know.,728.72,309,7
+125,5,It's difficult to really say why.,It's difficult to really say why.,984.33,380,7
+126,5,There was a voice in her head.,There was a voice in her head.,817.63,371,8
+127,5,Lawmakers passed a measure last year.,Lawmakers passed a measure last year.,720.92,385,8
+128,5,I'd be furious.,I'd be curious.,642.48,279,4
+129,5,We ended up watching it for a couple of hours.,We ended up watching it for a couple of hours.,921.07,463,11
+130,5,You live in Karl.,You live in Garland.,724.84,271,5
+131,5,Anything on that.,Anything on that.,675.78,272,4
+132,5,He's never gone away.,He's never gone away.,818.78,301,5
+133,5,What will be a luxury in the future?,What will be a luxury in the future?,737.02,411,9
+134,5,I was really working with the middle class.,I was really working with the middle class.,934.76,412,9
+135,5,You have to get everything replaced.,You have to get everything replaced.,683.82,393,7
+136,5,There would be no way to do it.,There would be no way to do it.,899.52,397,9
+137,5,What is it called?,What is it called?,687.76,282,5
+138,5,They do take up a lot of your time.,They do take up a lot of your time.,869.35,416,10
+139,5,I'm still going.,I'm still going.,610.65,266,4
+140,5,What would you find if you just kept on going?,What would you find if you just kept on going?,920.44,475,11
+141,5,Helps them understand the world.,Helps them understand the world.,678.33,348,7
+142,5,I do study what's going on in the economy.,I do study what's going on in the economy.,1266.54,466,10
+143,5,I like that they run tests.,I like that they run tense.,818.6,335,7
+144,5,Just like how you said my father way.,Just like how you said my father was.,819.79,395,9
+145,5,You're going to get it.,You're going to get it.,714.04,300,6
+146,5,Guided by verses.,Guided by voices.,924.42,281,5
+147,5,When was the last time we measured you?,When was the last time we measured you?,716.74,424,9
+148,5,I wouldn't want him to win Best Actor on top of it.,I wanted him to win best actor on top of it.,803.83,491,13
+149,5,I heard this on a French program.,I heard this on a Christian program.,830.39,401,8
+150,5,The property title.,The Bermuda Triangle.,613.94,281,4
+151,5,He's ten years old.,He's nine months old.,820.89,297,5
+152,5,It is like a country.,It is like a country.,716.26,317,6
+153,5,A male profession.,A male profession.,817.4,260,4
+154,5,The lettuce grew inside.,The islanders sleep inside.,1111.59,310,5
+155,5,They are the Detroit Tigers.,They are the Detroit delegates.,766.89,327,6
+156,5,They have coupons.,They have coupons.,782.67,257,4
+157,5,I get milk at the can.,I can't believe they can.,920.8,278,7
+158,5,You just have to keep buying them.,You just have to keep buying them.,705.15,380,8
+159,5,In a new house everything is hot.,In a new house everything is white.,680.35,371,8
+160,5,Easiest way out maybe.,Easiest way out maybe.,820.26,302,7
+161,5,That will have some other problems.,That will help solve our problems.,761.53,356,7
+162,5,What kind of things do you think can be done?,What kind of things do you think can be done.,727.13,468,11
+163,5,I try to make sure.,I try to make sure.,808.0,310,6
+164,5,There are also these various disclosures.,There are also these various disclosures.,717.2,385,7
+165,5,Enjoy the holidays.,Enjoy the Holidays.,571.33,286,4
+166,5,No easy choice.,No easy choices.,759.63,270,4
+167,5,Drunk drivers kill people.,Drunk drivers kill people.,666.44,335,6
+168,5,"On probation or parole and killed someone, eh.",On probation or parole and killed someone else.,890.76,431,10
+169,5,This brings me to the next point.,This brings me to the next point.,911.78,400,8
+170,5,I don't think they're in a conspiracy.,I don't think they're in a conspiracy.,803.7,386,8
+171,5,A million dollars a year.,A million dollars a year.,821.71,307,6
+172,5,"Dress, traps, budget is just a propeller at this point.",Trump's budget is just a proposal at this point.,971.68,516,14
+173,5,We've had one as long as I can remember.,We've had one as long as I can remember.,886.21,436,10
+174,5,"However, there is one key point to keep in mind.","However, there is one key point to keep in mind.",779.3,480,12
+175,5,It's working up to a year now.,It's working up to a year now.,1278.27,374,8
+176,5,A house full of snow.,A house full of snow.,1096.24,312,6
+177,5,All those European countries.,All those European countries.,714.24,348,5
+178,5,All of those things that one does with kids.,All of those things that one does with kids.,820.19,448,10
+179,5,That aren't getting taught at home.,That aren't getting taught at home.,819.1,364,7
+180,5,That's what they said.,That's what they said.,764.95,298,5
+181,5,That's year of eighty one.,Tax year of eighty one.,666.47,325,6
+182,5,That's a big concern if you live there.,That's a big concern if you live there.,800.72,417,9
+183,5,So the doctor elected to have her.,So the doctor elected to have her.,726.69,396,8
+184,5,Did they mail that to you?,Did they mail that to you?,827.85,344,7
+185,5,Team would like to take on other chores.,Tim would like to take on other genres.,899.47,422,9
+186,5,Can't give up on it.,Can't give up on it.,838.52,321,6
+187,5,Through the newspaper reviews.,Through the newspaper reviews.,614.94,323,5
+188,5,We should see to our own life.,We should see to our own lives.,1041.29,367,8
+189,5,What have you seen?,What have you seen?,901.89,298,5
+190,5,What do you like to do this time of year?,What do you like to do this time of year.,788.97,453,11
+191,5,She didn't announce that to you.,She didn't announce that to you.,818.85,374,7
+192,5,I never even knew that.,I never even knew that.,731.26,330,6
+193,5,There was one other person besides myself.,There was one other person besides myself.,746.77,416,8
+194,5,You don't have to hide it either.,You don't have to hide it either.,750.83,384,8
+195,5,"No, you can't get all of us.",You can't get all of us.,750.87,365,9
+196,5,I think the newsman.,I think the newsmen.,700.16,303,6
+197,5,That's understandable.,That's understandable.,618.43,282,3
+198,5,We see them at least once a week.,We see them at least once a week.,772.55,418,9
+199,5,That was a shocker to me.,That was a shocker to me.,794.17,346,8
+200,5,"It came out, I guess, about a month.",It came out I guess about a month.,1122.99,400,11
+201,5,I saw all seven games of that.,I saw all seven games of that.,718.35,379,8
+202,5,The decision was not even close.,The decision was not even close.,716.26,391,7
+203,5,We always seem to.,We always seem to.,745.29,307,5
+204,5,The house payment.,The house payment.,787.82,275,4
+205,5,Tactical decision.,Tactical decision.,817.84,281,4
+206,5,That's what's happening here.,That's what's happening here.,663.47,331,5
+207,5,They have a lot of cattle in the area.,They have a lot of cattle in the area.,803.06,432,10
+208,5,That's one of the biggest ones I've seen.,That's one of the biggest ones I've seen.,884.65,431,9
+209,5,My name is Pat Johnson and I live in Texas.,My name is Pat Johnson and I live in Texas.,714.8,477,11
+210,5,They can if they want to.,They can if they want to.,836.22,341,7
+211,5,A liberal arts school.,A liberal arts school.,696.7,330,5
+212,5,In the Houston area.,In the Houston area.,827.54,312,5
+213,5,What kind of puppy you got?,What kind of puppy you got?,920.66,361,7
+214,5,Got into it when I was young.,Got into it when I was young.,818.06,377,8
+215,5,It's depressing too.,It's depressing too.,716.28,288,4
+216,5,They live with us.,They live with us.,720.53,288,5
+217,5,He's just goofing off like he always has.,He's just goofing off like he always has.,1325.48,447,11
+218,5,It's nothing like what it used to be.,It's nothing like what it used to be.,689.26,419,9
+219,5,We try to do one thing once a year.,We try to do one thing once a year.,857.56,432,10
+220,5,You can come and go as you please.,You can come and go as you please.,703.38,402,9
+221,5,You just called him direct.,You just call him direct.,719.21,343,6
+222,5,You can have a variety.,You can have a variety.,673.18,332,6
+223,5,You have to fly through.,You have to fly through.,863.47,316,6
+224,5,Just the regular channel.,Just the regular channel.,815.52,312,5
+225,5,He plays pretty regularly.,He plays pretty regularly.,819.47,346,5
+226,5,You don't feel super cold.,You don't feel super cold.,602.15,336,6
+227,5,What are the problems with public education?,What are the problems with public education?,833.06,450,8
+228,5,Who will know point in plainly on the past.,"Oh well, no point in dwelling on the past.",816.43,446,10
+229,5,You have to pay the interest.,You have to pay the interest.,898.55,366,7
+230,5,I'm old fashioned.,I'm old fashioned.,736.96,277,4
+231,5,It's just a matter of passing the law.,It's just a matter of passing the law.,919.94,413,9
+232,5,You already departed.,Zoology department.,719.48,287,4
+233,5,Not that she will remember them.,Not that she will remember them.,793.87,378,7
+234,5,It didn't matter.,It didn't matter.,741.4,275,4
+235,5,That's still not enough for a total.,That's still not enough for a total.,919.82,398,8
+236,5,I'm not saying that they were.,I'm not saying that they were.,780.24,353,7
+237,5,Pay an exact amount and you know.,Pay and exhaustion and you know.,858.64,361,8
+238,5,All my aunts and uncles.,All my aunts and uncles.,693.32,312,8
+239,5,A restaurant that employs minority.,A restaurant that employs minorities.,723.28,363,6
+240,5,It's just one story.,It's just one story.,699.1,326,5
+241,5,There was one point I was going to make.,There was one point I was going to make.,790.73,448,10
+242,5,I have full energy when I am in social situations.,I have more energy when I exercise.,804.56,437,11
+243,5,Probably seventy.,Probably seventies.,892.62,279,3
+244,5,The court is yet to make its decision public.,The court is yet to make its decision public.,818.86,475,10
+245,5,He's not that old.,He's not that old.,737.62,297,5
+246,5,He's an indoor cat.,He's an indoor cat.,695.72,305,5
+247,5,It's a number.,It's a nightmare.,717.48,265,4
+248,5,That kind of threw them off.,That kind of threw them off.,1737.98,353,7
+249,5,I'm mostly the easy cooker.,I'm mostly the easy cooker.,819.82,354,6
+250,5,It's not anything like Kansas.,It's not anything like Kansas.,797.56,357,6
+251,5,We're within walking distance.,We're within walking distance.,839.51,335,5
+252,5,I don't care for that at all.,I don't care for that at all.,717.41,368,8
+253,5,That's a private dinneration.,That's a previous generation.,1433.65,329,6
+254,5,I get great satisfaction eating it.,I get great distance hitting it.,730.05,366,7
+255,5,The kids like to go.,The kids like to go out.,608.57,334,6
+256,5,I can eat right after high school.,I got it right after high school.,725.49,375,8
+257,5,Regime change in Iran.,Regime change in Iran.,1132.25,315,6
+258,5,As far as that goes.,As far as that goes.,716.34,315,6
+259,5,Not in terms of north and south.,Not in terms of north and south.,838.05,387,8
+260,5,A few minutes ago.,A few minutes ago.,777.72,310,5
+261,5,He was a curry.,He was a courier.,724.63,296,5
+262,5,We didn't do it that very much.,We didn't do it very much.,704.78,397,8
+263,5,It's not at all anything worth talking about.,It's not at all anything worth talking about.,819.9,441,9
+264,5,They can pretty much get everybody there.,They can pretty much get everybody there.,712.77,431,8
+265,5,Have their place robbed and everything.,Have their bellies rubbed and everything.,687.46,400,7
+266,5,Go over there.,Go over there.,813.91,267,4
+267,5,Was this his entire family?,Was this his entire family?,751.46,360,6
+268,5,Is she going to stay home?,Is she going to stay home?,808.76,356,7
+269,5,I look at homemaking as a job also.,I look at homemaking as a job also.,842.34,408,10
+270,5,My family's not very big.,My family's not very big.,702.29,355,6
+271,5,They are napping at times.,They are tempting at times.,710.67,331,7
+272,5,You'll have one or two that are good.,You'll have one or two that are good.,827.47,401,9
+273,5,But a trap in your moving.,Put a cramp in your viewing.,816.2,348,7
+274,5,The vines are really taking over.,The vines are really taking over.,817.55,366,7
+275,5,"Governor, the people of Detroit don't forget.","Governor, the people of Detroit don't forget.",959.1,441,9
+276,5,Seven or something like that.,Seven or something like that.,671.29,347,6
+277,5,Join the gang.,Join the gang.,828.8,265,4
+278,5,I have a standard.,I have a standard.,717.7,294,5
+279,5,I don't want any interruptions.,I don't want any interruptions.,744.83,359,6
+280,5,I love all the winners that they have out now too.,I love all the windows that they have out now too.,890.53,484,12
+281,5,You know I don't.,You know I don't.,714.86,284,5
+282,5,It'll go through the lot.,It'll go through the slot.,714.68,320,7
+283,5,A fine profession.,A fine profession.,660.87,280,4
+284,5,All the money.,All the money.,652.79,274,4
+285,5,The thing that should be.,The thing that should be.,732.59,320,6
+286,5,If you are convinced that it is the right choice.,If you are convinced that it is the right choice.,884.84,474,11
+287,5,Because that's perfectly clean.,Because that's perfectly clean.,804.36,348,5
+288,5,Make him feel like he wasn't wanted.,Make him feel like he wasn't wanted.,769.24,423,8
+289,5,We decided to stay.,We decided to stay.,716.82,312,5
+290,5,They're just so substantial.,They're just so suspenseful.,736.42,335,5
+291,5,I don't like administration.,I don't like administration.,1210.35,336,5
+292,5,Did you have to do that?,Did you have to do that?,816.59,342,7
+293,5,I really enjoy that team.,I really enjoy that team.,785.36,351,6
+294,5,I can't think of his name now.,I can't think of his name now.,887.22,373,8
+295,5,"In fact, the first year we were married.",In fact the first year we were married.,886.07,430,10
+296,5,I've got a two year old.,I've got a two year old.,705.33,335,7
+297,5,That's what the different types are.,That's what the different types are.,831.07,375,7
+298,5,When I came back here.,When I came back here.,795.38,325,6
+299,5,Because she makes clothes.,Because she makes clothes.,738.0,321,5
+300,5,I don't bother them or anything.,I don't water them or anything.,819.5,371,7
+301,5,I did well in school.,I did well in school.,716.86,321,6
+302,5,A producer of movies in Baltimore called.,A producer of movies in Baltimore called.,715.23,428,8
+303,5,Just all different colors.,Just all different colors.,755.0,329,5
+304,5,Barbecues and Mexican food.,Barbecues and Mexican food.,833.89,339,7
+305,5,Can calculate illusions on that.,Congratulations on that.,764.3,317,6
+306,5,Especially not in some of these big cities.,Especially not in some of these big cities.,760.81,456,9
+307,5,Snuggle up to you.,Snuggle up to you.,733.84,298,6
+308,5,I don't know if you've heard of her.,I don't know if you've heard of her.,787.28,399,9
+309,5,But bringing the party together will be easier said than done.,But bringing the party together will be easier said than done.,873.07,565,12
+310,5,I have seen so many who know that God has not given us a spirit of fear.,I have seen so many who know that God has not given us a spirit of fear.,958.14,691,18
+311,5,I try to improvise it.,I try to embrace it.,809.81,323,7
+312,5,We all know that unfortunately schools are not always the safest places.,"We all know that, unfortunately, schools are not always the safest places.",792.86,611,13
+313,5,Thank you for signing up.,Thank you for signing up.,835.33,329,6
+314,5,This is the price paid for counting hens rather than chicken eggs.,This is the price paid for counting eggs rather than chicken embryos.,920.53,578,13
+315,5,Classy grew up on a family farm where he still works.,"Grassley grew up on a family farm, where he still works.",922.5,542,13
+316,5,We decided to ask them.,We decided to ask them.,818.22,339,6
+317,5,And everyone involved in the case bore the jury and been here before.,"And everyone involved in the case, bar the jury, had been here before.",879.41,619,14
+318,5,A truck is positioned below the tanks.,A dog is featured below the text.,805.62,391,8
+319,5,"Also, so you need to put away the milk and cereal.","Oh, so you need to put away the milk and cereal?",910.62,516,13
+320,5,"Everything Trump wants to do, there comes everything Trudeau wants to do too.",Everything Trump wants to do threatens everything Trudeau wants to do.,885.3,577,15
+321,5,Peter was in bed when I walked into the bedroom.,Peter was in bed when I walked into the bedroom.,788.67,493,11
+322,5,How does she live with herself?,How does she live with herself?,890.67,367,7
+323,5,I'm not even disputing the results of the poll.,I'm not even disputing the results of the board.,1241.32,487,11
+324,5,And Irkan say and not turned north that.,And Hurricane Jose had not turned north yet.,814.25,444,10
+325,5,The two have since taken some steps towards a rapprochement.,The two have since taken some steps toward a rapprochement.,795.28,525,12
+326,5,But there have often been times when talking has been a problematic issue.,But there have often been times when Turkey has been a problematic ally.,922.78,612,14
+327,5,Check out the new sales ads.,Check out the new Sales items!,892.5,362,7
+328,5,I just two start there and sort it all up.,I just stood there and soaked it all up.,815.62,462,11
+329,5,That's a good way to get started.,That's a good way to get started.,716.72,395,8
+330,5,I was on trenches.,I was on crutches.,756.83,301,5
+331,5,When you stop to think of it.,When you stop to think of it.,781.78,369,8
+332,5,It can be used to hassle somebody.,It could be used to hassle somebody.,819.52,419,8
+333,5,America is losing it.,America is losing it.,731.52,314,5
+334,5,I don't know whether you did yours first.,I don't know whether you did yours first.,900.93,412,9
+335,5,The sticking cloud grows under the carpet.,The sticky slide rugs under the carpet.,732.03,422,8
+336,5,I think the majority are in that.,I think the majority are in that.,830.11,396,8
+337,5,The people I know are from there.,The people I know are from there.,733.18,384,8
+338,5,I haven't seen too many lately.,I haven't seen too many lately.,815.74,389,7
+339,5,I've only seen him in funny stuff.,I've only seen him in funny stuff.,728.92,408,8
+340,5,For a different section.,For a different section.,668.09,323,5
+341,5,Their mother was sick at times.,Their mother was sick at times.,744.65,365,7
+342,5,Welton and had no regrets about her decision.,Wilkinson had no regrets about her decision.,832.28,451,10
+343,5,My three year old.,My three year old.,686.71,296,5
+344,5,I really just started.,I really just started.,670.36,330,5
+345,5,If you're on a trip or something.,If you're on a trip or something.,2247.02,383,8
+346,5,She handles it pretty well.,She handles it pretty well.,678.82,351,6
+347,5,We ran into some problems.,We ran into some problems.,746.34,347,6
+348,5,I just got the new issue.,I just got the new issue.,1068.79,346,7
+349,5,You'll still see people.,You'll still see people.,715.02,319,5
+350,5,To separate the news from the comment.,To separate the news from the comment.,1188.11,406,8
+351,5,Like the old oak whizzes.,Like the old Hank Williams.,688.49,323,7
+352,5,I would work in the summer.,I would work in the summer.,785.11,344,7
+353,5,Taylor introduced this to confirmation bias.,Taylor attributed this to confirmation bias.,716.23,442,7
+354,5,"We apologize, but this video was found too late.","We apologize, but this video has failed to load.",1390.83,487,11
+355,5,"Go talk to her in the lobby, I'll be right down.","Go talk to her in the lobby, I'll be right down!",1168.23,491,13
+356,5,This project has been a real team effort.,This project has been a real team effort.,1022.43,439,9
+357,5,This is 18 Powers Revised.,This is headache powders revisited.,791.71,369,7
+358,5,Understanding the global classroom.,Understanding the mobile landscape.,846.34,353,5
+359,5,Trump has nominated William Barr as the next Attorney General.,Trump has nominated William Barr as the next attorney general.,920.24,555,11
+360,5,"Basically, things of similar temperament should be made for such incidents.",Pasquale thinks a similar argument should be made for search engines.,1025.29,594,13
+361,5,The Hercules and Rebel Steak medals are handed here.,The Hercules and rainbow stag beetles are highlights here.,1020.34,518,10
+362,5,A visual comparison of various distances.,A Visual Comparison of Various Distances,756.54,462,7
+363,5,I could hear my accelerated breathing.,I could hear my accelerated breathing.,978.35,404,7
+364,5,Which Amica gives impressed you it terms of complexity or technical tricks?,Which Amiga games impressed you in terms of gameplay or technical tricks?,784.13,600,14
+365,5,Also at that game we were starting to hate each other a little bit.,"Also, at that time we were starting to hate each other a little bit.",914.81,601,15
+366,5,Are either or both dogs considered dangerous under Davis County ordinances?,Are either or both dogs considered dangerous under Davis County ordinance?,925.78,588,13
+367,5,Carted and difficulty calculations.,Target and Difficulty Calculations,861.36,389,6
+368,5,What is the big deal anyway?,"What is beef jerky, anyway?",816.24,364,7
+369,5,"But even at its most challenging, the concept is simple.","But even at its most scientific, the concept is simple.",790.7,534,12
+370,5,Are they the same there?,Are they the same there?,1654.59,315,6
+371,5,Is it a government or a real concern of importance?,Is it a novelty or a real coin of importance?,1344.04,500,11
+372,5,Water into this bowl.,Water into this bowl.,5001.27,313,5
+373,5,We just left it alone.,We just left it alone.,837.01,342,6
+374,5,Trying to find someone at home.,Trying to find someone at home.,759.69,382,7
+375,5,Sort of like an exchange program.,Sort of like an exchange program.,773.37,391,7
+376,5,I don't know how we could make it more fair.,I don't know how we could make it more fair.,955.77,455,11
+377,5,Better than Europe.,Better than Europe.,1088.21,279,4
+378,5,To go out fishing in a boat.,To go out fishing in a boat.,1545.04,367,8
+379,5,About four hundred showed up.,About four hundred showed up.,3399.06,344,6
+380,5,We came from living in a condo for nine years.,We came from living in a condo for nine years.,1201.24,499,11
+381,5,I never quite found a New York fan.,I never quite found a New York fan.,1469.26,412,9
+382,5,Before you realize anything is going on.,Before you realize anything is going on.,4367.28,422,8
+383,5,When I'm up here.,When I'm up here.,694.89,292,5
+384,5,I never go to the fiction section.,I never go to the fiction section.,1557.35,396,8
+385,5,"Our sleeping bags, I guess.",Our sleeping bags I guess.,6416.22,327,7
+386,5,She things like that.,See things like that.,752.1,301,5
+387,5,I don't get that.,I don't get that.,1646.04,295,5
+388,5,We're going to have to do something.,We're going to have to do something.,1266.84,396,8
+389,5,I wasn't really.,I wasn't really.,837.88,285,4
+390,5,We think it's good.,We think it's good.,672.11,302,5
+391,5,It is in agreement with its provisions.,It is in agreement with its provisions.,9301.33,433,8
+392,5,I can really tell the difference.,I can really tell the difference.,717.82,375,7
+393,5,The last book I read.,The last book I read.,1073.32,320,6
+394,5,Almost like a darling.,Almost like a tingling.,863.09,308,5
+395,5,I think that could work as a toy.,I think that could work as a toy.,817.23,401,9
+396,5,I noticed those texts.,I noticed those dogs.,6211.15,305,5
+397,5,Those games are fun to watch.,Those games are fun to watch.,1674.59,354,7
+398,5,Things of that nature which made us feel good.,Things of that nature which made us feel good.,808.02,451,10
+399,5,What kind of dog do you have?,What kind of dog do you have.,830.2,379,8
+400,5,They are going to get a gun no matter what.,They are going to get a gun no matter what.,804.8,452,11
+401,5,A little bit of autocracy of themselves.,A little brief autobiography of themselves.,956.63,435,9
+402,5,The news was first reported by Dighton Alumnate.,The news was first reported by Deadline Hollywood.,1657.37,467,12
+403,5,Students do not like this response.,Students do not like this response.,772.85,387,7
+404,5,There are no more vehicles parked on the map.,There are no more vehicle tokens spread across the map.,874.04,495,10
+405,5,Where is the evidence that they possess consciences?,Where is the evidence that they possess consciousness?,974.04,447,10
+406,5,"Nevertheless, I run my house as I get up.",Nevertheless I roll my eyes as I get up.,689.0,433,11
+407,5,"People will do humiliating, grotesque things for attention.","People will do humiliating, grotesque things for ambition.",844.07,505,12
+408,5,Several correspondents had their notebooks searched.,Several correspondents had their notebooks searched.,1623.74,439,8
+409,5,They set off ambulances to start new cancer calls.,They send off emissaries to start new cancer colonies.,703.05,487,11
+410,5,You actually look forward to quizzes or records reading your coupon.,You actually look forward to foxes or raccoons raiding your garbage.,821.48,585,12
+411,5,It was given to you the minute you cast your ballot.,It was given to you the minute you cast your ballot.,922.42,516,12
+412,5,"Check out eBay, Craigslist, and other online sites for deals.","Check out eBay, Craigslist and other online sites for deals.",840.33,549,14
+413,5,Sign up for our daily newsletter of the top stories in Curry County.,Sign up for our daily newsletter of the top stories in Courier country.,1603.88,615,14
+414,5,Such things are a violation of the UN Charter.,Such threats are a violation of the UN Charter.,814.73,473,10
+415,5,Never makes a moment.,Never miss a moment!,7923.67,311,5
+416,5,He is not making any major changes for the remotes.,He is not making any major changes for the rematch.,835.94,526,12
+417,5,Works is the implication of blame.,Worse is the implication of blame.,1618.78,384,7
+418,5,I didn't buy a ticket.,I didn't buy a kit.,718.01,315,6
+419,5,What they have children over here.,Once they have children over here.,776.09,376,7
+420,5,My husband and all the men.,My husband and all the men.,741.91,358,7
+421,5,To ask automakers for more jobs won't work.,To ask automakers for more jobs won't work.,835.74,450,10
+422,5,I like just looking at the people.,I like just looking at the billboards.,920.16,407,8
+423,5,That's true of any sport.,That's true of any sport.,716.82,344,6
+424,5,I would not mind it.,I would not mind it.,715.39,314,6
+425,5,I'm concerned.,I'm concerned.,716.96,250,3
+426,5,The motivation isn't there for a lot of people.,The motivation isn't there for a lot of people.,1732.12,483,10
+427,5,So you enjoy gardening.,So you enjoy gardening?,1440.48,323,5
+428,5,She wheeled it out on a cart.,She wheeled it out on a cart.,746.13,368,9
+429,5,Thanks for airing my rap.,Thanks for hearing me rap.,789.3,346,6
+430,5,We're living longer and people are less trusting.,We're living longer and people are less trusting.,921.96,465,9
+431,5,The choice is yours.,The choice is yours.,860.58,295,5
+432,5,Take off and leave your group and go explore.,Take off and leave your group and go explore.,981.27,461,10
+433,5,Are you recycling?,Are you recycling?,670.43,288,4
+434,5,Healthing vision.,Healthy vision.,864.8,263,4
+435,5,They was just bad side effects.,They was just bad side effects.,819.18,382,7
+436,5,I just bought a new house.,I just bought a new house.,766.54,344,7
+437,5,It's like we've lost our values in this country.,It's like we've lost our values in this country.,869.97,481,10
+438,5,It is time we made that decision together.,It is time we made that decision together.,835.79,448,9
+439,5,So many of them nowadays.,So many of them nowadays.,699.48,346,6
+440,5,"Basically, the guy confessed.",Basically the guy commits.,712.55,325,6
+441,5,So it's been real fun here to see.,So it's been real fun here to see.,718.77,417,9
+442,5,Stop spreading mathematics deeply nonsense.,shop spraying mathematics developing nashville,719.9,426,6
+443,5,Casualty communication are a first response call scroll.,casualty communism argue frost receptacle scroll,785.35,495,11
+444,5,Supported according to her own words.,supported according key arrive crush,764.38,367,7
+445,5,Making traditional used flat.,playing traditional used flat,639.36,337,5
+446,5,Kirkos Teves dollars concentration wins temporarily.,turquoise teams dollars concentration wind's stupidly,823.01,467,10
+447,5,"Pass against little action, crap stick.",pops against idol accurate crop steak,866.87,394,8
+448,5,It during slows and everyone.,kept touring shallows hang everyone,722.97,364,6
+449,5,There's news arning by comment.,terms news earning by commitment,767.65,359,7
+450,5,Grandparents examine throw stays.,grandparents engagement throw stage,868.44,351,6
+451,5,Help diplomatically please rephrase names.,elk diplomatic plates reimbursed names,758.47,391,8
+452,5,First three clips done.,first terror slips done,1335.46,316,5
+453,5,"High yields, blooming, coming up in your tank.",ice hairs blooming coming opinion take,800.97,402,11
+454,5,"Semester's plays lean sales, fertilizers, dementia.",semesters plans lean zales fertilizers dementia,1349.75,438,10
+455,5,Grade nuclear Arab access destroying.,grade nucleus arrive excess destroying,838.83,395,6
+456,5,My sight seeing goes mainly.,bonsai meeting ghost mainly,707.11,334,6
+457,5,Resale telling serious understanding moral.,resale telling serious understanding moral,1684.98,420,7
+458,5,"Democratically, Matos is common crowd paint.",democratically reduces carbon cramped baked,1706.27,413,11
+459,5,We're paying basketball people.,We're paying basketball people.,742.27,346,5
+460,5,It sounds like you have really strong views on it.,It sounds like you have really strong views on it.,1645.61,480,11
+461,5,And soon the snow and ice came in.,On Sunday the snow and ice came in.,804.4,405,9
+462,5,But trying times could call for drastic measures.,But drastic times could call for drastic measures.,1445.14,473,9
+463,5,Either savings or investments.,Either savings or investment.,714.79,342,5
+464,5,Personified vision able to see at night.,"Magnified vision, able to see at night.",713.59,423,9
+465,5,Of course my job was such that I didn't.,Of course my job was such that I didn't.,762.01,442,10
+466,5,Places now have a new visual effect.,Blizzards now have a new visual effect.,813.74,426,8
+467,5,It's like a joke I heard once.,It's like a joke I heard once.,780.94,381,8
+468,5,After we got married we moved.,After we got married we moved.,820.37,380,7
+469,5,Live without dessert for the most part.,Live without dessert for the most part.,746.42,407,8
+470,5,I don't cook anymore.,I don't cook anymore.,787.71,309,5
+471,5,A lot of people complained.,A lot of people complain.,719.6,346,6
+472,5,It seems like you get it a lot.,It seems like you get hit the worst.,916.75,410,9
+473,5,They got real fat.,They got real fat.,599.6,298,5
+474,5,I mean just nothing.,I mean just nothing.,730.77,315,5
+475,5,While my orders was a year old.,While my oldest was a year old.,868.76,383,8
+476,5,So it was really too late to do much.,So it was really too late to do much.,724.89,434,10
+477,5,I'm tired of being a pessimist though.,I'm tired of being a pacifist though.,740.18,408,9
+478,5,Maybe they're counting on that.,Maybe they're counting on that.,695.22,344,6
+479,5,Being able to have a choice.,Being able to have a choice.,746.53,365,7
+480,5,We want to stay forever.,We want to stay forever.,780.86,339,6
+481,5,Of course they ate a lot of seafood.,Of course they ate a lot of sea food.,1547.06,420,9
+482,5,It is estimated a total of three thousand properties were affected.,It is estimated a total of three thousand properties were affected.,848.26,585,12
+483,5,Not all men pay their employees less.,Not all men pay their employees less?,827.95,413,8
+484,5,Also known as WiFi.,Also known as welfare.,817.37,303,6
+485,5,Then reboot the system.,Then reboot the system.,598.46,323,5
+486,5,Vancouver teacher faces disturbing option for erasing gay student.,Vancouver Teacher Faces Disciplinary Action for Harassing Gay Student,833.87,550,12
+487,5,How to avoid being tracked on the internet.,How To Avoid Being Tracked on The Internet,1643.86,447,9
+488,5,He was that exceptional.,He was that exceptional.,741.08,322,5
+489,5,What other questions would you ask?,What other questions would you ask?,724.09,368,7
+490,5,So what about the enemies of the Assad regime?,"So, what about the enemies of the Assad regime?",986.43,488,10
+491,5,"It's too valuable to just let people stay in, sorry.","Its too valuable to just let people stay in, sorry.",1390.78,524,12
+492,5,"And if I'm so blessed by the court, I'll never have to go again.","And if I'm so blessed by the gods, I'll never have to kill again.",1782.6,583,16
+493,5,Your bathing and each want be visible to other users.,Your birthday and age won't be visible to other users.,833.6,517,11
+494,5,A man with a small pension is a ward of the government.,A man with a small pension is a ward of the Government.,853.34,548,13
+495,5,This week's pick is an exclusive that can tantalize a crowd.,This week's pick is an algorithm that can diagnose a stroke.,973.82,553,13
+496,5,Yet the precedent is not wrong to be extemporaneous and engaged.,Yet the president is not wrong to be exasperated and enraged.,830.38,569,14
+497,5,The boat canoe landed on the smooth planks.,The birch canoe slid on the smooth planks.,811.56,428,10
+498,5,Threw the sheet to the stark blue background.,Glue the sheet to the dark blue background.,849.45,443,10
+499,5,It's easy to tell the type of a wheel.,It's easy to tell the depth of a well.,1600.85,441,10
+500,5,These days a chicken leg is a rare dish.,These days a chicken leg is a rare dish.,819.04,438,10
+501,5,Rice is often served in round bowls.,Rice is often served in round bowls.,823.38,398,8
+502,5,The juice of lemons makes fine punch.,The juice of lemons makes fine punch.,838.16,407,8
+503,5,The box was thrown beside the parked truck.,The box was thrown beside the parked truck.,897.08,436,9
+504,5,"The heads were feet, sharp card and carpus.",The hogs were fed chopped corn and garbage.,848.15,448,11
+505,5,Four hours of steady work exhausts us.,Four hours of steady work faced us.,789.13,399,9
+506,5,The fish thrashed and turned on the bait hook.,The fish twisted and turned on the bent hook.,1003.8,463,12
+507,5,The front half was far short of perfect.,The swan dive was far short of perfect.,735.65,428,9
+508,5,The beauty of the view stunned the young boy.,The beauty of the view stunned the young boy.,731.18,450,10
+509,5,Two blue fishes swam in the lake.,Two blue fish swam in the tank.,802.15,376,9
+510,5,Her purse was full of used napkins.,Her purse was full of useless trash.,721.62,413,9
+511,5,The colt reared and threw the doll rider.,The colt reared and threw the tall rider.,816.23,426,10
+512,5,It turned red and hailed the same morning.,"It snowed, rained, and hailed the same morning.",1329.44,438,9
+513,5,Read fiction out loud for pleasure.,Read verse out loud for pleasure.,814.14,376,7
+514,5,Place the burden to your left shoulder.,Hoist the load to your left shoulder.,724.13,383,8
+515,5,He vegetable gardened.,A vegetable garden.,686.03,311,5
+516,5,It really helps those people.,It really helps those people.,788.67,353,6
+517,5,I never really thought of it that way.,I never really thought of it that way.,877.01,407,9
+518,5,I don't know who looks forward to it more.,I don't know who looks forward to it more.,1023.48,437,10
+519,5,A wide variety.,A wide variety.,718.22,276,4
+520,5,We could find a place that will take everything.,We can't find a place that will take everything.,923.18,469,10
+521,5,When they got in and spoke.,When they cut in and speak.,657.12,355,7
+522,5,They're grown now.,They're grown now.,632.57,270,4
+523,5,It comes down to measuring.,It comes down to measuring.,780.19,338,6
+524,5,Very suspenseful.,Very suspenseful.,647.79,276,4
+525,5,Is that pollution?,Is that pollution?,653.34,280,4
+526,5,The productivity and the training cost.,The productivity and the training costs.,705.04,403,7
+527,5,They're always willing to help you out.,They're always willing to help you out.,887.15,399,8
+528,5,In the mortars.,In the mountains.,766.37,269,5
+529,5,The air is always cool.,The air is always cool.,737.6,324,6
+530,5,That's the way I feel.,That's the way I feel.,718.64,314,6
+531,5,What kind of running do you do?,What kind of running do you do?,769.39,383,8
+532,5,I don't think it's quite as green.,I don't think it's quite as green.,722.48,392,8
+533,5,How large is Willans?,How large is Williams?,834.76,306,6
+534,5,I think we've got to do more with recycling.,I think we've got to do more with recycling.,920.95,467,10
+535,5,I have many a time called them to come get me.,I have many a time called him to come get me.,818.73,495,12
+536,5,He worked hard at it.,He worked hard at it.,817.41,326,6
+537,5,The French did her best through the court.,The frosty air passed through the coat.,835.09,416,9
+538,5,The rocket may fail to fill the Mars.,The crooked maze failed to fool the mouse.,714.09,418,9
+539,5,Adding first least two rock songs.,Adding fast leads to wrong sums.,745.9,376,7
+540,5,The show was a flop from the very start.,The show was a flop from the very start.,750.36,449,10
+541,5,Also is a school used for making boats.,A saw is a tool used for making boards.,762.72,453,9
+542,5,The working moved on with old fields.,The wagon moved on well oiled wheels.,1306.05,391,8
+543,5,March the soldiers past the next hill.,March the soldiers past the next hill.,1134.81,422,8
+544,5,A cup of sugar makes sweet things.,A cup of sugar makes sweet fudge.,948.87,395,8
+545,5,Both lost their lives in the raging storm.,Both lost their lives in the raging storm.,1119.48,433,9
+546,5,We talked of the science show in the circus.,We talked of the side show in the circus.,764.81,439,10
+547,5,Use a pencil to write the first draft.,Use a pencil to write the first draft.,844.63,426,9
+548,5,He ran halfway to the apple store.,He ran half way to the hardware store.,717.18,415,8
+549,5,The lock struck to be the third pair.,The clock struck to mark the third period.,1124.88,411,9
+550,5,A small creek cut across the field.,A small creek cut across the field.,797.51,399,8
+551,5,Cars and buses stalled in snow drifts.,Cars and busses stalled in snow drifts.,943.66,419,9
+552,5,This is a grand season for March on the road.,This is a grand season for hikes on the road.,1152.01,477,11
+553,5,The dune rose from the edge of the water.,The dune rose from the edge of the water.,1107.33,439,10
+554,5,Those works were the cue for the actor to leave.,Those words were the cue for the actor to leave.,914.44,477,11
+555,5,A yacht slid around the point into the bay.,A yacht slid around the point into the bay.,1023.18,446,10
+556,5,The egg stain dried on the fitted sheet.,The ink stain dried on the finished page.,775.13,444,9
+557,5,The walled town was seized without a fight.,The walled town was seized without a fight.,885.04,421,10
+558,5,The lease runs out in sixteen weeks.,The lease ran out in sixteen weeks.,897.96,413,8
+559,5,It's just been a change to a lot of people.,It's just pocket change to a lot of people.,1226.07,493,11
+560,5,They told me that this was the topic.,They told me that this was the topic.,806.12,421,9
+561,5,Are you involved in any other things?,Are you involved in any other things?,1257.8,397,8
+562,5,The other thing to do.,The other thing to do.,1191.0,318,6
+563,5,They both grew up together.,They both cooperate together.,943.12,327,6
+564,5,It got too cold up there.,It got too cold up there.,816.99,348,7
+565,5,So let's make some conclusions.,"So, let's make some conclusions.",715.94,370,6
+566,5,Train accidents and everything else.,Train accidents and everything else.,821.49,379,6
+567,5,I guess that's about it.,I guess that's about it.,816.02,316,6
+568,5,I don't think it's a good idea.,I don't think it's a good idea.,779.11,387,8
+569,5,Especially for repeat offenders.,Especially for repeat offenders.,757.94,367,5
+570,5,Since we've been married I've stopped going.,"Since we've been married, I've stopped going.",830.01,414,8
+571,5,You don't want to or you don't have the time.,You don't want to or you don't have the time?,808.16,471,11
+572,5,Others said they were disappointed.,Others said they were disappointed.,866.33,362,6
+573,5,Somebody's going to change it.,Somebody's going to change it.,1075.7,354,8
+574,5,This is easy for me.,This is easy for me.,775.26,331,6
+575,5,It's not as severe.,It's not as severe.,1580.66,300,5
+576,5,If you don't return it.,If you don't refute it.,725.3,335,6
+577,5,Thank you for your participation.,Thank you for participating.,669.0,340,6
+578,5,Employees have also voiced dissent.,Employers have also voiced concerns.,1017.68,379,6
+579,5,An apartment or a home.,An apartment or a home?,771.03,334,6
+580,5,Inside the jail there.,Inside the jail there.,707.7,303,5
+581,5,What should be done to avoid all these problems?,What should be done to avoid all these problems?,712.32,471,10
+582,5,They don't reason.,They don't register.,769.28,273,4
+583,5,It's called rethinking my life.,It's called reviewing my life.,712.1,342,7
+584,5,How are you doing?,How are you doing?,638.34,287,5
+585,5,Do you think this is right?,Do you think this is right?,746.96,350,7
+586,5,"This is good, isn't it?","This is good, isn't it?",853.89,331,7
+587,5,I am not sure doing this.,I am also doing this.,714.05,320,7
+588,5,I feel that we should help them.,I feel that we should help them.,1276.59,389,8
+589,5,What should we do now?,What should we do now?,940.72,321,6
+590,5,How are you?,How are you?,717.4,252,4
+591,5,Can you show me the way?,Can you show me the way?,722.34,339,7
+592,5,Many people will come here.,Many people will come here.,813.82,359,6
+593,5,She got this from me.,She got this from me.,815.72,338,6
+594,5,This is really very good.,This is really very good.,735.34,345,6
+595,5,We have worked a lot on this.,We have worked a lot on this.,795.6,377,8
+596,5,I guess that is very good.,I guess that is very good.,752.68,353,7
+597,5,I will make it work.,I will make it work.,787.88,314,6
+598,5,"I think we all do, right?","I think we all do, right?",772.29,348,8
+599,5,I wasn't saying this at all.,I wasn't saying this at all.,710.47,354,7
+600,5,I have to pay for four things.,I have to pay for four things.,1075.18,371,8
+601,5,Call me once you get here.,Call me once you get here.,838.13,358,7
+602,5,What part of this is hard?,What part of this is hard?,799.15,356,7
+603,5,There's always a way out of this.,There's always a way out of this.,692.06,380,8
+604,5,He came by looking for you.,He came by looking for you.,803.66,358,7
+605,5,They are very mean. I don't like it.,"They are very mean, I don't like it.",857.65,412,10
+606,5,Is there anything to do for me?,Is there anything to do for me?,819.55,401,8
+607,5,What could you do in a few days?,What could you do in a few days?,819.42,392,9
+608,5,Remember to let other people through first.,Remember to let other people through first.,920.2,423,8
+609,5,Show me what you have got.,Show me what you have got.,716.77,347,7
+610,5,I can't believe this is true.,I can't believe this is true.,816.88,362,7
+611,5,I used their water.,I used their water.,716.61,295,5
+612,5,I like the last bit of this movie.,I like the last bit of this movie.,820.48,411,9
+613,5,Be nice to each other.,Be nice to each other.,816.59,322,6
+614,5,I will stay with my family for a week.,I will stay with my family for a week.,806.53,446,10
+615,5,I went back to get the kids.,I went back to get the kids.,1004.39,376,8
+616,5,Something seems off with her.,Something seems off with her.,706.01,345,6
+617,5,She gave me a new watch.,She gave me a new watch.,861.67,343,7
+618,5,I like to enjoy my life in the country.,I like to enjoy my life in the country.,728.82,455,10
+619,5,Do you still care about your job?,Do you still care about your job?,729.17,391,8
+620,5,She lives in the house right next to me.,She lives in the house right next to me.,896.82,430,10
+621,5,Are they both still around?,Are they both still around?,769.73,326,6
+622,5,I can't spend less time to be with children these days.,I get less time to be with children these days.,866.23,488,12
+623,5,Years have gone by.,Years have gone by.,731.07,294,5
+624,5,Can we use this for something?,Can we use this for something?,804.13,373,7
+625,5,What is the point of all this?,What is the point of all this?,716.38,379,8
+626,5,I can't think of a better time.,I can't think of a better time.,801.45,382,8
+627,5,I hope to see you there.,I hope to see you there.,756.64,338,7
+628,5,We should at least try this out.,We should at least try this out.,916.46,383,8
+629,5,I would love to have more of this too.,I would love to have more of these too.,901.98,424,10
+630,5,It's great you could join us here.,It's great you could join us here.,692.38,398,8
+631,5,Came this with you for now.,Keep this with you for now.,979.85,349,8
+632,5,Someone thought this show was very bad.,Someone thought this show was very bad.,1152.21,405,8
+633,5,I don't like this either.,I don't like this either.,670.7,330,6
+634,5,How far do we have to go?,How far do we have to go.,803.83,368,8
+635,5,Are you able to come with me next week?,Are you able to come with me next week?,735.36,451,10
+636,5,Can you guess what's in this?,Can you guess what's in this?,763.8,351,7
+637,5,Will you be around next week?,Will you be around next week?,755.04,368,7
+638,5,What's different about this?,What's different about this?,669.1,327,5
+639,5,This house looks very big.,This house looks very big.,819.23,336,6
+640,5,What's your point?,What's your point?,925.64,280,4
+641,5,Some people are quite good at this.,Some people are quite good at this.,844.18,395,8
+642,5,What would you like to do first?,What would you like to do first?,835.16,375,8
+643,5,I would love to be a part of this.,I would love to be a part of this.,751.9,423,10
+644,5,Crime may have taken place this morning somewhere.,crime men turn couldn't morning somewhere.,739.37,408,9
+645,5,Sports mishaps are televised.,sports miss companies aren't television.,756.02,403,6
+646,5,"Good newspaper, you'll report, maybe.",drug newspaper you'll report baby.,1125.04,379,8
+647,5,What choices couldn't the thing cards?,won't choices couldn't thirty cards.,720.19,375,7
+648,5,Funny past decisions Dallas future bring.,funny past decisions dallas future bring.,708.83,423,7
+649,5,Variety years originally take second.,variety yours originally check second.,722.01,399,7
+650,5,Child boys classical clothes team.,child boys classical clothes team.,802.98,372,6
+651,5,There were some were unusual house mice.,store somewhere unusual helps miss.,755.59,375,8
+652,5,Cars curl exactly fine watching.,course girl exactly fan watching.,744.33,376,6
+653,5,You'll need benefits and a vacation like.,you'll middle benefits education lives.,663.71,386,8
+654,5,Multiple testing can be easier from home with them now.,mother testing second easier program number.,1330.33,453,11
+655,5,Coming soon your favorite food.,coming sun york favorite food.,789.14,351,6
+656,5,Grossly spend mean disensationally wave.,grew spend men necessarily you've.,848.6,384,10
+657,5,Four months expected for nursing.,vote month expected fan nursing.,627.19,366,6
+658,5,"Snack, walk, catch, along, set.",thank york catch along set.,894.74,334,10
+659,5,Mother team system amount taxes.,mother team system amount texas.,934.77,375,6
+660,5,"Snoring noise sounds, he eats French.",story noise sounds eight friends.,1087.75,394,9
+661,5,Live talk show depends across weekend.,line talked turn depends across weekend.,856.97,413,7
+662,5,Large number of employees will miss this.,Large number of employees will miss this.,818.54,421,8
+663,5,This program will help our growing team.,This program will help our growing team.,818.44,416,8
+664,5,My baby grew a lot in the first six months.,My baby grew a lot in the first six months.,773.68,467,11
+665,5,This policy is important for social interest.,This policy is important for social interest.,762.06,467,8
+666,5,I knew what the deal was in the past.,I know what the deal was in the past.,1021.64,425,10
+667,5,Quality education will certainly help.,Quality education will certainly help.,717.43,406,6
+668,5,This does not appeal to me at all.,This does not appeal to me at all.,671.39,407,9
+669,5,They gave a variety of benefits to their employees.,They gave variety of benefits to their employees.,737.29,480,10
+670,5,We have a long evening ahead of us.,We have a long evening ahead of us.,842.42,419,9
+671,5,Different choices between past and future.,Different choices between past and future.,716.04,415,7
+672,5,This will all end soon.,This will fall down soon.,715.34,326,6
+673,5,American teams are clear this season.,American teams are clear this season.,793.83,405,7
+674,5,Nothing will change my heart on this matter.,Nothing will change my heart on this matter.,714.61,438,9
+675,5,She was supposed to go with me.,She was supposed to go with me.,711.65,396,8
+676,5,He said he was paid today.,He says he was paid today.,708.96,367,7
+677,5,School gave a card and books to this small child.,School gave a card and books to this small child.,1271.03,487,11
+678,5,Parents of small children care about this.,Parents of small children care about this.,730.01,432,8
+679,5,She was taking her time to do the work.,She was talking her time to do the work.,905.43,435,10
+680,5,This policy mostly sounds right to me.,This policy mostly sounds right to me.,818.34,434,8
+681,5,You should avoid this course.,You should avoid this course.,716.48,336,6
+682,5,Especially if you are coming this weekend.,Especially if you are coming this weekend.,789.24,429,8
+683,5,We will listen to whatever Jerry says.,We will listen to whatever jury says.,852.33,424,8
+684,5,I will give you mine for free.,I will give you mine for free.,921.69,382,8
+685,5,How much is your card worth?,How much is your card worth?,648.1,352,7
+686,5,Please order our regular food for everyone.,Please order our regular food for everyone.,766.94,442,8
+687,5,It pertains to my daily life at the present time.,It pertains to my daily life at the present time.,828.86,492,11
+688,5,But you have friends that have children.,But you have friends that have children.,714.48,414,8
+689,5,Towns with ruins on them served as temples.,Stones with runes on them served as checkpoints.,826.83,463,10
+690,5,There was a story of a woman last year.,There was a story of a woman last year.,1016.66,451,10
+691,5,A medical problem.,A medical problem.,875.85,296,4
+692,5,What area of the country do you live in?,What area of the country do you live in?,767.57,451,10
+693,5,This happened about a week ago.,This happened about a week ago.,708.7,373,7
+694,5,It seems like you work quicker.,It seems like you walk quicker.,1338.75,372,7
+695,5,In the construct.,In the district.,657.55,277,4
+696,5,They started looking into programs.,They started looking into programs.,711.05,381,6
+697,5,Join us for an upcoming event.,Join us for an upcoming event.,814.9,382,7
+698,5,Do you believe in the tooth fairy?,Do you believe in the Dallas Cowboys?,783.62,409,8
+699,5,Do you find yourself funny?,Do you find yourself funny?,715.87,343,6
+700,5,"To get into the systems, very difficult.",To get into the system's very difficult.,778.58,433,9
+701,5,Second generation.,Second generation.,723.62,276,3
+702,5,Real rough time camping.,Real rough type camping.,748.91,315,5
+703,5,So I made my own version.,So I made my own version.,730.32,342,7
+704,5,They said it was really riveting.,They said it was really riveting.,837.95,374,7
+705,5,That would be good.,That would be good.,685.2,299,5
+706,5,I'm not building any reserves.,I'm not building any reserves.,760.21,350,6
+707,5,Just put your paper in the same place every day.,Just put your paper in the same place every day.,846.84,494,11
+708,5,Pull all this weight.,Pull all this weight.,754.97,291,5
+709,5,Bring the pot to a boil.,Bring the pot to a boil.,705.92,348,7
+710,5,It's my voice.,It's my voice.,767.19,270,4
+711,5,What does the American report say?,What does the American report say?,734.61,395,7
+712,5,Social states give more benefits to employees.,Social states give more benefits to employees.,750.61,456,8
+713,5,I am taking my car to check this out in the evening.,I am taking my car to check this out in the evening.,767.44,523,13
+714,5,This car is super expensive.,This car is super expensive.,868.11,353,6
+715,5,Her friend will thank her for the card.,Her friend will thank her for the card.,819.6,422,9
+716,5,Originally it was a year long nursing program.,"Originally, it was a year long nursing program.",797.74,467,9
+717,5,What happened to the sound?,What happened to the sound?,942.15,330,6
+718,5,Tell me your education story.,Tell me your education story.,821.74,378,6
+719,5,There's good music and good food.,There's good music and good food.,739.68,377,7
+720,5,What is the cost of each piece you sell?,What is the cost of each piece you sell?,893.24,434,10
+721,5,I hope you listen to this wonderful music.,I often listen to this wonderful music.,829.11,455,9
+722,5,I have to go across the city to see her.,I have to go across the city to see her.,747.85,458,11
+723,5,My teachers exactly knew my mind.,My teachers exactly knew my mind.,1069.28,383,7
+724,5,How long have you been married?,How long have you been married?,786.75,354,7
+725,5,Your experience is very good for this job.,Your experience is very good for this job.,866.18,499,9
+726,5,His good luck will help him avoid problems.,His good luck will help him avoid problems.,919.3,453,9
+727,5,I am free to make a decision about my college.,I am free to make a decision about my college.,821.61,493,11
+728,5,Avoid capital punishment.,Avoid capital punishment.,714.6,329,4
+729,5,Getting married is not a crime.,Getting married is not a crime.,820.35,375,7
+730,5,What happened after I left?,What happened after I left?,816.68,344,6
+731,5,Let's make a program for kids.,Let's make a program for kids.,1230.48,374,7
+732,5,Light clothes are best.,Light clothes are bad.,882.8,299,5
+733,5,How many miles were you driving today?,How many miles were you driving today?,878.21,405,8
+734,5,Government will run from the capital city.,Government will run from the capital city.,837.9,445,8
+735,5,They will take up recycling from now on.,They will take up recycling from now on.,775.32,435,9
+736,5,My yard is very clean today.,My yard is very clean today.,762.2,378,7
+737,5,I am not a fan of this kind of music.,I am not a fan of this kind of music.,844.65,463,11
+738,5,Nothing is more important to him than power.,Nothing is more important to him than power.,852.84,448,9
+739,5,I like to work in this small room.,I like to work in this small room.,753.36,402,9
+740,5,Their situation is not as bad.,Their situation is not as bad.,887.64,371,7
+741,5,This is teacher's favorite topic.,This is teacher's favourite topic.,713.39,361,7
+742,5,She has experience in education.,She has experience in education.,714.51,395,6
+743,5,This will not matter as much in the long run.,This will not matter much in the long run.,791.79,468,11
+744,5,I tried a lot but this is still wrong.,"I tried a lot, but this is still wrong.",866.78,430,10
+745,5,I paid all my taxes the night before.,I paid all my taxes the night before.,800.19,420,9
+746,5,This is a growing company with many employees.,This is a growing company with many employees.,715.15,497,9
+747,5,The law gives everyone this one right.,The law gives everyone this one right.,793.42,409,8
+748,5,Listen to your parents right now.,Listen to your parents right now.,1171.0,380,7
+749,5,What's the occasion today?,What's the occasion today?,796.89,319,5
+750,5,Your mother said this is enough.,Your mother said this is enough.,716.96,364,7
+751,5,How many books are loaned to you have?,How many books on law do you have?,678.58,403,10
+752,5,Which book are you reading to children?,Which book are you reading to children?,925.15,408,8
+753,5,This seems like a large catch.,This seems like a large catch.,853.87,370,7
+754,5,Do you have your credit card?,Do you have your credit card?,716.2,368,7
+755,5,The couple got married last week.,The couple got married last week.,760.27,389,7
+756,5,I have lived in Illinois and Dallas.,I have lived in Illinois and Dallas.,875.54,399,8
+757,5,Television service is awful here.,Television service is awful here.,719.78,378,7
+758,5,The jury did not change this fact.,The jury cannot change this fact.,736.64,395,8
+759,5,I was in the teaching school originally.,I was in the nursing school originally.,724.89,416,8
+760,5,Recycling law depends on your city.,Recycling law depends on your city.,888.54,416,8
+761,5,I'm watching my kid's education.,I'm watching my kid's education.,783.71,363,7
+762,5,I bought these new clothes today.,I bought these new clothes today.,753.77,363,7
+763,5,This may seem important now.,This may seem important now.,698.34,357,6
+764,5,Tax season is certainly interesting.,Tax season is certainly interesting.,732.79,399,6
+765,5,There's so much noise in the capital city.,There's so much noise in the capital city.,841.78,446,9
+766,5,Your story is not clear anymore.,Your story is not clear anymore.,795.9,388,7
+767,5,This room is quite neat.,This room is quite neat.,715.31,326,6
+768,5,Children do not like punishment.,Children do not like punishment.,750.74,383,6
+769,5,I think this is not worth the time.,My wife thinks this is not worth the time.,785.55,436,9
+770,5,They make less money in this season with snow.,They make less money in this season with snow.,818.16,462,10
+771,5,Will you spend all that time reading your book?,Will you spend all that time reading your book?,817.93,457,10
+772,5,I am here for my friend's company.,I am here for my friend's company.,735.2,412,8
+773,5,You should vote for the future.,You should vote for the future.,901.77,358,7
+774,5,The morning sunlight is white.,The morning sun light is white.,637.25,361,6
+775,5,My teachers are very helpful.,My teachers are very helpful.,956.35,354,6
+776,5,Is this noise from the TV?,Is this noise from the TV?,761.91,370,7
+777,5,"Eat your food, it's getting cold.","Eat your food, it's getting cold.",1434.1,366,8
+778,5,Who benefits from this policy?,Who benefits from this policy?,713.99,374,6
+779,5,My daughter likes to play outside in the yard.,My daughter likes to play outside in the yard.,878.11,451,10
+780,5,He will understand when I talk to him.,He will understand when I talk to him.,752.96,428,9
+781,5,How many casualties were there?,How many casualties were there?,825.3,372,6
+782,5,Luxury does not have to be expensive.,Luxury does not have to be expensive.,843.5,431,8
+783,5,I like all this open space around the house.,I like all this open space around the house.,1220.51,444,10
+784,5,Evening is the best time for reading.,Evening is the best time for reading.,910.02,401,9
+785,5,Nothing can stop me from doing this.,Nothing can stop me from doing this.,731.89,411,8
+786,5,She will sit across the room.,She will sit across the room.,900.64,359,7
+787,5,Seventy awful years.,Seventy awful years.,725.16,305,5
+788,5,A pile of luxury things is something else.,Appeal of luxury things is something else.,832.3,433,9
+789,5,This is a special city in a special country.,This is a special city in the special country.,897.58,473,10
+790,5,Certain people enjoy this kind of music.,Certain people enjoy this kind of music.,1227.86,445,8
+791,5,Camping is getting more expensive.,Camping is getting more expensive.,672.3,376,6
+792,5,Who thought of this wonderful idea?,Who thought of this wonderful idea?,863.73,384,7
+793,5,Some more time in the morning would be nice.,Some more time in the morning would be nice.,919.38,452,10
+794,5,What was the exact line in the play?,What was the exact line in the play?,822.66,422,9
+795,5,We must always keep looking forward.,We must always keep looking forward.,814.57,400,7
+796,5,Check the oil in the car first.,Check the oil in the car first.,758.06,379,8
+797,5,The view from here is not worth it.,The view from here is not worth it.,785.04,407,9
+798,5,He is quite a social person.,He is quite a social person.,778.06,367,7
+799,5,They will be more like somewhere around here.,There will be more light somewhere around here.,671.72,438,9
+800,5,That woman will check this fact.,That woman will check this fact.,729.41,371,7
+801,5,Do not sell your free time or your space of mind.,Do not sell your free time or your peace of mind.,778.85,499,12
+802,5,It all worked out quite well for our family.,It all worked out quite well for our family.,926.4,456,10
+803,5,The joy of an early morning walk.,The joy of an early morning walk.,724.59,391,8
+804,5,It is easier to go without moon.,It is easier to go without food.,909.18,386,8
+805,5,My vision does not amount to anything.,My vision does not amount to anything.,769.12,423,8
+806,5,We should turn around and pick her up from school.,We should turn around and pick her up from school.,781.08,450,11
+807,5,They must think if they can live with this decision.,They must think if they can live with this decision.,761.18,498,11
+808,5,I am not sure if this will be interesting to the kids.,I am not sure if this will be interesting to the kids.,860.86,541,13
+809,5,That was a close call.,That was a close call.,870.87,320,6
+810,5,"First of all, remember to be nice.","First of all, remember to be nice.",766.2,395,9
+811,5,Can you put the book down for a few minutes?,Can you put the book down for a few minutes?,719.98,467,11
+812,5,"Yes, I am talking to you.","Yes, I am talking to you.",815.11,343,8
+813,5,This will make somebody care for the situation.,This will make somebody care for the situation.,921.89,466,9
+814,5,We talked about this the other day.,We talked about this the other day.,818.04,395,8
+815,5,What was your experience working with him?,What was your experience working with him?,962.64,437,8
+816,5,She was the division head in the college.,She was the division head in the college.,874.42,444,9
+817,5,He wants it to make four miles.,He wanted to walk for miles.,787.05,372,8
+818,5,"Please, that's enough music for today.","Please, that's enough music for today.",890.17,399,8
+819,5,We need to work more on the social part.,We need to work more on the social part.,790.04,449,10
+820,5,This married couple will enjoy their visit.,This married couple will enjoy their visit.,709.48,442,8
+821,5,I don't see what the purpose is.,I don't see what the problem is.,735.0,371,8
+822,5,I guess something has to go.,I guess something has to go.,778.71,349,7
+823,5,Do you know that I have never seen a budget?,Do you know that I've never seen a monkey?,846.17,449,11
+824,5,They enjoyed the school.,They've enjoyed the school.,625.54,316,5
+825,5,Proofs of person.,Prince of Persia.,701.35,281,5
+826,5,Seeing as you have got some older children.,Seeing as you've got some older children.,910.99,443,9
+827,5,I think it's cost a lot.,I think it's caused a lot.,1236.93,346,7
+828,5,If you haven't flown down.,If you haven't slowed down.,743.06,330,6
+829,5,We also set aside money for entertainment.,We also set aside money for entertainment.,1186.06,443,8
+830,5,I enjoy the news.,I enjoy the news.,690.06,298,5
+831,5,Everything I learned about engine room.,Everything I learned about ancient Rome.,701.31,394,7
+832,5,Right now I'm busy chasing my kids.,Right now I'm busy chasing my kids.,774.07,391,8
+833,5,Wasn't it allowed to bring a lawn mower?,Wasn't allowed to run a lawn mower.,889.35,395,10
+834,5,The storyline was just incredible.,The coastline was just incredible.,747.62,387,6
+835,5,Why do you say that actually?,Why do you say that actually.,968.19,364,7
+836,5,You were great.,You were great.,654.33,259,4
+837,5,"Ten months later, he said.",Ten months later he said.,770.91,342,7
+838,5,I'm glad to hear that.,I'm glad to hear that.,664.07,325,6
+839,5,I had to change the water in that.,I had to change the water in that.,1323.73,411,9
+840,5,"I mean, I haven't had it that long.",I mean I've haven't had it that long.,867.89,412,10
+841,5,When they fall over.,When they fall over.,789.63,287,5
+842,5,Check out our free versions.,Check out our free versions!,715.89,337,6
+843,5,I make my living by first.,I make my living by phone.,755.6,346,7
+844,5,I'm in charge of raising them.,I'm in charge of raising them.,881.79,362,7
+845,5,I think it would work out well.,I think it would work out well.,987.12,373,8
+846,5,They will not get everything done anyway.,They will not get everything done anyway.,749.87,421,8
+847,5,People from my college were already there.,People from my college were already there.,822.18,421,8
+848,5,I will probably say no to this.,I will probably say no to this.,923.95,394,8
+849,5,It is the policy in this country.,It is the policy in this country.,713.54,403,8
+850,5,Having too much peer pressure can be difficult.,Having too much power can be difficult.,747.95,422,9
+851,5,Luxury clothes these days are quite expensive.,Luxury clothes these days are quite expensive.,647.97,458,8
+852,5,Is your family from Dallas?,Is your family from Dallas?,679.02,356,6
+853,5,There seems to be some confusion about this.,There seems to be some confusion about this.,760.28,446,9
+854,5,There are some awful places in that country.,There are some awful places in that country.,778.71,448,9
+855,5,My computer is not working anymore.,My computer is not working anymore.,1297.83,399,7
+856,5,Employees should do some field work when they join.,Employees should do some field work when they join.,818.61,486,10
+857,5,Where it is that awful noise coming from?,Where is that awful noise coming from?,747.79,431,9
+858,5,My American friends are from Texas.,My American friends are from Texas.,835.82,412,7
+859,5,The old newspaper will have a re-report on this.,The old newspaper will have a report on this.,873.08,487,11
+860,5,How much do you have to pay for your credit card?,How much do you have to pay for your credit card?,1123.1,499,12
+861,5,We cannot go there without you.,We cannot go there without you.,818.25,372,7
+862,5,Not everyone can exercise in the morning.,Not everyone can exercise in the morning.,923.54,434,8
+863,5,The work gets easy with experience.,The work gets easier with experience.,716.04,402,7
+864,5,I have been working on this since early morning.,I have been working on this since early morning.,870.51,456,10
+865,5,The air is clear at night.,The air is clear at night.,673.97,341,7
+866,5,I will probably get a car soon.,I will probably own a car soon.,781.99,399,8
+867,5,"With their good luck, they will avoid these problems.","With their good luck, they will avoid these problems.",949.33,471,11
+868,5,How many minutes did it take to cook this food?,How many minutes did it take to cook this food?,817.92,487,11
+869,5,Let's play this new version of my favorite music.,Let's play this new version of my favorite music.,1027.42,483,10
+870,5,"Most of us think we know the story of Detroit, Michigan.","Most of us think we know the story of Detroit, Michigan.",915.44,544,13
+871,5,That was one thing that's been really nice to have.,That was one thing that's been really nice to have.,1007.43,490,11
+872,5,They shot him point blank in the face.,They shot him point blank in the face.,761.26,414,9
+873,5,These are made with a flour tortilla.,These are made with a flour tortilla.,895.79,413,8
+874,5,Did you hear from another person?,Did you hear from another person?,892.94,380,7
+875,5,It has been like fifteen years.,It has been like fifteen years.,827.77,374,7
+876,5,Here are my notes from the first draft of the paper.,Here are my notes from the first draft of the paper.,935.52,522,12
+877,5,Do you have any pets now?,Do you have any pets now?,2228.95,353,7
+878,5,My mom lives like I do.,My mom lives like I do.,742.29,343,7
+879,5,That is a very good point.,That is a very good point.,814.97,360,7
+880,5,Who is related to who?,Who is related to who?,719.51,322,6
+881,5,How much time do you spend with your children?,How much time do you spend with your children?,779.95,465,10
+882,5,She is more famous since she did that.,She is more famous since she did that.,858.3,430,9
+883,5,They don't make them anymore.,They don't make them anymore.,714.87,344,6
+884,5,There were none left by the year two thousand.,There were none left by the year two thousand.,1228.0,447,10
+885,5,"Wayne State University is in Detroit, Michigan.","Wayne State University is in Detroit, Michigan.",832.59,464,10
+886,5,It's an invasion of privacy.,It's an invasion of privacy.,714.54,362,6
+887,5,There were no reports of casualties.,There were no reports of casualties.,804.82,400,7
+888,5,The blue sky looks so pretty.,The blue sky looks so pretty.,922.92,363,7
+889,5,It is impressive in more than just quantity.,It is impressive in more than just quantity.,768.65,462,9
+890,5,That is strange to me.,That is strange to me.,766.66,338,6
+891,5,I'm worth more money than they are.,I'm out more money than they are.,1128.18,377,8
+892,5,I am from Argentina.,I am from Argentina.,741.51,317,5
+893,5,It is like many the clergy.,It is like winning the lottery.,790.98,377,7
+894,5,I did it all of the time.,I did it all on the job.,715.83,353,8
+895,5,Both can be a little bit juvenile.,Pets can be a lot of trouble.,819.36,383,8
+896,5,Whatever you like.,Whatever you like.,680.25,281,4
+897,5,The movie is so funny.,The movie is slow burning.,848.59,346,6
+898,5,We don't listen to any elevator music at my house.,We don't listen to any elevator music at my house.,872.9,514,11
+899,5,What do you think?,What do you think?,974.55,292,5
+900,5,He was a good player.,He was a good player.,717.22,320,6
+901,5,You came out on top.,You came out on top.,796.15,310,6
+902,5,That really sticks me off.,That really ticks me off.,657.33,338,6
+903,5,There were thousands of calls on the phone.,There were thousands of cows on the farm.,795.96,424,9
+904,5,"Now, some people object, citing primary dependence.",Now some people object during primary debates.,769.14,472,10
+905,5,You have to do the random drug testing.,You have to do the random drug testing.,869.43,429,9
+906,5,"The recipe turned out great, thanks to you.",The recipe doesn't require kneading the dough.,975.42,434,10
+907,5,They could sell five million of these.,They could sell five million of those.,840.09,391,8
+908,5,The retrenching was along well with that.,The ranch dressing goes along well with that.,1173.15,429,9
+909,5,It used to cost six bucks.,It used to cost six bucks.,1006.94,362,7
+910,5,In these situations I don't know how to behave.,In those situations I don't know how to behave.,813.1,462,10
+911,5,It would be faster just to make one.,It would be fun just to win one.,821.57,418,9
+912,5,The full decision spectrum is available here.,The full decision statement is available here.,818.34,453,8
+913,5,Especially with Marty and Ari on them.,Especially with butter and honey on them.,894.73,429,8
+914,5,"I'm interested in seeing it, it might help us.",I'm interested in having it in my office.,846.45,443,11
+915,5,I do that talk to many people on the palliative.,I do not talk to many people in the military.,1330.14,497,12
+916,5,How do they need to trade before the deadline?,Who do they need to trade before the deadline?,919.32,453,10
+917,5,You will gain competence with respect to the material.,You will gain competence with respect to the material.,797.95,514,10
+918,5,It's not hard to find a job that's part time.,It's not hard to find a job that's part time.,945.34,490,11
+919,5,Do you still drive that old car?,Do you still drive that old car?,739.18,385,8
+920,5,They would have to be supported in some way.,They would have to be supported in some way.,1148.0,453,10
+921,5,I miss the intellectual stimulation of taking classes in college.,I miss the intellectual stimulation of taking classes in college.,794.07,565,11
+922,5,As you get older you will understand.,As you get older you will understand.,697.79,402,8
+923,5,You would know if you lost it or something.,You would know if you lost it or something.,775.16,440,10
+924,5,Are you a computer hacker?,Are you a computer hacker?,862.03,335,6
+925,5,There is a very serious situation across the street.,There is a very serious situation across the street.,710.96,504,10
+926,5,I don't make that much money.,I don't make that much money.,690.71,368,7
+927,5,It's actually just twelve years old.,It's actually just twelve years old.,846.9,409,7
+928,5,They were not really into sports.,They were not really into sports.,818.29,380,7
+929,5,Thank you and please enjoy your stay.,"Thank you, and please enjoy your stay!",753.36,416,8
+930,5,My favorite author just released a brand new book.,My favorite author just released a brand new book.,884.37,477,10
+931,5,I didn't know there was such a thing.,I didn't know there was such a thing.,817.06,411,9
+932,5,That is my retirement plan.,That is my retirement plan.,674.84,355,6
+933,5,I would like to see a little bit more of that.,I would like to see a little bit more of that.,962.1,487,12
+934,5,I have to balance work and life.,I have to balance work and life.,952.09,385,8
+935,5,He took care of it.,He took care of it.,787.38,315,6
+936,5,I love to watch cartoons on Saturday morning.,I love to watch cartoons on Saturday morning.,845.38,448,9
+937,5,She will be a sophomore in high school next year.,She will be a sophomore in high school next year.,896.64,483,11
+938,5,Some interviews will be a lot more casual.,Some interviews will be a lot more casual.,928.47,455,9
+939,5,You have just what store to buy.,You have a choice of which car to buy.,912.99,382,8
+940,5,My real concern is this.,My real concern is this.,817.7,328,6
+941,5,It's been kind of scary.,It's been kind of scary.,716.39,329,6
+942,5,They would have never built it.,They would have never picked it out.,716.14,352,7
+943,5,That is way their kind played out weak.,That is why they're kind of behind on work.,820.34,417,9
+944,5,She can do it.,She can do it.,816.98,281,5
+945,5,She's like seventy-four years old now.,She's like seventy four years old now.,818.21,415,8
+946,5,I couldn't exercise.,I couldn't understand.,739.32,291,4
+947,5,I just want to enjoy myself a little bit.,I just want to enjoy myself a little bit.,890.59,467,10
+948,5,It costs gap or twenty dollars per ounce.,It costs ten or twenty dollars per ounce.,816.16,434,9
+949,5,Up north it's real different for you.,Of course it's real convenient for you.,830.73,405,8
+950,5,At my insurance is set to expire.,And my insurance is about to expire.,818.88,405,8
+951,5,I sew clothes for them every once a month.,I sew clothes for them every once in a while.,784.06,441,10
+952,5,He won a few trips or something along those lines.,He won a free trip or something along those lines.,856.18,494,11
+953,5,The brakes were pressed onto rear it.,The sport looks fun until you're playing it.,792.19,394,8
+954,5,You have to look around at the school.,You have to look around at the school.,766.35,402,9
+955,5,I still like the New York Giants.,I still like the New York Giants.,1256.39,393,8
+956,5,I majored in environmental engineering in college.,I studied environmental engineering in college.,744.19,414,9
+957,5,My youth really wanted a bit more.,My son really wanted a pet bird.,1248.14,386,8
+958,5,What have the biggest crises as the animal kingdom?,One of the biggest creatures in the animal kingdom.,918.25,491,10
+959,5,Have you thought about therapies that are based on reiki?,Have you seen that one about survivors in the Amazon rain forest?,858.18,543,12
+960,5,I hope everything works out up there.,I hope everything works out up there.,882.69,391,8
+961,5,Are you pleased with this decision?,Are you pleased with this decision?,817.89,387,7
+962,5,The town is just over the hill here.,The town is just over the hill here.,767.79,413,9
+963,5,It's totally ridiculous.,It's totally ridiculous.,769.59,317,4
+964,5,"In other words, there is a choice to make.","In other words, there is a choice to make.",768.82,439,11
+965,5,That does not seem quite fair.,That does not seem quite fair.,939.04,366,7
+966,5,That is horrible.,That is horrible.,748.62,274,4
+967,5,Fill the jar to the top with boiling water.,Fill the jar to the top with boiling water.,789.46,458,10
+968,5,It was a prime time football game.,It was a prime time football game.,917.49,389,8
+969,5,Not too long ago.,Not too long ago.,747.35,294,5
+970,5,She has had really good luck this year.,She has had really good luck this year.,857.67,425,9
+971,5,I went back to school and got my master's degree.,I went back to school and got my Master's degree.,882.49,499,11
+972,5,Then I heard a very loud explosion.,Then I heard a very loud explosion.,933.92,414,8
+973,5,My dad is a potato farmer.,My dad is a potato farmer.,1166.14,361,7
+974,5,That's a good option to consider.,That's a good option to consider.,765.01,370,7
+975,5,Do you want to eat inside or outside?,Do you want to eat inside or outside?,861.0,420,9
+976,5,And so we usually sit outside.,And so we usually sit outside.,760.97,400,7
+977,5,Professors from other universities will present their research.,Professors from other universities will present their research.,858.55,518,11
+978,5,They are now starting to make them.,They are now starting to make them.,898.33,390,8
+979,5,I guess there are a few things around still.,I guess there are a few things around still.,774.76,440,10
+980,5,They are so small.,They are so small.,820.66,284,5
+981,5,It is a fairly large liberal arts college as well.,It is a fairly large liberal arts college as well.,811.11,506,11
+982,5,Having a job will keep you out of trouble.,Having a job will keep you out of trouble.,819.91,457,10
+983,5,I like it here.,I like it here.,686.69,289,5
+984,5,"Rigorously, the conversation takes into account all elements.","Occasionally, the conversation turns into an argument.",894.61,487,12
+985,5,We need to buy more of them.,We need to buy more and more of them.,717.57,435,8
+986,5,I got that at Joe's just down there.,A guy that I know just got a job there.,898.34,442,10
+987,5,I hope you all enjoy this.,I hope you all enjoy this!,944.86,354,7
+988,5,Where I go to church now.,Where I go to church now.,918.84,338,7
+989,5,It's hard for me to adapt.,It's hard for me to admit.,921.7,368,7
+990,5,You don't get nearly enough exercise.,You don't get nearly enough exercise.,1122.49,392,7
+991,5,She'll be two years old in July.,She'll be two years old in July.,818.0,396,9
+992,5,I filed my taxes early this year.,I filed my taxes early this year.,814.74,397,8
+993,5,You still need your mother's permission.,You still need your mother's permission.,719.29,387,7
+994,5,And a very good afternoon to you.,And a very good afternoon to you.,720.96,390,8
+995,5,American car companies.,American car companies.,803.13,322,4
+996,5,I've got a two year old and a four year old.,I've got a two year old and a four year old.,754.77,476,12
+997,5,That's pretty much the sound end of the state.,That's pretty much the south end of the state.,768.83,452,10
+998,5,I was kind of into it for a while there.,I was kind of into it for a while there.,929.35,458,11
+999,5,Occasionally these things may not be true.,"Occasionally, these things may not be true.",910.44,430,10
+1000,5,I'll get around to it.,I'll get around to it.,965.9,319,6
+1001,5,It's a package deal.,It's a package deal.,905.55,300,5
+1002,5,The result of the test was negative.,The result of the test was negative.,718.91,406,8
+1003,5,I will be visiting New England.,I will be visiting New England.,751.49,378,7
+1004,5,I guess because we don't care all that much.,I guess because we don't go out that much.,781.01,442,10
+1005,5,The daycare accepted infants starting at six weeks old.,The day care accepted infants starting at six weeks old.,793.76,528,10
+1006,5,An absolute certainty.,An absolute certainty.,741.04,303,4
+1007,5,I think it is a wonderful intimate place.,I think it is a wonderful interim place.,883.61,436,9
+1008,5,We did go camping in Arkansas.,We did go camping in Arkansas.,962.39,364,7
+1009,5,That would have been something.,That would have been something.,946.13,342,6
+1010,5,I would contemplate going in a cruise now.,I would contemplate going on a cruise now.,746.53,425,9
+1011,5,You know what I would love.,You know what I would love.,964.22,332,7
+1012,5,It was out of his hands at that point.,It was out of his hands at that point.,769.36,440,10
+1013,5,For legal reasons and that's what I know.,For legal assistant and that's what I know.,723.71,443,9
+1014,5,My wife and I both like it.,My wife and I both like it.,1065.39,356,8
+1015,5,How do you measure it?,How do you measure it?,697.79,312,6
+1016,5,I don't really follow the news very closely.,I don't really follow the NBA very closely.,1026.43,462,9
+1017,5,She was perhaps a little bit leery of her.,She was always a little bit leery of her.,778.7,449,11
+1018,5,It's really hot too.,It's really hard to.,680.13,296,5
+1019,5,It looks like it would be.,It looks like it would be.,745.5,352,7
+1020,5,"That would be devastating, I'm sure.",That would be devastating I'm sure.,983.77,386,8
+1021,5,If it's run by the institutional state.,If it's run by the individual state.,761.57,414,8
+1022,5,"And so you know, and it's his choice to make.","And so, you know, and it's his choice to make.",978.09,451,12
+1023,5,You just gave it away.,You just gave it away.,1228.18,328,6
+1024,5,The accident ran situation or the Olson diplation.,The acid rain situation or the ozone depletion?,1126.54,481,10
+1025,5,Employment income.,Employment income.,921.97,280,3
+1026,5,I have to be real careful.,I have to be real careful.,919.81,355,7
+1027,5,I hope they enjoyed this article.,I hope you enjoyed this article.,1023.49,381,7
+1028,5,My husband travels.,My husband travels.,1227.81,292,4
+1029,5,They're not opening up shops.,They're not owning homes.,708.41,300,6
+1030,5,Where do you go camping at around here?,Where do you go camping at around here?,929.62,425,9
+1031,5,I try to save that for the weekend.,I try to save that for the weekend.,778.2,414,9
+1032,5,We've got these ones.,We've got these ones.,1077.58,310,5
+1033,5,That's just the way it was.,That's just the way it was.,806.13,357,7
+1034,5,Victimals crawl in the fence.,Vegetables grow in the fields.,817.53,357,8
+1035,5,It's kind of like during this loan.,It's kind of like drawing this line.,787.87,403,8
+1036,5,I had gone to a very friendly little area.,I had gone to a very dimly lit area.,851.89,466,10
+1037,5,Which one is the tourist area?,Which one is the tourist area?,1226.13,369,7
+1038,5,I was raised in New York.,I was raised in New York.,921.38,329,7
+1039,5,When you leave a job.,When you leave a job.,818.34,317,6
+1040,5,That's the only pollution that's been there.,That's the only pollution that's been there.,1167.87,415,8
+1041,5,They needn't a smaller setting.,They needed a smaller setting.,724.12,351,7
+1042,5,They put it out in a video.,They put it out in a video.,728.66,372,8
+1043,5,Especially in the winter.,Especially in the winter.,757.09,325,5
+1044,5,You like bikes and things.,You like pets and things.,715.61,327,6
+1045,5,Like building a house or anything.,Like building a house or anything.,716.23,380,7
+1046,5,I don't think I would have insurance.,I don't think I would have insurance.,685.47,399,8
+1047,5,"It's home by road, bay.",It's up by Green Bay.,770.75,314,7
+1048,5,I make a lot of my responses myself.,I make a lot of my Christmas presents.,780.36,421,9
+1049,5,I think a lot of choices.,I think a lot of choices.,736.22,348,7
+1050,5,Get rejected or what not.,Get arrested or what not.,916.04,334,6
+1051,5,That decision is expected early next week.,That decision is expected early next week.,816.79,449,8
+1052,5,It is fine.,It is fine.,819.79,264,4
+1053,5,I was raised in this area.,I was raised in this area.,655.8,356,7
+1054,5,He scored better than we did on the final exam.,He scored better than we did on the final exam.,807.76,505,11
+1055,5,Did you see it the other night?,Did you see it the other night?,1268.89,369,8
+1056,5,"Yeah, I really mean that.",Yeah I really mean that.,747.93,327,7
+1057,5,He's been a legend for so many years.,He's been a legend for so many years.,820.16,435,9
+1058,5,I can still read music.,I can still read music.,714.35,334,6
+1059,5,How are you liking it?,How are you liking it?,9113.52,316,6
+1060,5,I was on and off silly drugs.,I was accused of selling drugs.,728.53,371,8
+1061,5,Did you find it hard to make decisions?,Did you find it hard to make decisions?,880.32,440,9
+1062,5,How did you come to join that team?,How did you come to join that team?,848.76,422,9
+1063,5,I went back home tonight.,I went back home tonight.,1130.42,322,6
+1064,5,The Tor Mail Ray.,The door bell rang.,713.83,286,5
+1065,5,I think I did too use insecticide on my lawn.,I try not to use insecticides on my lawn.,1020.54,448,12
+1066,5,It does not stir up as much as I remember while growing up.,It does not snow as much as I remember while growing up.,920.55,554,14
+1067,5,We just drove through Oklahoma City.,We drove through Oklahoma City.,820.53,363,7
+1068,5,After cremation the remains will go on to a variety of causes.,"After graduation, the students will go on to a variety of colleges.",1022.36,602,14
+1069,5,It's still in great shape.,It's still in great shape.,920.41,331,6
+1070,5,The military has a strong presence in the Persian Gulf.,The military has a strong presence in the Persian Gulf.,1330.58,523,11
+1071,5,That is peanuts compared to what I usually buy.,That is cheap compared to what I usually buy.,1025.09,466,10
+1072,5,"On the other hand, I am quite good.","On the other hand, I am quite good.",921.93,397,10
+1073,5,I love this country so much.,I love this country so much.,912.87,357,7
+1074,5,You get the point.,You get the point.,698.75,298,5
+1075,5,Were you totally from Texas?,Were you calling me from Texas?,742.11,378,6
+1076,5,"I love eating pickles, bye.",I love eating pecan pie.,913.53,339,8
+1077,5,We went to go see the Marvel movie Thor.,We went to go see The Godfather Part Three.,801.78,466,10
+1078,5,It is strange enough.,It is strange enough.,685.16,301,5
+1079,5,I think its relevance is pretty rebutted.,I think its relevance is pretty limited.,872.34,432,9
+1080,5,Came up first to the recess.,Give a voice to the voiceless!,723.12,351,8
+1081,5,There has been a change in the laws of war.,There has been a change in the price of oil.,921.01,453,11
+1082,5,I absolutely loved it.,I absolutely loved it.,811.84,318,5
+1083,5,I guess what you have to do is just relax.,I guess what you have to do is just relax.,922.78,474,11
+1084,5,I think tiny homes can be good for some people.,I think nursing homes can be good for some people.,817.34,499,11
+1085,5,He's going to be traveling to Europe with a group of friends.,He's going to be traveling to Europe with a group of friends.,961.87,572,13
+1086,5,They live in a little white frame house.,They live in a little white frame house.,1189.24,411,9
+1087,5,They failed because of his drug addiction.,They fell out because of his drug addiction.,756.43,440,8
+1088,5,Nobody remembers him as a loser.,Nobody remembers him as a loser.,1290.37,391,7
+1089,5,Teach children to love reading for pleasure.,Teach children to love reading for pleasure.,920.38,438,8
+1090,5,So what company do you work for?,So what company do you work for?,818.28,389,8
+1091,5,We had such a good time.,We had such a good time.,713.3,350,7
+1092,5,It's kind of funny.,It's kind of funny.,764.67,304,5
+1093,5,Because a lot of our friends will be coming over later.,Because a lot of our friends will be coming over later.,802.42,527,12
+1094,5,That will be a big thrill for them.,That will be a big thrill for them.,788.39,410,9
+1095,5,Do you have any kids or pets?,Do you have any kids or pets?,819.12,388,8
+1096,5,"Well, that just pretty good.",Well that sounds pretty good.,817.74,347,7
+1097,5,That's what I was about to say.,That's what I was about to say.,726.57,379,8
+1098,5,But they're planning on doing it very soon.,But they're planning on doing it very soon.,913.63,436,9
+1099,5,You live right across the street from my daughter.,You live right across the street from my daughter.,746.65,464,10
+1100,5,You know some of that.,You know some of that.,666.2,312,6
+1101,5,I don't understand any of that.,I don't understand any of that.,739.59,378,7
+1102,5,It's actually turning out to be even worse than we thought.,It's actually turning out to be even worse than we thought.,1005.41,545,12
+1103,5,My daughter is in kindergarten.,My daughter is in kindergarten.,710.62,348,6
+1104,5,You don't have to worry that much.,You don't have to worry that much.,792.74,389,8
+1105,5,I am pretty aware of what goes on here.,I am pretty aware of what goes on here.,834.86,445,10
+1106,5,I really don't have any problem with it.,I really don't have any problem with it.,716.77,442,9
+1107,5,I did not earn my degree until later on in my life.,I did not earn my degree until later on in my life.,951.25,530,13
+1108,5,That was the point.,That was the point.,819.17,301,5
+1109,5,He's just so tall.,He's just so tall.,828.51,304,5
+1110,5,It is important for women who need to work.,It is important for women who need to work.,805.17,469,10
+1111,5,They are here for a purpose.,They are here for a purpose.,785.64,352,7
+1112,5,We got together every summer for vacation.,We got together every summer for vacation.,1704.58,435,8
+1113,5,We could spend that money very quickly.,We could spend that money very quickly.,889.15,437,8
+1114,5,I took care of the children.,I took care of the children.,850.33,354,7
+1115,5,It's not like he had a choice.,It's not like he had a choice.,794.6,383,8
+1116,5,Lunch was like thirteen dollars or something.,Lunch was like thirteen dollars or something.,845.12,422,8
+1117,5,And I think he's as guilty as the devil.,And I think he's as guilty as the devil.,783.79,450,10
+1118,5,I couldn't believe how much it cost.,I couldn't believe how much it cost.,928.45,398,8
+1119,5,We know what we can do.,We know what we can do.,710.26,349,7
+1120,5,I like being involved in things like this.,I like being involved in things like this.,747.43,431,9
+1121,5,The brand new company is making a lot of money.,The brand new company is making a lot of money.,806.41,502,11
+1122,5,I'm going to go to the grocery store.,I'm going to go to the grocery store.,612.03,423,9
+1123,5,I was so thrilled that they visited me.,I was so thrilled that they visited me.,985.08,425,9
+1124,5,"So, imagine all of his thoughts being spoken in that voice.",So imagine all of his lines being spoken in that voice.,1230.75,544,13
+1125,5,It has been a really nice spring.,It has been a really nice spring.,795.49,389,8
+1126,5,The movie had a lot of nudity and curse words.,The movie had a lot of nudity and curse words.,773.38,486,12
+1127,5,Take a piece of paper to draw on.,Take a piece of paper to draw on.,1113.46,403,9
+1128,5,I think it's important to know about this.,I think it's important to know about this.,820.14,433,9
+1129,5,You will learn more about the characters in the book.,You will learn more about the characters in the book.,817.84,485,11
+1130,5,People are having their civil rights taken away.,People are having their civil rights taken away.,956.38,457,9
+1131,5,What some of these people went through is terrible.,What some of these people went through is terrible.,678.52,478,10
+1132,5,I played a large role in that decision.,I played a large role in that decision.,1398.71,427,9
+1133,5,We have had no snow this winter.,We have had no snow this winter.,1367.05,389,8
+1134,5,Vote for your top choice.,Vote for your top choice.,740.33,332,6
+1135,5,Some of them did say that.,Some of them did say that.,793.56,350,7
+1136,5,I can understand their viewpoint.,I can understand their viewpoint.,613.69,367,6
+1137,5,Divide the money up pretty equally among us.,Divide the money up between all of us.,1209.66,426,9
+1138,5,"That would be devastating, I'm sure.",That would be devastating I'm sure.,837.09,383,8
+1139,5,It ends run by the interventional stent.,If it's run by the individual state.,921.24,423,10
+1140,5,It's his choice to make.,It's his choice to make.,921.35,335,6
+1141,5,You just gave it away.,You just gave it away.,1125.3,328,6
+1142,5,Are you talking about the accident rate situation or the ozone depletion?,Are you talking about the acid rain situation or the ozone depletion?,1033.29,593,13
+1143,5,Employment income.,Employment income.,757.53,283,3
+1144,5,I have to be very careful.,I have to be real careful.,768.12,360,7
+1145,5,I hope you enjoyed this article.,I hope you enjoyed this article.,866.4,374,7
+1146,5,My husband travels frequently.,My husband travels frequently.,655.08,362,5
+1147,5,They're not buying homes.,They're not buying homes.,1036.99,307,5
+1148,5,The girls at school are all wearing clothes from the sixties.,The girls at school are all wearing clothes from the sixties.,907.06,536,13
+1149,5,You probably wouldn't recognize me.,You probably wouldn't recognize me.,940.62,394,6
+1150,5,It was on the news every night.,It was on the news every night.,915.56,379,8
+1151,5,This story is not unusual.,His story is not unusual.,921.2,365,6
+1152,5,I had fun and enjoyed it.,I had found an entry point.,1230.14,376,7
+1153,5,They don't kill the animals.,They don't kill the animals.,1401.39,331,6
+1154,5,Selling bottles of water.,Selling bottles of water.,1151.97,315,5
+1155,5,Bezos has usually for traders.,Business as usual for traders.,800.49,371,7
+1156,5,They give us a package deal.,They gave us a special deal.,1764.68,353,7
+1157,5,The reality is that's usually not the case.,The reality is that's usually not the case.,884.5,475,9
+1158,5,I wonder where they learned to do that.,I wonder where they learned to do that.,2734.85,406,9
+1159,5,He kept his tone light and casual but firm.,"He kept his tone light and casual, but firm.",770.21,467,10
+1160,5,I really like that show.,I really like that show.,823.86,324,6
+1161,5,A fairly good amount.,A fairly good amount.,672.51,308,5
+1162,5,That pleased me.,That pleased me.,800.6,280,4
+1163,5,We are good people.,We are good people.,1599.46,301,5
+1164,5,I've heard him talk about that for hours.,I've heard him talk about that for hours.,1025.55,412,9
+1165,5,Of course.,Of course.,714.78,236,3
+1166,5,It wasn't even funny.,It wasn't even funny.,697.33,328,5
+1167,5,If only I could remember the name.,If only I could remember the name.,876.0,395,8
+1168,5,I don't think the teachers are the problem.,I don't think the teachers are the problem.,801.95,436,9
+1169,5,Public relations.,Public relations.,696.79,276,3
+1170,5,It's very easy to swing in there for breakfast.,It's real easy to swing in there for breakfast.,819.88,470,10
+1171,5,Then you find it again and lose it again.,Then you find it again and lose it again.,914.56,443,10
+1172,5,We've got four kids.,We've got four kids.,653.13,310,5
+1173,5,My little girl likes blue more than pink.,My little girl likes blue more than pink.,1809.85,426,9
+1174,5,In May it will be five years since I met him.,In May it will be five years since I met him.,849.48,493,12
+1175,5,My wife and daughter were kidnapped.,My wife and daughter were kidnapped.,708.09,362,7
+1176,5,Sentence result with is both.,Satan rejoiced with his birth.,1204.43,348,6
+1177,5,It was his decision and you have to respect it.,It was his decision and you have to respect it.,818.51,498,11
+1178,5,"No, I didn't go to the store.",No I didn't go to the store.,1311.35,375,9
+1179,5,We will head to Florida for vacation.,We will head to Florida for vacation.,1352.46,412,8
+1180,5,Take a stacks of books or small quiet toys.,Take a stash of books or small quiet toys.,715.74,461,10
+1181,5,I would reconsider where I was buying it from.,I would reconsider where I was buying it from.,1550.21,461,10
+1182,5,It was rented at a third grade level.,It was written at a third grade level.,1055.71,424,9
+1183,5,There never are not of that ransoms here.,They're doing a lot of good research here.,1176.72,432,11
+1184,5,"If it does, the time.",If it does the job.,1847.42,307,7
+1185,5,Do you like to drive?,Do you like to travel?,714.04,314,6
+1186,5,The state and the city are content in its toll.,The state and the city are contradicting each other.,921.67,492,11
+1187,5,I did prisoners' rights litigation.,How did researchers reach this conclusion?,716.81,399,7
+1188,5,You don't need a passport.,You don't need a personal one.,1741.07,360,6
+1189,5,The measure passed the House by a large margin.,The measure passed the House by a landslide vote.,1843.55,447,10
+1190,5,They said he has a little talent to read.,They sent us a little booklet to read.,721.09,418,10
+1191,5,Why is this such an unusual thing to do?,Why is this such an unusual thing to do?,915.69,450,10
+1192,5,Report the rides in all.,Between the rows and all.,1023.4,322,6
+1193,5,We have a day to soak up as much as we can.,We have a dog too so that adds to it.,921.24,439,13
+1194,5,Took a seat on the bench.,Take a seat on the bench.,818.46,336,8
+1195,5,My husband is real into jazz too.,My husband is real into sports too.,798.46,417,8
+1196,5,I don't know if it's that serious.,I don't know if it's that serious.,837.6,377,8
+1197,5,I'm going to visit relatives and do laundry.,I'm going to visit Florida and Louisiana.,971.5,433,9
+1198,5,Cars have come down in price significantly.,Cars have come down in price significantly.,767.95,420,8
+1199,5,When we bought it last year.,When we bought it last year.,921.52,358,7
+1200,5,I kind of wish that they had a little luck for the most.,I kind of wish that they had a little league for the boys.,1009.52,553,14
+1201,5,It's nice to have a bad dog.,It's nice to have a pet dog.,871.37,375,8
+1202,5,That's one good thing about every account though.,That's one good thing about having a cat though.,778.8,465,9
+1203,5,The newspaper settled lifting the debt.,The rich people started leaving the city.,1697.62,413,7
+1204,5,"Actually, it makes sense to a certain extent.","Actually, it makes sense to a certain extent.",1677.34,458,10
+1205,5,Doesn't seem like it so far.,Doesn't seem like it so far.,924.76,357,8
+1206,5,When was it?,When was it?,817.84,263,4
+1207,5,That's a science in itself.,That's a science in itself.,929.21,340,6
+1208,5,But it didn't get the happy part of my movie.,But it didn't get the upper part of my body.,944.26,492,11
+1209,5,When you decide to make a step.,When you decide to make the step.,1073.21,383,8
+1210,5,We seem to agree on that.,We seem to agree on that.,1250.94,354,7
+1211,5,Get the recipe from them.,Get the recipe from them.,921.03,347,6
+1212,5,About three years ago.,About three years ago.,717.44,313,5
+1213,5,What shall we do?,What shall we do?,708.95,288,5
+1214,5,The immune system can slow down at first.,The immune system can slow down at first.,824.71,435,9
+1215,5,I have two other sisters.,I have two other sisters.,818.82,329,6
+1216,5,I think it could affect the outcome.,I think it could affect the outcome.,872.15,399,8
+1217,5,Some of the students are failing the class.,Some of the students are failing the class.,902.91,435,9
+1218,5,Now I remember it.,Now I remember it.,729.84,296,5
+1219,5,I'm sure you will find something.,I'm sure you will find something.,987.14,365,7
+1220,5,"About the same, I dress for school.",About the same I dress for school.,803.52,385,9
+1221,5,I mean he's doing alright.,I mean he's doing alright.,721.07,337,6
+1222,5,It was a real special day.,It was a real special day.,772.1,357,7
+1223,5,I guess I never heard the history of that.,I guess I never heard the history of that.,785.81,439,10
+1224,5,I wanted one of them to be on drugs.,I wouldn't want them to be on drugs.,702.55,420,10
+1225,5,The neighbor across the street just moved in.,The neighbor across the street just moved in.,1678.68,444,9
+1226,5,A natural gas explosion.,A natural gas explosion.,668.35,338,5
+1227,5,Decisions that are being made by world leaders.,Decisions that are being made by world leaders.,1736.42,459,10
+1228,5,She was delivered the next day.,She was delivered the next day.,1253.05,376,7
+1229,5,I wouldn't say it's as bad as you.,I wouldn't say it's as bad as New York.,998.44,428,9
+1230,5,He could get hurt.,He could get hurt.,716.58,296,5
+1231,5,Some of them are our problems.,Some of them are our problems.,758.55,365,7
+1232,5,Who would they ask for clarification?,Who would they ask for clarification?,778.53,377,7
+1233,5,We all like my oldest brother.,We all like my oldest brother.,1022.2,373,7
+1234,5,Did you see any of those?,Did you see any of those?,1590.76,354,7
+1235,5,Don't you hate that?,Don't you hate that?,776.25,294,5
+1236,5,It would be nice if they could get them together.,It would be nice if they could get them together.,918.85,474,11
+1237,5,But do you think Bill Gates should resign?,But do you think Bill Gates should resign?,936.7,429,9
+1238,5,"Evidently, he was elected president.",Evidently he was elected president.,895.35,405,9
+1239,5,We not have we're pretty here and there.,We met half way between here and there.,735.79,444,9
+1240,5,I'm getting a bad feeling here.,I'm getting a gut feeling here.,1800.18,367,7
+1241,5,None it rents up by the cost.,Does it justify the cost?,811.6,339,8
+1242,5,"Well, it's a little bit crazy.",While it's healing take it easy.,720.03,365,8
+1243,5,So that's got everybody extorted.,So that's got everybody excited.,743.3,378,7
+1244,5,Didn't mean to cut you off there.,Didn't mean to cut you off there.,1023.23,393,8
+1245,5,These cars just want attention.,These guys just want attention.,670.17,367,6
+1246,5,To really challenge them.,To really challenge them.,658.01,321,5
+1247,5,It's actually the first car we ever bought new.,It's actually the first car we ever bought new.,1071.07,469,10
+1248,5,Counting things quantitatively is usually the way to go.,Keeping things concise is usually the way to go.,690.63,497,11
+1249,5,When I had my magazines at home.,When I had my magazines at home.,796.61,399,8
+1250,5,That's really funny but also disturbing.,That's really funny but also disturbing.,793.61,409,7
+1251,5,I apologize for the disturbance.,Are you pleased with this decision?,1867.91,354,6
+1252,5,The dog is just over the hill here.,The town is just over the hill here.,861.86,432,9
+1253,5,It is totally ridiculous.,It is totally ridiculous.,863.05,328,5
+1254,5,"It, at the most, that is jarring to book.","In other words, there is a choice to make.",935.92,420,13
+1255,5,That do the from beg your.,That does not seem quite fair.,725.08,348,7
+1256,5,That is opportunity.,That is horrible.,709.82,284,4
+1257,5,Fill the jug to the top with boiling water.,Fill the jar to the top with boiling water.,1225.98,449,10
+1258,5,It was a close football game.,It was a prime time football game.,717.97,389,7
+1259,5,It is all pretty good luck this year.,She has had really good luck this year.,817.48,417,9
+1260,5,I went back to school and got my master's degree.,I went back to school and got my Master's degree.,829.95,502,11
+1261,5,I hope other things work out up there.,I hope everything works out up there.,772.05,384,9
+1262,5,I hope this is temptation.,Are you pleased with this decision?,751.49,392,6
+1263,5,The town is just over the hill here.,The town is just over the hill here.,778.44,411,9
+1264,5,It is totally rational.,It is totally ridiculous.,684.58,347,5
+1265,5,"In other words, there is a choice to make.","In other words, there is a choice to make.",892.4,433,11
+1266,5,That is that same word for word.,That does not seem quite fair.,835.94,352,8
+1267,5,That is correct.,That is horrible.,716.22,285,4
+1268,5,Fill the tray to the top with boiling water.,Fill the jar to the top with boiling water.,790.34,453,10
+1269,5,It was a big time soccer game.,It was a prime time football game.,760.78,377,8
+1270,5,She have had pretty good luck this year.,She has had really good luck this year.,783.42,426,9
+1271,5,I went back to school and got my master's degree.,I went back to school and got my Master's degree.,838.09,489,11
+1272,5,In the next five years.,In the next five years.,800.33,329,6
+1273,5,College credit for community service is a good idea.,College credit for community service is a good idea.,770.99,514,10
+1274,5,Ethical and religious fields are need and measure.,Ethical and religious views on need and pleasure.,763.42,499,10
+1275,5,The government offers financial services.,The government offers financial services.,598.82,397,6
+1276,5,Mix some cream sauce with it and pour it over rice.,Mix some cream sauce with it and pour it over rice.,877.73,497,12
+1277,5,People are stamping out of school.,People are dropping out of school.,701.59,383,7
+1278,5,A lot of chicken and rice.,A lot of chicken and rice.,789.49,359,7
+1279,5,"As soon as I knew, as I had them.",As soon as I had them.,826.94,336,11
+1280,5,I was tired during that whole month.,I was tired during that whole month.,1123.12,398,8
+1281,5,We hope you enjoy your stay.,We hope you enjoy your stay!,1631.98,364,7
+1282,5,We are not trying to resent them or anything.,We are not trying to mistreat them or anything.,749.64,476,10
+1283,5,How can I avoid being infected by a virus?,How can I avoid being infected by a virus?,784.84,461,10
+1284,5,You don't have to be an expert to play this game.,You don't have to be an expert to play this game.,716.38,502,12
+1285,5,I live in a farming community.,I live in a farming community.,731.56,380,7
+1286,5,Do you have any friends with older children?,Do you have any friends with older children?,805.58,446,9
+1287,5,"When things don't go right, you have to adjust.",When things don't go right you have to adjust.,817.38,467,11
+1288,5,What should I do?,What should I do?,651.44,283,5
+1289,5,The precipitation of a church rain dissolved.,The first demonstration of a touch screen display.,882.98,462,8
+1290,5,Not in a civilized society.,Not in a civilized society.,725.91,355,6
+1291,5,And they really seem wise.,And they really seem wise.,666.74,334,6
+1292,5,They're not really even participating.,They're not really even participating.,857.22,392,6
+1293,5,Not with all the other things going on today.,Not with all the other things going on today.,789.71,444,10
+1294,5,We used to always enjoy watching that show.,We used to always enjoy watching that show.,748.64,445,9
+1295,5,You go on outside and play.,You go on outside and play.,676.44,351,7
+1296,5,So do you like your new truck?,So do you like your new truck?,788.39,371,8
+1297,5,You'd think that it was a private school.,You'd think that it was a private school.,887.73,449,10
+1298,5,They've started a drug testing policy.,They've started a drug testing policy.,919.63,413,8
+1299,5,I think there's about seventy-five people here.,I think there's about seventy five people here.,820.74,462,9
+1300,5,Whatever they told you is a lie.,Whatever they tell you is a lie.,816.97,365,8
+1301,5,They can't do as to of a gum.,They can't do as good of a job.,818.17,382,9
+1302,5,"Everybody is still here, starving.",Everybody is sitting here screaming.,818.66,376,7
+1303,5,I just can't do those type of puzzles.,I just can't do those types of puzzles.,1843.31,429,9
+1304,5,"If their grades are average, they're allowed to ride.",If their skirts are above the knee they are too short.,787.43,491,11
+1305,5,How long have you lived in this house?,How long have you lived in this house?,833.4,401,9
+1306,5,Occasionally it gives a pretty offender.,Especially if he's a repeat offender.,848.3,418,9
+1307,5,It's a high tech industry.,It's a quick growing industry.,799.06,360,6
+1308,5,Some new techs are manager.,Some new types of furniture.,1071.25,339,7
+1309,5,This is where I am.,That's where I am.,830.34,275,6
+1310,5,It was about nine o'clock at night.,It was about nine o'clock at night.,768.38,383,9
+1311,5,How is so bass at your new job?,How is your boss at your new job?,867.83,389,9
+1312,5,Which is probably about what their opportunity is.,Which is probably about what their equity is.,811.7,464,9
+1313,5,My song is the main in the Gatorade commercial.,My father is the man in the corduroy jacket.,941.67,445,12
+1314,5,They could read anything.,They can't read anything.,2191.34,314,5
+1315,5,The two scenes of what are happy.,The two seats up front are empty.,1018.27,381,8
+1316,5,Keep it clean please.,Keep it clean please.,676.06,314,5
+1317,5,I think it's just that you see you can trust probably.,I think it's good that you see your cousins frequently.,806.56,506,12
+1318,5,About how many calls have you made on this shift?,About how many calls have you made on this system?,1016.63,492,11
+1319,5,I don't know what to think about that.,I don't know what you think about that.,822.16,413,9
+1320,5,It slowly grew well and outgrew the pale wall.,"Eat slowly, chew well, and enjoy the meal.",789.52,462,12
+1321,5,I'd like to see relevance of the claims.,I'd like to see Silence of the Lambs.,868.95,421,9
+1322,5,Just a few miles north of here.,Just forty miles north of here.,855.13,386,8
+1323,5,Look at the successes.,Look at the statistics.,1543.87,300,5
+1324,5,Who did they play?,Who did they play?,913.1,284,5
+1325,5,Losers all the way around.,Losers all the way around.,921.03,332,7
+1326,5,"I threw a penalty, I think.",I drove a Cadillac back then.,820.53,348,8
+1327,5,I want them to come back up this year.,I want them to come back up next year.,866.57,425,10
+1328,5,You did unsustained things.,You don't understand this.,812.22,317,7
+1329,5,It doesn't seem that low.,It doesn't seem that long.,673.89,327,6
+1330,5,"This is an infraction of privacy, you know.",This is an invasion of privacy issue.,1713.68,432,11
+1331,5,A really good thing to do.,A really good thing to do.,877.02,344,7
+1332,5,The only other place I've ever vacationed.,The only other place I've ever vacationed.,884.31,416,9
+1333,5,They had skirmishes and story time and everything.,They had snacks and story time and everything.,1595.52,459,11
+1334,5,Beyoncé is a star that they could rely on.,Because of a service that they could provide.,838.18,424,12
+1335,5,Don't just wish the question to be so.,Not just with the visit to Pittsburgh.,858.41,402,9
+1336,5,There's two tenacious.,There's no deductions.,918.63,284,5
+1337,5,What if you were in your kid's shoes?,What if you were in your kid's shoes?,928.9,408,10
+1338,5,I don't know if you've tried it.,I don't know if you've tried it.,904.76,372,8
+1339,5,Paramount Pictures was doing a cameo.,Barometric pressure drops during a tornado.,764.25,415,8
+1340,5,Favor him not and keep him warm.,Cover him up and keep him warm.,774.5,389,8
+1341,5,They're very affectionate with one another.,They're very affectionate with one another.,1659.95,407,7
