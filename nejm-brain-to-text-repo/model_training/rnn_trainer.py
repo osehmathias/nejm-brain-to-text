@@ -158,9 +158,13 @@ class BrainToTextDecoder_Trainer:
 
         self.model_type = model_type
 
-        # Call torch.compile to speed up training
-        self.logger.info("Using torch.compile")
-        self.model = torch.compile(self.model)
+        # torch.compile has issues with conformer + gradient checkpointing (inductor backend bugs)
+        # Only use for GRU models for now
+        if model_type == 'gru':
+            self.logger.info("Using torch.compile")
+            self.model = torch.compile(self.model)
+        else:
+            self.logger.info("Skipping torch.compile for conformer (inductor backend compatibility)")
 
         self.logger.info(f"Initialized {model_type.upper()} decoding model")
 
