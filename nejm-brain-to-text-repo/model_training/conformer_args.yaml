@@ -22,6 +22,11 @@ gpu_number: '0'
 mode: train
 use_amp: true
 
+# Wandb logging
+use_wandb: true
+wandb_project: brain-to-text
+wandb_run_name: conformer-v1
+
 output_dir: trained_models/conformer_v1
 checkpoint_dir: trained_models/conformer_v1/checkpoint
 init_from_checkpoint: false
