@@ -11,7 +11,11 @@
       "WebFetch(domain:www.medrxiv.org)",
       "Bash(source venv/bin/activate)",
       "Bash(python:*)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(git clone:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ]
   }
 }
