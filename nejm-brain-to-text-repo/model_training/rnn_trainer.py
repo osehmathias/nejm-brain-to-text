@@ -140,6 +140,7 @@ class BrainToTextDecoder_Trainer:
                 input_dropout=self.args['model']['input_network']['input_layer_dropout'],
                 patch_size=self.args['model']['patch_size'],
                 patch_stride=self.args['model']['patch_stride'],
+                gradient_checkpointing=self.args['model'].get('gradient_checkpointing', False),
             )
         else:
             # Default to GRU

@@ -10,6 +10,7 @@ Architecture:
 
 import torch
 from torch import nn
+from torch.utils.checkpoint import checkpoint
 import math
 from typing import Optional, Tuple
 
@@ -296,6 +297,7 @@ class ConformerDecoder(nn.Module):
         input_dropout: float = 0.2,
         patch_size: int = 14,
         patch_stride: int = 4,
+        gradient_checkpointing: bool = False,
     ):
         """
         Args:
@@ -311,6 +313,7 @@ class ConformerDecoder(nn.Module):
             input_dropout: Dropout rate for input layer
             patch_size: Number of timesteps to concatenate
             patch_stride: Stride for patch embedding
+            gradient_checkpointing: Use gradient checkpointing to save memory
         """
         super().__init__()
 
@@ -320,6 +323,7 @@ class ConformerDecoder(nn.Module):
         self.d_model = d_model
         self.patch_size = patch_size
         self.patch_stride = patch_stride
+        self.gradient_checkpointing = gradient_checkpointing
 
         # Day-specific input layers (same as GRUDecoder)
         self.day_layer_activation = nn.Softsign()
@@ -401,7 +405,10 @@ class ConformerDecoder(nn.Module):
 
         # Apply Conformer blocks
         for block in self.conformer_blocks:
-            x = block(x, mask)
+            if self.gradient_checkpointing and self.training:
+                x = checkpoint(block, x, mask, use_reentrant=False)
+            else:
+                x = block(x, mask)
 
         # Output projection
         logits = self.output(x)

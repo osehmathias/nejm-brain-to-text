@@ -9,6 +9,7 @@ model:
   n_layers: 6
   conv_kernel_size: 31
   conformer_dropout: 0.1
+  gradient_checkpointing: true  # Save memory by recomputing activations during backward pass
 
   # Shared params
   patch_size: 14
@@ -79,7 +80,7 @@ dataset:
     smooth_kernel_std: 2
 
   neural_dim: 512
-  batch_size: 64
+  batch_size: 32
   n_classes: 41
   max_seq_elements: 500
   days_per_batch: 4
