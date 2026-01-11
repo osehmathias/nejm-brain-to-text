@@ -521,8 +521,19 @@ class BrainToTextDecoder_Trainer:
 
     def train(self):
         '''
-        Train the model 
+        Train the model
         '''
+
+        # Initialize wandb
+        use_wandb = self.args.get('use_wandb', True) and WANDB_AVAILABLE
+        if use_wandb:
+            wandb.init(
+                project=self.args.get('wandb_project', 'brain-to-text'),
+                name=self.args.get('wandb_run_name', None),
+                config=dict(self.args),
+            )
+            wandb.watch(self.model, log='gradients', log_freq=1000)
+            self.logger.info("Initialized wandb logging")
 
         # Set model to train mode (specificially to make sure dropout layers are engaged)
         self.model.train()
@@ -535,7 +546,7 @@ class BrainToTextDecoder_Trainer:
 
         val_steps_since_improvement = 0
 
-        # training params 
+        # training params
         save_best_checkpoint = self.args.get('save_best_checkpoint', True)
         early_stopping = self.args.get('early_stopping', True)
 
@@ -604,6 +615,17 @@ class BrainToTextDecoder_Trainer:
                         f'grad norm: {grad_norm:.2f} '
                         f'time: {train_step_duration:.3f}')
 
+                # Log to wandb
+                if use_wandb:
+                    lr = self.optimizer.param_groups[0]['lr']
+                    wandb.log({
+                        'train/loss': loss.detach().item(),
+                        'train/grad_norm': grad_norm.item() if hasattr(grad_norm, 'item') else grad_norm,
+                        'train/lr': lr,
+                        'train/step_time': train_step_duration,
+                        'batch': i,
+                    })
+
             # Incrementally run a test step
             if i % self.args['batches_per_val_step'] == 0 or i == ((self.args['num_training_batches'] - 1)):
                 self.logger.info(f"Running test after training batch: {i}")
@@ -624,10 +646,25 @@ class BrainToTextDecoder_Trainer:
                     for day in val_metrics['day_PERs'].keys():
                         self.logger.info(f"{self.args['dataset']['sessions'][day]} val PER: {val_metrics['day_PERs'][day]['total_edit_distance'] / val_metrics['day_PERs'][day]['total_seq_length']:0.4f}")
 
-                # Save metrics 
+                # Save metrics
                 val_PERs.append(val_metrics['avg_PER'])
                 val_losses.append(val_metrics['avg_loss'])
                 val_results.append(val_metrics)
+
+                # Log validation metrics to wandb
+                if use_wandb:
+                    wandb_val_log = {
+                        'val/PER': val_metrics['avg_PER'],
+                        'val/loss': val_metrics['avg_loss'],
+                        'val/best_PER': self.best_val_PER,
+                        'batch': i,
+                    }
+                    # Log per-day PER if available
+                    for day, day_metrics in val_metrics['day_PERs'].items():
+                        if day_metrics['total_seq_length'] > 0:
+                            day_per = day_metrics['total_edit_distance'] / day_metrics['total_seq_length']
+                            wandb_val_log[f'val/PER_day_{day}'] = day_per
+                    wandb.log(wandb_val_log)
 
                 # Determine if new best day. Based on if PER is lower, or in the case of a PER tie, if loss is lower
                 new_best = False
@@ -680,9 +717,14 @@ class BrainToTextDecoder_Trainer:
 
         train_stats = {}
         train_stats['train_losses'] = train_losses
-        train_stats['val_losses'] = val_losses 
+        train_stats['val_losses'] = val_losses
         train_stats['val_PERs'] = val_PERs
         train_stats['val_metrics'] = val_results
+
+        # Finish wandb run
+        if use_wandb:
+            wandb.log({'final/best_PER': self.best_val_PER, 'final/training_time_min': training_duration / 60})
+            wandb.finish()
 
         return train_stats
 
