@@ -8,7 +8,20 @@ endif(CCACHE_FOUND)
 
 project(wenet VERSION 0.1)
 
-add_definitions(-D_GLIBCXX_USE_CXX11_ABI=0)
+# Use the same C++ ABI as system PyTorch (PyTorch 2.x uses ABI=1)
+# Check PyTorch's ABI setting
+execute_process(
+  COMMAND python -c "import torch; print(torch._C._GLIBCXX_USE_CXX11_ABI)"
+  OUTPUT_VARIABLE TORCH_CXX11_ABI
+  OUTPUT_STRIP_TRAILING_WHITESPACE
+)
+if(TORCH_CXX11_ABI STREQUAL "True")
+  add_definitions(-D_GLIBCXX_USE_CXX11_ABI=1)
+  message(STATUS "Using C++11 ABI (matching PyTorch)")
+else()
+  add_definitions(-D_GLIBCXX_USE_CXX11_ABI=0)
+  message(STATUS "Using pre-C++11 ABI (matching PyTorch)")
+endif()
 
 option(GRPC "whether to build gRPC" OFF)
 
@@ -76,22 +89,15 @@ set(HIREDIS_LIB hiredis)
 set(TEST_HIREDIS_LIB hiredis)
 add_subdirectory(${CMAKE_SOURCE_DIR}/third_party/redis-plus-plus)
 
-# third_party: libtorch 1.6.0, use FetchContent_Declare to download, and
-# use find_package to find since libtorch is not a standard cmake project
-set(PYTORCH_VERSION "1.13.1")
-if(${CMAKE_SYSTEM_NAME} STREQUAL "Linux")
-    set(LIBTORCH_URL "https://download.pytorch.org/libtorch/cpu/libtorch-shared-with-deps-${PYTORCH_VERSION}%2Bcpu.zip")
-    set(URL_HASH "SHA256=d289185802baa1977701b72fc17c8aa6715481703352ce02d6f710cf007dc4f9")
-else()
-    message(FATAL_ERROR "Unsupported CMake System Name '${CMAKE_SYSTEM_NAME}' (expected 'Windows', 'Linux' or 'Darwin')")
-endif()
-FetchContent_Declare(libtorch
-  URL      ${LIBTORCH_URL}
-  URL_HASH ${URL_HASH}
+# Use system PyTorch instead of downloading libtorch
+# This allows compatibility with newer PyTorch versions (2.x+)
+execute_process(
+  COMMAND python -c "import torch; print(torch.utils.cmake_prefix_path)"
+  OUTPUT_VARIABLE TORCH_CMAKE_PREFIX
+  OUTPUT_STRIP_TRAILING_WHITESPACE
 )
-set(gtest_force_shared_crt ON CACHE BOOL "Always use msvcrt.dll" FORCE)
-FetchContent_MakeAvailable(libtorch)
-find_package(Torch REQUIRED PATHS ${libtorch_SOURCE_DIR} NO_DEFAULT_PATH)
+message(STATUS "Using system PyTorch from: ${TORCH_CMAKE_PREFIX}")
+find_package(Torch REQUIRED PATHS ${TORCH_CMAKE_PREFIX} NO_DEFAULT_PATH)
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${TORCH_CXX_FLAGS} -DC10_USE_GLOG")
 
 # utils
