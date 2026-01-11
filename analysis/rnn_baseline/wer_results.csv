@@ -1,0 +1,1427 @@
+prediction,ground_truth,wer,errors,ref_words
+You can see the cold at this point as well.,You can see the code at this point as well.,0.1,1,10
+How does it keep the cost ten?,How does it keep the cost down?,0.14285714285714285,1,7
+Not to counterfactual,Not too controversial.,0.6666666666666666,2,3
+The jury and I just work together on it.,The jury and a judge work together on it.,0.2222222222222222,2,9
+We're quite fercal about it.,Were quite vocal about it.,0.4,2,5
+He said the decision to part ways was mutual.,He said the decision to part ways was mutual.,0.0,0,9
+In fact this morning when they were talking,In fact this morning when they were talking.,0.0,0,8
+This is like a currenty jug,This is like a cruelty joke.,0.3333333333333333,2,6
+Has such a high clique continued,Has such a high clay content.,0.3333333333333333,2,6
+What working mystery,Woodworking mastery.,1.5,3,2
+Wait a minute we know this thing isn't,Wait a minute we know this thing isn't.,0.0,0,8
+Up in New England where I’m from,Up in New England where I'm from.,0.14285714285714285,1,7
+One thing or the other,One thing or the other.,0.0,0,5
+He’s one of the big proponents of that.,He's one of the big proponents of that.,0.125,1,8
+I have not got back lately.,I have not gone back lately.,0.16666666666666666,1,6
+To be it's a treasure,"To me, it's a treasure.",0.2,1,5
+He is also a member of the your hours agenum,He is also a member of the Royal Irish Academy.,0.3,3,10
+I guess I like to take care of it,I guess I like to take care of it.,0.0,0,9
+Put that back in the substance.,Put that back in the saucepan.,0.16666666666666666,1,6
+He does the yard,He does the yard.,0.0,0,4
+You just really can't tell what's going to happen,You just really can't tell what's going to happen.,0.0,0,9
+And how is in charge of making that decision,And who is in charge of making that decision?,0.1111111111111111,1,9
+Not for the job I have now.,Not for the job I have now.,0.0,0,7
+It’s really not too difficult,It's really not too difficult.,0.2,1,5
+Collisions should never happen,Collisions should never happen.,0.0,0,4
+I'm trying to do a thing.,I'm trying to think.,0.75,3,4
+employee contrary,Employee controller.,0.5,1,2
+Bacon and all that good stuff,Bacon and all that good stuff.,0.0,0,6
+If you look back,If you look back.,0.0,0,4
+And it also house when they were reading,And it also helps when they were winning.,0.25,2,8
+She came last June and watched a game in the stadium.,She came last June and watched a game in the sky dome.,0.16666666666666666,2,12
+For me I had no choice but to move,"For me, I had no choice but to move.",0.0,0,9
+Then it’s twice as on.,Then it's twice as hard.,0.4,2,5
+I can't really complain,I can't really complain.,0.0,0,4
+"When I do recipes, I just throw stuff in.",When I do recipes I just throw stuff in.,0.0,0,9
+They regularly released him,They recently released him.,0.25,1,4
+One year to public service for everybody,One year public service for everybody.,0.16666666666666666,1,6
+It's an 87 degree day.,It's an eighty seven degree day.,0.3333333333333333,2,6
+I don't know is they do it all over,I don't know if they do it all over.,0.1111111111111111,1,9
+Employing benefits,Employee Benefits.,0.5,1,2
+How long are we supposed to talk for?,How long are we supposed to talk for?,0.0,0,8
+You start to take pleasure in it,You start to take pleasure in it.,0.0,0,7
+They had us feel out a long questionary,They had us fill out a long questionnaire.,0.25,2,8
+We've had our way of life,We've had our way of life.,0.0,0,6
+His side of the family,His side of the family.,0.0,0,5
+Good to hear from you,Good to hear from you.,0.0,0,5
+I don't know where the answer is,I don't know where the answer is.,0.0,0,7
+Why’d you get the car,Where'd you get the car?,0.2,1,5
+And you pit around it,And you paint around it.,0.2,1,5
+Crime is too much,Crime is too much.,0.0,0,4
+How’s rumour is,House robberies.,1.5,3,2
+The Great Canyon,The Grand Canyon.,0.3333333333333333,1,3
+The experience,The experience.,0.0,0,2
+He said he's been saying one more.,He said he's been saying one more.,0.0,0,7
+I can't really think of anything else offhand.,I can't really think of anything else offhand.,0.0,0,8
+I couldn't make think of what you call them.,I couldn't even think of what you call them.,0.1111111111111111,1,9
+I grew up water skiing,I grew up water skiing.,0.0,0,5
+They waited a couple years,They waited a couple years.,0.0,0,5
+I have a cold one,I have a gold one.,0.2,1,5
+There's not a whole lot,There's not a whole lot.,0.0,0,5
+There was no wood on camp facilities.,There was no word on casualties.,0.5,3,6
+It kind of will down,It kind of wound down.,0.2,1,5
+But my boss we that pay for it,But my boss wouldn't pay for it.,0.2857142857142857,2,7
+My mother was complaining last year about that.,My mother was complaining last year about that.,0.0,0,8
+Very scary to see what they found out,Very scary to see what they found out.,0.0,0,8
+Not too much soy sauce,Not too much soy sauce.,0.0,0,5
+Then of your business,None of your business.,0.25,1,4
+He put up all of his hack trees,He put up all of his ash trays.,0.25,2,8
+He didn't just say,He didn't just say.,0.0,0,4
+If there was a credible punishment,If there was a credible punishment.,0.0,0,6
+I've been pretty successful with that,I've been pretty successful with that.,0.0,0,6
+In the previous version,In the previous version.,0.0,0,4
+Was it third of December?,Was it third of December?,0.0,0,5
+Envision of pommel,Invasion of Burma.,0.6666666666666666,2,3
+I guess we don't really use that many ten cats.,I guess we don't really use that many tin cans.,0.2,2,10
+We’re a set down together family,We're a sit down together family.,0.3333333333333333,2,6
+I'm originally from Maine,I'm originally from Maine.,0.0,0,4
+He had a hot pad,He had a hot pad.,0.0,0,5
+Sometimes they're not very open.,Sometimes they're not very open.,0.0,0,5
+Right now I'm getting about sixty bucks a month.,Right now I'm getting about sixty bucks a month.,0.0,0,9
+That kind of gas malice,That kind of gas mileage.,0.2,1,5
+He want do that yet,He won't do that yet.,0.2,1,5
+I mean it's dying now,I mean it's dying now.,0.0,0,5
+It was written many years ago,It was written many years ago.,0.0,0,6
+To you go by the ads when you look at them,Do you go by the ads when you look at them?,0.09090909090909091,1,11
+Do you get cable,Do you get cable?,0.0,0,4
+And these gets back to capital bottasment,And this gets back to capital punishment.,0.2857142857142857,2,7
+Here are some key points from the briefing.,Here are some key points from the briefing.,0.0,0,8
+Ninety-seven since a week,Ninety seven cents a week.,0.6,3,5
+I think the roads now are less divide,I think the roles now are less defined.,0.25,2,8
+We started taking her,We started taking her.,0.0,0,4
+So think you for not using the exploit,So thank you for not using the exploit.,0.125,1,8
+They're a common and it's a little bit weak,Their economy's a little bit weak.,0.8333333333333334,5,6
+Employees will not get any severance pay.,Employees will not get any severance pay.,0.0,0,7
+I really feel bad for the people I see there,I really feel bad for the people I see there.,0.0,0,10
+Even in my gaze,Even in my case.,0.25,1,4
+According to the judicial system,According to the judicial system.,0.0,0,5
+Afford the payments on a used car,Afford the payments on a used car.,0.0,0,7
+Couple of hundred kids in the bad,Couple of hundred kids in the band.,0.14285714285714285,1,7
+I found that really helps,I found that really helps.,0.0,0,5
+That sort of stuff,That sort of stuff.,0.0,0,4
+I know we’ve had this one lady that was a tenant,I know we've had this one lady that was attacked.,0.3,3,10
+We went to Colorado Springs,We went to Colorado Springs.,0.0,0,5
+Now it doesn’t bother me at all.,Now it doesn't bother me at all.,0.14285714285714285,1,7
+Don't have enough money,Don't have enough money.,0.0,0,4
+But I haven't told my husband,But I haven't told my husband.,0.0,0,6
+I have some neighbors across the field,I have some neighbors across the field.,0.0,0,7
+Have some part of the law,Have some part of the law.,0.0,0,6
+What's the children were grown,Once the children were grown.,0.2,1,5
+Special to the Detroit Free Press,Special to the Detroit Free Press.,0.0,0,6
+I'm doing all right.,I'm doing all right.,0.0,0,4
+I guess it's close enough.,I guess it's close enough.,0.0,0,5
+A good appearance to do a good job there you work,A good appearance to do a good job where you work.,0.09090909090909091,1,11
+People do not want more money,People donate more money.,0.75,3,4
+People put them in,People put them in.,0.0,0,4
+Every time I do something,Every time I do something.,0.0,0,5
+Is there a basis for it,Is there a basis for it?,0.0,0,6
+I think because it cause lets,I think because it costs less.,0.3333333333333333,2,6
+It's a witness and all,It's a weakness and all.,0.2,1,5
+It’s a Eddie eight,It's a eighty eight.,0.5,2,4
+Things are free enough,Things are free enough.,0.0,0,4
+At the time you hired on with this company,At the time you hired on with this company.,0.0,0,9
+For the things that we want,For the things that we want.,0.0,0,6
+Trimming season is upon the boys,Streaming season is opening boys!,0.6,3,5
+It's already done for you,It's already done for you.,0.0,0,5
+He had been in that position for years.,He had been in that position for years.,0.0,0,8
+Outside the building it's not bad,Outside the building it's not bad.,0.0,0,6
+The fifth term's families and things,The victims' families and things.,0.4,2,5
+I don't want to do anything,I don't want to do anything.,0.0,0,6
+You know I don't know,You know I don't know.,0.0,0,5
+It's difficult to really say why,It's difficult to really say why.,0.0,0,6
+There was a voice in her head.,There was a voice in her head.,0.0,0,7
+Lawmakers backed a measure last year,Lawmakers passed a measure last year.,0.16666666666666666,1,6
+I’d be your ears,I'd be curious.,1.0,3,3
+It’s like a major prediction,It's like a major production.,0.4,2,5
+We ended up watching it for a couple of hours,We ended up watching it for a couple of hours.,0.0,0,10
+You live in call,You live in Garland.,0.25,1,4
+Anything on that,Anything on that.,0.0,0,3
+He's never gone away,He's never gone away.,0.0,0,4
+What will be a luxury in the future,What will be a luxury in the future?,0.0,0,8
+Fiction books that I really like,Fiction books that I really like.,0.0,0,6
+I was really working with the middle cl,I was really working with the middle class.,0.125,1,8
+You have to get everything replaced.,You have to get everything replaced.,0.0,0,6
+There would be no way to do it,There would be no way to do it.,0.0,0,8
+What is it called,What is it called?,0.0,0,4
+They do take up a lot of your time,They do take up a lot of your time.,0.0,0,9
+I'm still going,I'm still going.,0.0,0,3
+What would you find if you just kept on going,What would you find if you just kept on going?,0.0,0,10
+Helps them understand the world,Helps them understand the world.,0.0,0,5
+I do study what's going on in the economy.,I do study what's going on in the economy.,0.0,0,9
+I like that they run tests,I like that they run tense.,0.16666666666666666,1,6
+Just like how you said my father why,Just like how you said my father was.,0.125,1,8
+You're going to get it,You're going to get it.,0.0,0,5
+Guided by versus,Guided by voices.,0.3333333333333333,1,3
+When was the last time we measured you,When was the last time we measured you?,0.0,0,8
+I wouldn't him to when best actor on top of it,I wanted him to win best actor on top of it.,0.18181818181818182,2,11
+I heard this on a free-nature program,I heard this on a Christian program.,0.14285714285714285,1,7
+You look down at your home,You look down at your arm.,0.16666666666666666,1,6
+"The permit it, try it all",The Bermuda Triangle.,1.6666666666666667,5,3
+He’s the mess old,He's nine months old.,0.75,3,4
+It is like a country,It is like a country.,0.0,0,5
+A male professor,A male profession.,0.3333333333333333,1,3
+The lettuce clip inside,The islanders sleep inside.,0.5,2,4
+They are the Detroit teller,They are the Detroit delegates.,0.2,1,5
+They have Coopers,They have coupons.,0.3333333333333333,1,3
+I get bit of a can,I can't believe they can.,0.8,4,5
+You just have to keep buying them,You just have to keep buying them.,0.0,0,7
+In a new house everything is what,In a new house everything is white.,0.14285714285714285,1,7
+Is this the way out maybe,Easiest way out maybe.,0.75,3,4
+That will have some our problem,That will help solve our problems.,0.5,3,6
+What kind of things do you think can be done?,What kind of things do you think can be done.,0.0,0,10
+I try to make sure,I try to make sure.,0.0,0,5
+There are also this various disclose,There are also these various disclosures.,0.3333333333333333,2,6
+Enjoy the holidays,Enjoy the Holidays.,0.0,0,3
+No easy choice.,No easy choices.,0.3333333333333333,1,3
+Drunk drivers kill people,Drunk drivers kill people.,0.0,0,4
+On permission or before and kid someone eh,On probation or parole and killed someone else.,0.5,4,8
+This brings me to the next point.,This brings me to the next point.,0.0,0,7
+I don't think there in a conspiracy,I don't think they're in a conspiracy.,0.14285714285714285,1,7
+A million dollars on you,A million dollars a year.,0.4,2,5
+Dress traps bijit is just a propether at this point,Trump's budget is just a proposal at this point.,0.4444444444444444,4,9
+We've had one as long as I can remember,We've had one as long as I can remember.,0.0,0,9
+However there is one key point to keep in mind.,"However, there is one key point to keep in mind.",0.0,0,10
+It's working up to a year now.,It's working up to a year now.,0.0,0,7
+A house full of snow,A house full of snow.,0.0,0,5
+All those European countries,All those European countries.,0.0,0,4
+All of those things that want us with kids,All of those things that one does with kids.,0.2222222222222222,2,9
+That are getting taught at home,That aren't getting taught at home.,0.16666666666666666,1,6
+That's what they said,That's what they said.,0.0,0,4
+That's your other 81,Tax year of eighty one.,1.0,5,5
+That's a big concern if you live there.,That's a big concern if you live there.,0.0,0,8
+So the doctor elected to have her,So the doctor elected to have her.,0.0,0,7
+Did they mail that to you?,Did they mail that to you?,0.0,0,6
+Team would like to take on other genres,Tim would like to take on other genres.,0.125,1,8
+Can't give up on it,Can't give up on it.,0.0,0,5
+Through the newspaper reviews,Through the newspaper reviews.,0.0,0,4
+We should see to our own life,We should see to our own lives.,0.14285714285714285,1,7
+What have you seen,What have you seen?,0.0,0,4
+What do you like to do this time of year?,What do you like to do this time of year.,0.0,0,10
+She didn't announce that to you,She didn't announce that to you.,0.0,0,6
+I never even knew that,I never even knew that.,0.0,0,5
+There was one other person besides myself,There was one other person besides myself.,0.0,0,7
+You don't have to hide it either.,You don't have to hide it either.,0.0,0,7
+New you can't get all of us,You can't get all of us.,0.16666666666666666,1,6
+I think the news meant,I think the newsmen.,0.5,2,4
+That's understandable.,That's understandable.,0.0,0,2
+We see them at least once a week.,We see them at least once a week.,0.0,0,8
+That was a shirker to me,That was a shocker to me.,0.16666666666666666,1,6
+It came out I guess about a month,It came out I guess about a month.,0.0,0,8
+I saw all seven games of that,I saw all seven games of that.,0.0,0,7
+The decision was not even close,The decision was not even close.,0.0,0,6
+We always seem to,We always seem to.,0.0,0,4
+The house payment,The house payment.,0.0,0,3
+Tentacle decision,Tactical decision.,0.5,1,2
+That's what's happening here.,That's what's happening here.,0.0,0,4
+They have a lot of cattle in the area,They have a lot of cattle in the area.,0.0,0,9
+That's one of the biggest ones I've seen.,That's one of the biggest ones I've seen.,0.0,0,8
+My name is Pat Johnson and I live in Texas.,My name is Pat Johnson and I live in Texas.,0.0,0,10
+They can if they want to,They can if they want to.,0.0,0,6
+A a liberal arts school,A liberal arts school.,0.25,1,4
+In the Houston area,In the Houston area.,0.0,0,4
+What kind of puppy you got,What kind of puppy you got?,0.0,0,6
+You actually had twentied it yourself,You actually hand quilted it yourself.,0.3333333333333333,2,6
+Got into it when I was young,Got into it when I was young.,0.0,0,7
+It's depressing too,It's depressing too.,0.0,0,3
+They live with us,They live with us.,0.0,0,4
+He's just grooving off like he always has,He's just goofing off like he always has.,0.125,1,8
+It's nothing like what it used to be,It's nothing like what it used to be.,0.0,0,8
+We try to do one thing once a year.,We try to do one thing once a year.,0.0,0,9
+You can come and go as you please.,You can come and go as you please.,0.0,0,8
+You just call him direct.,You just call him direct.,0.0,0,5
+Owning on them and making payments on them,Owning on them and making payments on them.,0.0,0,8
+You can have a variety.,You can have a variety.,0.0,0,5
+You have to fly through,You have to fly through.,0.0,0,5
+Just the Kraken are China,Just the regular channel.,0.75,3,4
+He plays pretty regularly,He plays pretty regularly.,0.0,0,4
+You don't feel super cold.,You don't feel super cold.,0.0,0,5
+What are the problems with public education,What are the problems with public education?,0.0,0,7
+Who will know point in playly on the past,"Oh well, no point in dwelling on the past.",0.4444444444444444,4,9
+You have to pay the interest,You have to pay the interest.,0.0,0,6
+I’m old-fashioned.,I'm old fashioned.,1.0,3,3
+It’s just a matter of passing the law.,It's just a matter of passing the law.,0.125,1,8
+You all itty departed,Zoology department.,2.0,4,2
+Not that she will remember them,Not that she will remember them.,0.0,0,6
+It didn't matter.,It didn't matter.,0.0,0,3
+That's still not enoughs for a total,That's still not enough for a total.,0.14285714285714285,1,7
+I'm not seeing that they were,I'm not saying that they were.,0.16666666666666666,1,6
+Pay an exacted and you know,Pay and exhaustion and you know.,0.3333333333333333,2,6
+All my aunts and uncles,All my aunts and uncles.,0.0,0,5
+A researcher that employs mannerity,A restaurant that employs minorities.,0.4,2,5
+It's just one story,It's just one story.,0.0,0,4
+There was one point I was going to make,There was one point I was going to make.,0.0,0,9
+I have four in the sea when I I injustice to see,I have more energy when I exercise.,1.1428571428571428,8,7
+Probably seventy,Probably seventies.,0.5,1,2
+The card is yet to make its decision public.,The court is yet to make its decision public.,0.1111111111111111,1,9
+He's not that old,He's not that old.,0.0,0,4
+He’s an indoor cat,He's an indoor cat.,0.25,1,4
+It's a number,It's a nightmare.,0.3333333333333333,1,3
+That kind of threw them off,That kind of threw them off.,0.0,0,6
+I'm mostly the easy cooker,I'm mostly the easy cooker.,0.0,0,5
+It's not anything like Kansas.,It's not anything like Kansas.,0.0,0,5
+We’re within walking distance.,We're within walking distance.,0.25,1,4
+I don't care for that at all.,I don't care for that at all.,0.0,0,7
+That's a previous generation,That's a previous generation.,0.0,0,4
+I get great distaste eating it,I get great distance hitting it.,0.3333333333333333,2,6
+The kids like to go,The kids like to go out.,0.16666666666666666,1,6
+I kind of eat right after high school,I got it right after high school.,0.42857142857142855,3,7
+Regine changes in Erie,Regime change in Iran.,0.75,3,4
+There is some definite scar in her rebore.,There is some definite snark in her report.,0.25,2,8
+As for as that goes,As far as that goes.,0.2,1,5
+Not it terms of north and south,Not in terms of north and south.,0.14285714285714285,1,7
+A few minutes ago,A few minutes ago.,0.0,0,4
+He was a curry,He was a courier.,0.25,1,4
+Here in Indicanan we pay,Here in Indiana we pay.,0.2,1,5
+We didn't do it at very much,We didn't do it very much.,0.16666666666666666,1,6
+It's not at all anything worth talking about.,It's not at all anything worth talking about.,0.0,0,8
+They can pretty much get everybody there.,They can pretty much get everybody there.,0.0,0,7
+Have the pills rubbed and everything,Have their bellies rubbed and everything.,0.3333333333333333,2,6
+Aubiance down there,Ambiance down there.,0.3333333333333333,1,3
+Go over there,Go over there.,0.0,0,3
+Was this is entire family,Was this his entire family?,0.2,1,5
+Is she going to stay home,Is she going to stay home?,0.0,0,6
+I look at homing as a job also.,I look at homemaking as a job also.,0.125,1,8
+My family's not very big,My family's not very big.,0.0,0,5
+They are nimping at times,They are tempting at times.,0.2,1,5
+You’ll have one or two that are good.,You'll have one or two that are good.,0.125,1,8
+But a cat trap in your viewing,Put a cramp in your viewing.,0.5,3,6
+The fines I really taking over,The vines are really taking over.,0.3333333333333333,2,6
+"Governor, the people of Detroit don't forget.","Governor, the people of Detroit don't forget.",0.0,0,7
+Sayin' or something like that,Seven or something like that.,0.2,1,5
+Join the gag.,Join the gang.,0.3333333333333333,1,3
+I have a standard,I have a standard.,0.0,0,4
+I don't want any inner instance.,I don't want any interruptions.,0.4,2,5
+At that’s kind of the way I was raised.,And that's kind of the way I was raised.,0.2222222222222222,2,9
+I love all the wonders that they have out now too,I love all the windows that they have out now too.,0.09090909090909091,1,11
+You know I don't.,You know I don't.,0.0,0,4
+It’ll go through the lot,It'll go through the slot.,0.4,2,5
+A fine profession,A fine profession.,0.0,0,3
+All the money,All the money.,0.0,0,3
+The thing that should be,The thing that should be.,0.0,0,5
+If you are confident that it is the right choice,If you are convinced that it is the right choice.,0.1,1,10
+Because that's perfectly clean,Because that's perfectly clean.,0.0,0,4
+Make him feel like he wasn't wanted,Make him feel like he wasn't wanted.,0.0,0,7
+We decided to stay,We decided to stay.,0.0,0,4
+There just so suspenseful,They're just so suspenseful.,0.25,1,4
+I don't like admiration,I don't like administration.,0.25,1,4
+Did you have to do that,Did you have to do that?,0.0,0,6
+I really enjoy that team,I really enjoy that team.,0.0,0,5
+I can't think of his name now.,I can't think of his name now.,0.0,0,7
+In fact the first year we were married,In fact the first year we were married.,0.0,0,8
+I've got a two year old,I've got a two year old.,0.0,0,6
+That's what the different types are.,That's what the different types are.,0.0,0,6
+When I came back here,When I came back here.,0.0,0,5
+Because she makes clothes,Because she makes clothes.,0.0,0,4
+I don't want them or anything,I don't water them or anything.,0.16666666666666666,1,6
+I did well in school,I did well in school.,0.0,0,5
+A producer of movies in Pocktomore called,A producer of movies in Baltimore called.,0.14285714285714285,1,7
+Just all different colleges,Just all different colors.,0.25,1,4
+Barbecue's and Mexican food,Barbecues and Mexican food.,0.25,1,4
+Conclusions on that,Congratulations on that.,0.3333333333333333,1,3
+Especially not in some of these big cities.,Especially not in some of these big cities.,0.0,0,8
+I have my own policy on free lattes,I have my own policy on freeloaders.,0.2857142857142857,2,7
+The nursing home,The nursing home.,0.0,0,3
+Slow call up to you,Snuggle up to you.,0.5,2,4
+I don't know if you've heard of her,I don't know if you've heard of her.,0.0,0,8
+But bringing the party together will be easier said than done.,But bringing the party together will be easier said than done.,0.0,0,11
+I have seen so many who know that God has not given us a spirit of fear,I have seen so many who know that God has not given us a spirit of fear.,0.0,0,17
+I try to improve it,I try to embrace it.,0.2,1,5
+We all know that unfortunately schools are not always the safest places.,"We all know that, unfortunately, schools are not always the safest places.",0.0,0,12
+"Now, nine things have been reported in the city.",No deaths have been reported in the city.,0.375,3,8
+He has no criminal convictions.,He has no criminal convictions.,0.0,0,5
+Thank you for signing up,Thank you for signing up.,0.0,0,5
+This is the price paid for counting ins rather than chicken appeons.,This is the price paid for counting eggs rather than chicken embryos.,0.16666666666666666,2,12
+Classly grew up on a family farm where he still wats,"Grassley grew up on a family farm, where he still works.",0.18181818181818182,2,11
+We deserted to ask them,We decided to ask them.,0.2,1,5
+And everyone involved in the case bore the jury and been here before.,"And everyone involved in the case, bar the jury, had been here before.",0.15384615384615385,2,13
+A talk is fictioned below the takes,A dog is featured below the text.,0.42857142857142855,3,7
+Lo and behold they did not,"Lo and behold, they did not.",0.0,0,6
+Who so you need to put away the milk and cereal,"Oh, so you need to put away the milk and cereal?",0.09090909090909091,1,11
+Everything Trump wants to do there comes everything Trudeau was to do,Everything Trump wants to do threatens everything Trudeau wants to do.,0.2727272727272727,3,11
+Peter was in bed when I walked into the bedroom.,Peter was in bed when I walked into the bedroom.,0.0,0,10
+How does she live with herself,How does she live with herself?,0.0,0,6
+I'm not even disputing the results of the boil.,I'm not even disputing the results of the board.,0.1111111111111111,1,9
+"And a reckoning, I say, and not turned north that",And Hurricane Jose had not turned north yet.,0.75,6,8
+The two have since taken some steps towards a reprimand.,The two have since taken some steps toward a rapprochement.,0.2,2,10
+But there have often been times when talking has been a problematic iller.,But there have often been times when Turkey has been a problematic ally.,0.15384615384615385,2,13
+Check out the new Selds additives.,Check out the new Sales items!,0.3333333333333333,2,6
+I just to start there and sort it all up,I just stood there and soaked it all up.,0.3333333333333333,3,9
+That's a good way to get started.,That's a good way to get started.,0.0,0,7
+I was on trances,I was on crutches.,0.25,1,4
+When you stumble to think of it,When you stop to think of it.,0.14285714285714285,1,7
+It kind of be used to hassle somebody.,It could be used to hassle somebody.,0.2857142857142857,2,7
+America is leasing it,America is losing it.,0.25,1,4
+I don't know whether you did yours first,I don't know whether you did yours first.,0.0,0,8
+The stinking clad grows under the carpen,The sticky slide rugs under the carpet.,0.5714285714285714,4,7
+I think the majority are in that,I think the majority are in that.,0.0,0,7
+The people I know are from there,The people I know are from there.,0.0,0,7
+I haven't seen too many lately.,I haven't seen too many lately.,0.0,0,6
+I've only seen him in funny stuff,I've only seen him in funny stuff.,0.0,0,7
+For a different section,For a different section.,0.0,0,4
+Their mother was sick at times,Their mother was sick at times.,0.0,0,6
+Lieutenant had no regrets about her decision.,Wilkinson had no regrets about her decision.,0.14285714285714285,1,7
+My three year old,My three year old.,0.0,0,4
+I really just started,I really just started.,0.0,0,4
+If you're on a trip or something,If you're on a trip or something.,0.0,0,7
+She handles it pretty well,She handles it pretty well.,0.0,0,5
+We ran into some problems,We ran into some problems.,0.0,0,5
+I just got the new issuer,I just got the new issue.,0.16666666666666666,1,6
+You’ll still see people,You'll still see people.,0.25,1,4
+To separate the news from the comment,To separate the news from the comment.,0.0,0,7
+Like the old ache wizards,Like the old Hank Williams.,0.4,2,5
+I would work in the summer,I would work in the summer.,0.0,0,6
+Dealer untrijadad this to convernmation bias,Taylor attributed this to confirmation bias.,0.5,3,6
+We apologize but this video as found to learn,"We apologize, but this video has failed to load.",0.3333333333333333,3,9
+"Go talk to her in the library, I'll be right down.","Go talk to her in the lobby, I'll be right down!",0.09090909090909091,1,11
+This project has been a real team effort.,This project has been a real team effort.,0.0,0,8
+He can consistently store the damage you need to trial your an into play,He can consistently score the damage you need to prowl your hand into play.,0.21428571428571427,3,14
+This is a ting powders revisited.,This is headache powders revisited.,0.4,2,5
+Understanding the mobile class name,Understanding the mobile landscape.,0.5,2,4
+Trump as nominee T. Weizherm bar as the next attorney general,Trump has nominated William Barr as the next attorney general.,0.5,5,10
+Maxwell thinks a similar argument should be made for source indolence.,Pasquale thinks a similar argument should be made for search engines.,0.2727272727272727,3,11
+The Hercules and rebel stack medals I Helen’s here,The Hercules and rainbow stag beetles are highlights here.,0.5555555555555556,5,9
+A visual comparison of various distances,A Visual Comparison of Various Distances,0.0,0,6
+I could hear my accelerated breathing,I could hear my accelerated breathing.,0.0,0,6
+The news and stories that matter delivered with warnings.,"The news and stories that matter, delivered weekday mornings.",0.2222222222222222,2,9
+Which Amica gives impressed you it terms of gameplay or cynical trish,Which Amiga games impressed you in terms of gameplay or technical tricks?,0.4166666666666667,5,12
+Also at that game we were starting to hate is other a little bit,"Also, at that time we were starting to hate each other a little bit.",0.14285714285714285,2,14
+Are either or both does disordered dangerous under thevis counties are tonists,Are either or both dogs considered dangerous under Davis County ordinance?,0.5454545454545454,6,11
+Cited and difficult calculations,Target and Difficulty Calculations,0.5,2,4
+What is beef jerky anyway,"What is beef jerky, anyway?",0.0,0,5
+The when’tenty you choose extends the quantity available,The quantity you chose exceeds the quantity available.,0.375,3,8
+But even at its most scientificing the concept is someple,"But even at its most scientific, the concept is simple.",0.2,2,10
+Are they the same there,Are they the same there?,0.0,0,5
+Is it a government or a real con of importance?,Is it a novelty or a real coin of importance?,0.2,2,10
+Water into this bowl,Water into this bowl.,0.0,0,4
+We just left it alone.,We just left it alone.,0.0,0,5
+You can always eat it up again.,You can always heat it up again.,0.14285714285714285,1,7
+Trying to find someone at home,Trying to find someone at home.,0.0,0,6
+Short of like an insane program,Sort of like an exchange program.,0.3333333333333333,2,6
+I don't know how we could make it more fair.,I don't know how we could make it more fair.,0.0,0,10
+Better than your up’d,Better than Europe.,0.6666666666666666,2,3
+To go out fishing in a bit,To go out fishing in a boat.,0.14285714285714285,1,7
+About four hundred shed up,About four hundred showed up.,0.2,1,5
+We came from leaving in a condo for nine years,We came from living in a condo for nine years.,0.1,1,10
+They were printing much in good taste.,They were pretty much in good taste.,0.14285714285714285,1,7
+I never quite found a New York fan,I never quite found a New York fan.,0.0,0,8
+Before you realize anything is going on,Before you realize anything is going on.,0.0,0,7
+When I'm up here,When I'm up here.,0.0,0,4
+And that's what it falls under.,And that's what it falls under.,0.0,0,6
+I never go to the fishing section.,I never go to the fiction section.,0.14285714285714285,1,7
+"Our sleeping pace, I guess.",Our sleeping bags I guess.,0.2,1,5
+She things like that,See things like that.,0.25,1,4
+I don't get that,I don't get that.,0.0,0,4
+We're going to have to do something,We're going to have to do something.,0.0,0,7
+I wasn't really,I wasn't really.,0.0,0,3
+We think it's good,We think it's good.,0.0,0,4
+It is in agreement with its provisions,It is in agreement with its provisions.,0.0,0,7
+I can really tell the difference,I can really tell the difference.,0.0,0,6
+The last book I read,The last book I read.,0.0,0,5
+Almost like a drilling,Almost like a tingling.,0.25,1,4
+I think that could work as a toy.,I think that could work as a toy.,0.0,0,8
+I noticed those taxes,I noticed those dogs.,0.25,1,4
+Those games are fun to watch,Those games are fun to watch.,0.0,0,6
+Things of that t-shirt which made us feel good,Things of that nature which made us feel good.,0.1111111111111111,1,9
+What kind of dog do you have?,What kind of dog do you have.,0.0,0,7
+They are going to get a gone no matter what,They are going to get a gun no matter what.,0.1,1,10
+A little brief auto bicagacy of thyselves,A little brief autobiography of themselves.,0.5,3,6
+On occasion I can wear jeans,On occasion I can wear jeans.,0.0,0,6
+The news was first reported by Dithan Alamate,The news was first reported by Deadline Hollywood.,0.25,2,8
+Students to not like this response,Students do not like this response.,0.16666666666666666,1,6
+There are no more five-kilocalories talkers straight of the map,There are no more vehicle tokens spread across the map.,0.4,4,10
+Where is the Ovatiss that they persist conscious?,Where is the evidence that they possess consciousness?,0.375,3,8
+"Nevertheless, I row my house as I get up.",Nevertheless I roll my eyes as I get up.,0.2222222222222222,2,9
+People will do emulated context things for a patient,"People will do humiliating, grotesque things for ambition.",0.5,4,8
+Reveral correspondence had their new perks searched,Several correspondents had their notebooks searched.,0.6666666666666666,4,6
+They said of immerserance to start new cancer callers.,They send off emissaries to start new cancer colonies.,0.4444444444444444,4,9
+You actually look forward to finances or records raiding your company.,You actually look forward to foxes or raccoons raiding your garbage.,0.2727272727272727,3,11
+For example the face might be typically bittered right black and white,"For example, the face might be typically painted red, black and white.",0.16666666666666666,2,12
+It was given to you the minute you cast your pollen.,It was given to you the minute you cast your ballot.,0.09090909090909091,1,11
+"Check out EP crowns, dlicks, and other online sites for deals.","Check out eBay, Craigslist and other online sites for deals.",0.3,3,10
+Sign up for our daily newsletter of the top stories in Curry County.,Sign up for our daily newsletter of the top stories in Courier country.,0.15384615384615385,2,13
+Such things are a violation of the UN Charter,Such threats are a violation of the UN Charter.,0.1111111111111111,1,9
+Never makes a moment,Never miss a moment!,0.25,1,4
+He is not making any major changes for the rearmost.,He is not making any major changes for the rematch.,0.1,1,10
+Works is the implication of blame,Worse is the implication of blame.,0.16666666666666666,1,6
+I didn't buy a get,I didn't buy a kit.,0.2,1,5
+Watch they have children over here,Once they have children over here.,0.16666666666666666,1,6
+My husband and all the men,My husband and all the men.,0.0,0,6
+To ask automakers for more jobs won't work,To ask automakers for more jobs won't work.,0.0,0,8
+I like just looking at the bay bolts,I like just looking at the billboards.,0.2857142857142857,2,7
+That's true of any sport.,That's true of any sport.,0.0,0,5
+I would not mind it,I would not mind it.,0.0,0,5
+I'm concerned,I'm concerned.,0.0,0,2
+The motivation isn't there for a lot of people.,The motivation isn't there for a lot of people.,0.0,0,9
+So you enjoy gardening,So you enjoy gardening?,0.0,0,4
+She wheeled it out on a cart.,She wheeled it out on a cart.,0.0,0,7
+That's for airing me rap,Thanks for hearing me rap.,0.4,2,5
+We're living longer and people are less trusting,We're living longer and people are less trusting.,0.0,0,8
+The choice is yours,The choice is yours.,0.0,0,4
+Take off and leave your group and go explore,Take off and leave your group and go explore.,0.0,0,9
+Are you recycling,Are you recycling?,0.0,0,3
+Elting vision,Healthy vision.,0.5,1,2
+They was just bad side effects,They was just bad side effects.,0.0,0,6
+I just bought a new house,I just bought a new house.,0.0,0,6
+It's like we've lost our values in this country.,It's like we've lost our values in this country.,0.0,0,9
+It is time we made that decision together.,It is time we made that decision together.,0.0,0,8
+So many of them nowadays,So many of them nowadays.,0.0,0,5
+Basically the guy comes to,Basically the guy commits.,0.5,2,4
+So it's been real fun here to see,So it's been real fun here to see.,0.0,0,8
+Ways porn exciting but crinful,waves born exercising boat grateful,1.0,5,5
+Sharp spring mathematics developin' nonsenseful,shop spraying mathematics developing nashville,0.8,4,5
+Gun buggers and all the last persist mills,run bargains hopeless persists meals,1.6,8,5
+Kids allowed monarch trap uses,keeps allowed monarch strap uses,0.4,2,5
+Casualty communication are first receptacle scroll,casualty communism argue frost receptacle scroll,0.5,3,6
+Supported encoding key arrive grass,supported according key arrive crush,0.4,2,5
+Laking traditional used lat,playing traditional used flat,0.5,2,4
+Kirkos teams dollars concentration wins tampanly,turquoise teams dollars concentration wind's stupidly,0.5,3,6
+Pass a guest idle ague again crop stick,pops against idol accurate crop steak,1.1666666666666667,7,6
+It during sallows and everyone,kept touring shallows hang everyone,0.8,4,5
+There’s news are an inning by commitment,terms news earning by commitment,0.8,4,5
+Grade their own exam and throw staves,grandparents engagement throw stage,1.5,6,4
+"Elk, diplomatic, please re-oppose names.",elk diplomatic plates reimbursed names,0.4,2,5
+First three clips done,first terror slips done,0.5,2,4
+"I see Elds blooming coming up in your mind, take.",ice hairs blooming coming opinion take,1.1666666666666667,7,6
+Semesters please lean sales fertilisers demesher,semesters plans lean zales fertilizers dementia,0.6666666666666666,4,6
+Grade nucleus or have access destroying,grade nucleus arrive excess destroying,0.6,3,5
+The meeting goes to minutely.,bonsai meeting ghost mainly,1.0,4,4
+Resell telling serious understanding moral,resale telling serious understanding moral,0.2,1,5
+"Democratically, mitosis is common crowd paint.",democratically reduces carbon cramped baked,1.0,5,5
+We're playing mascotball peepee,We're paying basketball people.,0.75,3,4
+It sounds like you have really sure views on it.,It sounds like you have really strong views on it.,0.1,1,10
+On Sunday the snow and ice came in,On Sunday the snow and ice came in.,0.0,0,8
+But trusting times could call for rustic measures,But drastic times could call for drastic measures.,0.25,2,8
+Either savings are an investment,Either savings or investment.,0.5,2,4
+Mentified vision able to see at night,"Magnified vision, able to see at night.",0.14285714285714285,1,7
+Of course my shop was such that I didn’t,Of course my job was such that I didn't.,0.2222222222222222,2,9
+Please adjust it now have a new visual effect,Blizzards now have a new visual effect.,0.42857142857142855,3,7
+It’s like a junk I heard once,It's like a joke I heard once.,0.2857142857142857,2,7
+After we got married we moved,After we got married we moved.,0.0,0,6
+Live without dessert for the most part,Live without dessert for the most part.,0.0,0,7
+I don't cook anymore,I don't cook anymore.,0.0,0,4
+A lot of people complain,A lot of people complain.,0.0,0,5
+Cheat just get on the first step and lie down,She'd just get on the first step and lay down.,0.2,2,10
+It seems like you get eat the watch,It seems like you get hit the worst.,0.25,2,8
+They got real fact,They got real fat.,0.25,1,4
+I mean just nothing,I mean just nothing.,0.0,0,4
+While my orders was a year old,While my oldest was a year old.,0.14285714285714285,1,7
+So it was really too late to do much,So it was really too late to do much.,0.0,0,9
+I'm tired of being a positivist though,I'm tired of being a pacifist though.,0.14285714285714285,1,7
+Maybe they're kiting on that,Maybe they're counting on that.,0.2,1,5
+Being able to have a choice,Being able to have a choice.,0.0,0,6
+We want to stay forever,We want to stay forever.,0.0,0,5
+Of course they ate a lot of seafood.,Of course they ate a lot of sea food.,0.2222222222222222,2,9
+It is exterminating a total of three thousand properties were affected,It is estimated a total of three thousand properties were affected.,0.09090909090909091,1,11
+Not all men pay their employees less,Not all men pay their employees less?,0.0,0,7
+Also known as wiffy,Also known as welfare.,0.25,1,4
+Where the game be priced differently during and after early access,Will the game be priced differently during and after Early Access?,0.09090909090909091,1,11
+Then reboot the system,Then reboot the system.,0.0,0,4
+The pretended I tried was there many corn dog whichs were supome.,The product I tried was their mini corn dogs which were superb!,0.5,6,12
+Vickaver teacher versus disturbing ocean for erasing gay student,Vancouver Teacher Faces Disciplinary Action for Harassing Gay Student,0.5555555555555556,5,9
+How to avoid being tracked on the internet,How To Avoid Being Tracked on The Internet,0.0,0,8
+He was that asexual,He was that exceptional.,0.25,1,4
+The details of this plot were reported two years ago.,Details of this plot were reported two years ago.,0.1111111111111111,1,9
+We are absolutely as insideed about this as you,We are absolutely as excited about this as you!,0.1111111111111111,1,9
+What other questions would you ask,What other questions would you ask?,0.0,0,6
+So what about the enemies of the Assad regime?,"So, what about the enemies of the Assad regime?",0.0,0,9
+It’s too veggiebull to just let people stay in sorry.,"Its too valuable to just let people stay in, sorry.",0.1,1,10
+And if I'm so placed by the court I'll never have to girl again,"And if I'm so blessed by the gods, I'll never have to kill again.",0.21428571428571427,3,14
+Your bothding and each want be visible to other users.,Your birthday and age won't be visible to other users.,0.3,3,10
+Please give me a pyramid.,Please give me a paramedic.,0.2,1,5
+A mind with a small perception is a word of the government,A man with a small pension is a ward of the Government.,0.25,3,12
+This week's pick is an accolade that can tie and sue a strug.,This week's pick is an algorithm that can diagnose a stroke.,0.45454545454545453,5,11
+Yet the president is not wrong to me exemptuant and inaged,Yet the president is not wrong to be exasperated and enraged.,0.2727272727272727,3,11
+The butch canoe land on the spooth plakes,The birch canoe slid on the smooth planks.,0.5,4,8
+Clue the sheet to the stark blue cracker ad,Glue the sheet to the dark blue background.,0.5,4,8
+It’s easy to deal the top of a wheel,It's easy to tell the depth of a well.,0.4444444444444444,4,9
+These days a chicken leg is a rare dish,These days a chicken leg is a rare dish.,0.0,0,9
+Rights is often served in round bowls,Rice is often served in round bowls.,0.14285714285714285,1,7
+The chews of lemons makes fine parch,The juice of lemons makes fine punch.,0.2857142857142857,2,7
+The bucks was thrown beside the part truck,The box was thrown beside the parked truck.,0.25,2,8
+The Halds were feed shopped card and corpus,The hogs were fed chopped corn and garbage.,0.625,5,8
+For hours of study work finds us,Four hours of steady work faced us.,0.42857142857142855,3,7
+The small pup layered a hole in the sock,The small pup gnawed a hole in the sock.,0.1111111111111111,1,9
+The fish trenzand and turned on the bet hook,The fish twisted and turned on the bent hook.,0.2222222222222222,2,9
+Press the backs and sew a button on the vest,Press the pants and sew a button on the vest.,0.1,1,10
+The front five was far short of perfect.,The swan dive was far short of perfect.,0.25,2,8
+The beauty of the view stunned the young boy.,The beauty of the view stunned the young boy.,0.0,0,9
+Two blue fishes swim in the take.,Two blue fish swam in the tank.,0.42857142857142855,3,7
+Her best was full of usual dress.,Her purse was full of useless trash.,0.42857142857142855,3,7
+The colt reared and threw the doll ready.,The colt reared and threw the tall rider.,0.25,2,8
+"It turned, rained, and held the same morning.","It snowed, rained, and hailed the same morning.",0.25,2,8
+Red fixed outlet for pleasure,Read verse out loud for pleasure.,0.6666666666666666,4,6
+I saw the learned to your left shoulder,Hoist the load to your left shoulder.,0.42857142857142855,3,7
+He vegetabled carded,A vegetable garden.,1.0,3,3
+It really helps those people,It really helps those people.,0.0,0,5
+I never really thought of it that way,I never really thought of it that way.,0.0,0,8
+I don't know who looks forward to it more.,I don't know who looks forward to it more.,0.0,0,9
+A wide variety,A wide variety.,0.0,0,3
+We get fined a place that will take everything,We can't find a place that will take everything.,0.2222222222222222,2,9
+When they got in and speak,When they cut in and speak.,0.16666666666666666,1,6
+There grew now,They're grown now.,0.6666666666666666,2,3
+It comes down to measuring,It comes down to measuring.,0.0,0,5
+Very suspenseful,Very suspenseful.,0.0,0,2
+Is that pollution,Is that pollution?,0.0,0,3
+The productivity and the training costs,The productivity and the training costs.,0.0,0,6
+They're always willing to help you out.,They're always willing to help you out.,0.0,0,7
+In the martyrs,In the mountains.,0.3333333333333333,1,3
+There is always cool,The air is always cool.,0.4,2,5
+That's the way I feel,That's the way I feel.,0.0,0,5
+What kind of running do you do?,What kind of running do you do?,0.0,0,7
+I don't think it's quite as green,I don't think it's quite as green.,0.0,0,7
+How launch is Willens,How large is Williams?,0.5,2,4
+I think we've got to do more with recycling.,I think we've got to do more with recycling.,0.0,0,9
+I have many a time called am to come get me,I have many a time called him to come get me.,0.09090909090909091,1,11
+He worked hard at it,He worked hard at it.,0.0,0,5
+The French did hear best through the coat,The frosty air passed through the coat.,0.5714285714285714,4,7
+The Rook and Mace fell to full the merch.,The crooked maze failed to fool the mouse.,0.75,6,8
+An inning first least to rock sums,Adding fast leads to wrong sums.,0.8333333333333334,5,6
+The show was a lot from the very start.,The show was a flop from the very start.,0.1111111111111111,1,9
+A saw is a school used for making points.,A saw is a tool used for making boards.,0.2222222222222222,2,9
+The working mood on will old feels,The wagon moved on well oiled wheels.,0.7142857142857143,5,7
+Much the surgeries bust the next hill,March the soldiers past the next hill.,0.42857142857142855,3,7
+A cup of cider makes sweet phlegm.,A cup of sugar makes sweet fudge.,0.2857142857142857,2,7
+Place a respect you the parch stems,Place a rosebush near the porch steps.,0.5714285714285714,4,7
+Both lost their lives in the raging storm.,Both lost their lives in the raging storm.,0.0,0,8
+We talked of the signed show in the circus.,We talked of the side show in the circus.,0.1111111111111111,1,9
+Use a parcel to ret the first trab,Use a pencil to write the first draft.,0.375,3,8
+He ran halfway to the Apple Store.,He ran half way to the hardware store.,0.375,3,8
+The luck struck to bow the third peering,The clock struck to mark the third period.,0.375,3,8
+A small creek got aroused the field,A small creek cut across the field.,0.2857142857142857,2,7
+Cars and buses scold in snow trips,Cars and busses stalled in snow drifts.,0.42857142857142855,3,7
+The set of children hit the floor with a chuch.,The set of china hit the floor with a crash.,0.2,2,10
+This is a ground season for Harch on the road,This is a grand season for hikes on the road.,0.2,2,10
+The dune rose from the est of the water,The dune rose from the edge of the water.,0.1111111111111111,1,9
+Those workst were the cue for the actor to leave,Those words were the cue for the actor to leave.,0.1,1,10
+A yacht slid around the point into the bay.,A yacht slid around the point into the bay.,0.0,0,9
+The dew met will playing on the sand,The two met while playing on the sand.,0.25,2,8
+The eksteen tried on the fidget paste.,The ink stain dried on the finished page.,0.625,5,8
+The world town was seized without a fight.,The walled town was seized without a fight.,0.125,1,8
+The lease read out in sixteen weeks,The lease ran out in sixteen weeks.,0.14285714285714285,1,7
+It's just back at change to a a lot of people,It's just pocket change to a lot of people.,0.3333333333333333,3,9
+They don't mean that this was the topic,They told me that this was the topic.,0.25,2,8
+Are you involved in any other things,Are you involved in any other things?,0.0,0,7
+The other thing to do,The other thing to do.,0.0,0,5
+They both cooperate together,They both cooperate together.,0.0,0,4
+It got too cold up there,It got too cold up there.,0.0,0,6
+So let's make some conclusions.,"So, let's make some conclusions.",0.0,0,5
+Train exoduses and everything else,Train accidents and everything else.,0.2,1,5
+I guess this about it,I guess that's about it.,0.2,1,5
+I don't think it's a good idea,I don't think it's a good idea.,0.0,0,7
+Especially for rebate or fenders,Especially for repeat offenders.,0.75,3,4
+Since we’ve been married I’ve stopped going,"Since we've been married, I've stopped going.",0.2857142857142857,2,7
+You don't want to or you don't have the time.,You don't want to or you don't have the time?,0.0,0,10
+Others said they were disappointed,Others said they were disappointed.,0.0,0,5
+Somebody's going to change it,Somebody's going to change it.,0.0,0,5
+This is easy for me,This is easy for me.,0.0,0,5
+It's not as severe.,It's not as severe.,0.0,0,4
+If you don't refund it,If you don't refute it.,0.2,1,5
+Thank you for participation,Thank you for participating.,0.25,1,4
+Employers have also voiced discerned.,Employers have also voiced concerns.,0.2,1,5
+An apartment or a home,An apartment or a home?,0.0,0,5
+Inside the jail there,Inside the jail there.,0.0,0,4
+What should be done to avoid all this problems,What should be done to avoid all these problems?,0.1111111111111111,1,9
+They don't reason,They don't register.,0.3333333333333333,1,3
+It's called riffing my life,It's called reviewing my life.,0.2,1,5
+How are you doing,How are you doing?,0.0,0,4
+Do you think this is right,Do you think this is right?,0.0,0,6
+"This is good, isn’t it?","This is good, isn't it?",0.2,1,5
+I am extra doing this,I am also doing this.,0.2,1,5
+I feel that we should help them,I feel that we should help them.,0.0,0,7
+What should we do now?,What should we do now?,0.0,0,5
+How are you,How are you?,0.0,0,3
+Can you show me the way,Can you show me the way?,0.0,0,6
+Many people will come here,Many people will come here.,0.0,0,5
+She got this from me,She got this from me.,0.0,0,5
+This is really very good,This is really very good.,0.0,0,5
+We have worked a lot on this,We have worked a lot on this.,0.0,0,7
+I guess that is very good,I guess that is very good.,0.0,0,6
+I will make it work,I will make it work.,0.0,0,5
+I think we all do right,"I think we all do, right?",0.0,0,6
+I wasn't seeing this at all.,I wasn't saying this at all.,0.16666666666666666,1,6
+I have to pay for four things,I have to pay for four things.,0.0,0,7
+Call me once you get here,Call me once you get here.,0.0,0,6
+What part of this is hard?,What part of this is hard?,0.0,0,6
+There's always a way out of this,There's always a way out of this.,0.0,0,7
+He came by looking for you,He came by looking for you.,0.0,0,6
+They are very mean I don't like it,"They are very mean, I don't like it.",0.0,0,8
+Is there anything to do for me,Is there anything to do for me?,0.0,0,7
+What could you do in a few days,What could you do in a few days?,0.0,0,8
+Remember to let other people through first.,Remember to let other people through first.,0.0,0,7
+Show me what you have got.,Show me what you have got.,0.0,0,6
+I can't believe this is true,I can't believe this is true.,0.0,0,6
+I used their water,I used their water.,0.0,0,4
+I like the last bit of this movie,I like the last bit of this movie.,0.0,0,8
+Be nice to each other,Be nice to each other.,0.0,0,5
+I will stay with my family for a week.,I will stay with my family for a week.,0.0,0,9
+I went back to get the kids,I went back to get the kids.,0.0,0,7
+Something seems off with her,Something seems off with her.,0.0,0,5
+She gave me a new watch.,She gave me a new watch.,0.0,0,6
+I like to enjoy my life in the country.,I like to enjoy my life in the country.,0.0,0,9
+Do you still care about your job,Do you still care about your job?,0.0,0,7
+She lives in the house right this to me,She lives in the house right next to me.,0.1111111111111111,1,9
+Are they both still around?,Are they both still around?,0.0,0,5
+I can't less time to be with children these days,I get less time to be with children these days.,0.1,1,10
+Years have gone by,Years have gone by.,0.0,0,4
+Can we use this for something,Can we use this for something?,0.0,0,6
+What is the point of all this,What is the point of all this?,0.0,0,7
+I can't think of a better time,I can't think of a better time.,0.0,0,7
+I hope to see you there.,I hope to see you there.,0.0,0,6
+We should at least try this out.,We should at least try this out.,0.0,0,7
+I would love to have more of this too,I would love to have more of these too.,0.1111111111111111,1,9
+It’s great you could join us here.,It's great you could join us here.,0.14285714285714285,1,7
+Came this with you for now,Keep this with you for now.,0.16666666666666666,1,6
+Someone thought this show was very bad.,Someone thought this show was very bad.,0.0,0,7
+I don't like this either,I don't like this either.,0.0,0,5
+How far do we have to go,How far do we have to go.,0.0,0,7
+Are you able to come with me next week?,Are you able to come with me next week?,0.0,0,9
+Can you guess what’s in this,Can you guess what's in this?,0.16666666666666666,1,6
+Will you be around next week,Will you be around next week?,0.0,0,6
+What's different about this,What's different about this?,0.0,0,4
+This house looks very big,This house looks very big.,0.0,0,5
+What's your point?,What's your point?,0.0,0,3
+Some people are great good at this,Some people are quite good at this.,0.14285714285714285,1,7
+What would you like to do first?,What would you like to do first?,0.0,0,7
+I would love to be a part of this,I would love to be a part of this.,0.0,0,9
+Crime made turn couldn’t morning somewhere,crime men turn couldn't morning somewhere.,0.3333333333333333,2,6
+Sports miscompanies art television,sports miss companies aren't television.,0.6,3,5
+Truck newspaper you'll report baby,drug newspaper you'll report baby.,0.2,1,5
+What choices couldn't the thing cards,won't choices couldn't thirty cards.,0.6,3,5
+Avoid anymore ween’t guys oil,avoid anymore we'd guys oil.,0.2,1,5
+Funny past decisions Dallas future bring,funny past decisions dallas future bring.,0.0,0,6
+Variety yours originally take second,variety yours originally check second.,0.2,1,5
+Child boys classical clothes team,child boys classical clothes team.,0.0,0,5
+Store somewhere unusual house miss,store somewhere unusual helps miss.,0.2,1,5
+Course curl exactly fan watching,course girl exactly fan watching.,0.2,1,5
+You’ll middle benefits enunciation life,you'll middle benefits education lives.,0.6,3,5
+Mother testing secat easier room would am number,mother testing second easier program number.,0.6666666666666666,4,6
+"Coming soon, your favorite food.",coming sun york favorite food.,0.4,2,5
+"Grow, penned, mean, descencellaly, woove",grew spend men necessarily you've.,1.0,5,5
+Fourteenth month expected fav nursing,vote month expected fan nursing.,0.4,2,5
+Thank walk catch along set,thank york catch along set.,0.2,1,5
+Mother team system amount Texas,mother team system amount texas.,0.0,0,5
+Story noise sounds he it friends,story noise sounds eight friends.,0.4,2,5
+Line talked to noon depends across weekend,line talked turn depends across weekend.,0.3333333333333333,2,6
+Last number of employees will miss this,Large number of employees will miss this.,0.14285714285714285,1,7
+This program will help our growing team.,This program will help our growing team.,0.0,0,7
+My baby grew a lot in the first since most,My baby grew a lot in the first six months.,0.2,2,10
+This policy is important for social interest.,This policy is important for social interest.,0.0,0,7
+I knew what the deal was in the past,I know what the deal was in the past.,0.1111111111111111,1,9
+While at the education will certainly help,Quality education will certainly help.,0.6,3,5
+This does not appeal to me at all.,This does not appeal to me at all.,0.0,0,8
+They gave variety of benefits to their employees.,They gave variety of benefits to their employees.,0.0,0,8
+We have a long evening ahead of us.,We have a long evening ahead of us.,0.0,0,8
+Different choices between past and future,Different choices between past and future.,0.0,0,6
+This will fall down soon,This will fall down soon.,0.0,0,5
+American teams are clear this season,American teams are clear this season.,0.0,0,6
+Nothing will change my heart on this matter.,Nothing will change my heart on this matter.,0.0,0,8
+She was supposed to go with me.,She was supposed to go with me.,0.0,0,7
+He says he was paid today,He says he was paid today.,0.0,0,6
+School gave a card and books to this small child,School gave a card and books to this small child.,0.0,0,10
+Parents of small children care about this,Parents of small children care about this.,0.0,0,7
+She was talking her time to do the work,She was talking her time to do the work.,0.0,0,9
+This policy mostly sounds right to me,This policy mostly sounds right to me.,0.0,0,7
+You should avoid this course.,You should avoid this course.,0.0,0,5
+Especially if you are coming this weekend,Especially if you are coming this weekend.,0.0,0,7
+We will listen to whatever jury says.,We will listen to whatever jury says.,0.0,0,7
+I will gave you mine for free,I will give you mine for free.,0.14285714285714285,1,7
+How much is your card worth,How much is your card worth?,0.0,0,6
+Please order our regular food for everyone,Please order our regular food for everyone.,0.0,0,7
+It pertains to my daily life at the present time.,It pertains to my daily life at the present time.,0.0,0,10
+But you have friends that have children,But you have friends that have children.,0.0,0,7
+Stones with ruins on them served as chimployees,Stones with runes on them served as checkpoints.,0.25,2,8
+There was a story of a woman last year,There was a story of a woman last year.,0.0,0,9
+A medical problem,A medical problem.,0.0,0,3
+What area of the country do you live in,What area of the country do you live in?,0.0,0,9
+This happened about a week ago.,This happened about a week ago.,0.0,0,6
+It seems like you walk quirkier,It seems like you walk quicker.,0.16666666666666666,1,6
+In the chistruct,In the district.,0.3333333333333333,1,3
+They startin looking into programs,They started looking into programs.,0.2,1,5
+Join us for an upcoming event,Join us for an upcoming event.,0.0,0,6
+Do you believe in the teleus compoys,Do you believe in the Dallas Cowboys?,0.2857142857142857,2,7
+Do you find yourself funny,Do you find yourself funny?,0.0,0,5
+To get into the systems very difficult,To get into the system's very difficult.,0.14285714285714285,1,7
+Second generation,Second generation.,0.0,0,2
+We'll rough time camping,Real rough type camping.,0.5,2,4
+So I made my own version,So I made my own version.,0.0,0,6
+They said it was really rivety.,They said it was really riveting.,0.16666666666666666,1,6
+That would be good,That would be good.,0.0,0,4
+I'm not building any reserves.,I'm not building any reserves.,0.0,0,5
+Just put your paper in the same place every day.,Just put your paper in the same place every day.,0.0,0,10
+Pull all this weight,Pull all this weight.,0.0,0,4
+Bring the pot to a boil.,Bring the pot to a boil.,0.0,0,6
+It's my voice,It's my voice.,0.0,0,3
+What does the American report say,What does the American report say?,0.0,0,6
+Social states give more benefits to employees,Social states give more benefits to employees.,0.0,0,7
+I am taking my car to check this out in the evening,I am taking my car to check this out in the evening.,0.0,0,12
+This car is super expensive,This car is super expensive.,0.0,0,5
+Her friend will think her for the card,Her friend will thank her for the card.,0.125,1,8
+Originally it was a year-long nursing program.,"Originally, it was a year long nursing program.",0.25,2,8
+What happened to the sound,What happened to the sound?,0.0,0,5
+Tell me your education story.,Tell me your education story.,0.0,0,5
+There's good music and good food,There's good music and good food.,0.0,0,6
+What is the cost of each piece you sell?,What is the cost of each piece you sell?,0.0,0,9
+I hope I listen to this wonderful music,I often listen to this wonderful music.,0.2857142857142857,2,7
+I have to go across the city to see her,I have to go across the city to see her.,0.0,0,10
+My t-shirts exactly knew my mind,My teachers exactly knew my mind.,0.16666666666666666,1,6
+How long have you been married?,How long have you been married?,0.0,0,6
+Your experience is his very good for this job,Your experience is very good for this job.,0.125,1,8
+His good luck will help him avoid problems,His good luck will help him avoid problems.,0.0,0,8
+I am free to make a decision about my college,I am free to make a decision about my college.,0.0,0,10
+Avoid capital punishment,Avoid capital punishment.,0.0,0,3
+Getting married is not a crime,Getting married is not a crime.,0.0,0,6
+What happened after I left?,What happened after I left?,0.0,0,5
+Let's make a program for kids,Let's make a program for kids.,0.0,0,6
+Light clothes are bad,Light clothes are bad.,0.0,0,4
+How many miles were you driving today?,How many miles were you driving today?,0.0,0,7
+Government will run from the capital city,Government will run from the capital city.,0.0,0,7
+They will take up recycling from now on.,They will take up recycling from now on.,0.0,0,8
+My yard is very clean today.,My yard is very clean today.,0.0,0,6
+I am not a fan of this kind of music,I am not a fan of this kind of music.,0.0,0,10
+Nothing is more important to him than power.,Nothing is more important to him than power.,0.0,0,8
+I like to work in this small room,I like to work in this small room.,0.0,0,8
+There situation is not as bad,Their situation is not as bad.,0.16666666666666666,1,6
+This is teacher's favorite topic,This is teacher's favourite topic.,0.2,1,5
+She has experience in education,She has experience in education.,0.0,0,5
+This will not be better as much in the long run.,This will not matter much in the long run.,0.3333333333333333,3,9
+I trained a lot but this is still wrong,"I tried a lot, but this is still wrong.",0.1111111111111111,1,9
+I paid all my taxes the night before,I paid all my taxes the night before.,0.0,0,8
+This is is a growing company with many employees,This is a growing company with many employees.,0.125,1,8
+The law gives everyone this one right.,The law gives everyone this one right.,0.0,0,7
+Listen to your parents right now,Listen to your parents right now.,0.0,0,6
+What's the occasion today?,What's the occasion today?,0.0,0,4
+Your mother said this is enough,Your mother said this is enough.,0.0,0,6
+How many books on law do you have,How many books on law do you have?,0.0,0,8
+Which book are you reading to children,Which book are you reading to children?,0.0,0,7
+This seems like a large catch.,This seems like a large catch.,0.0,0,6
+Do you have your credit card,Do you have your credit card?,0.0,0,6
+The couple got married last week.,The couple got married last week.,0.0,0,6
+I have lived in Illinois and Dallas,I have lived in Illinois and Dallas.,0.0,0,7
+Television service is awful here.,Television service is awful here.,0.0,0,5
+The jury did not change this fact.,The jury cannot change this fact.,0.3333333333333333,2,6
+I was in the talking school originally.,I was in the nursing school originally.,0.14285714285714285,1,7
+Recycling law depends on your city.,Recycling law depends on your city.,0.0,0,6
+I'm watching my kids' education,I'm watching my kid's education.,0.2,1,5
+I bought these new clothes today,I bought these new clothes today.,0.0,0,6
+This may seem important now.,This may seem important now.,0.0,0,5
+Tax season is certainly interesting,Tax season is certainly interesting.,0.0,0,5
+There's so much noise in the capital city.,There's so much noise in the capital city.,0.0,0,8
+Your story is not clear anymore.,Your story is not clear anymore.,0.0,0,6
+This room is quite neat.,This room is quite neat.,0.0,0,5
+Children do not like punishment,Children do not like punishment.,0.0,0,5
+My wife thinks this is not worth the time,My wife thinks this is not worth the time.,0.0,0,9
+They make less money in this season with snow.,They make less money in this season with snow.,0.0,0,9
+Will you spend all that time reading your book,Will you spend all that time reading your book?,0.0,0,9
+I am here for my friends company,I am here for my friend's company.,0.14285714285714285,1,7
+You should vote for the future.,You should vote for the future.,0.0,0,6
+The morning sunlight is white,The morning sun light is white.,0.3333333333333333,2,6
+My teachers are very helpful,My teachers are very helpful.,0.0,0,5
+Is this noise from the Divvy?,Is this noise from the TV?,0.16666666666666666,1,6
+"Eat your food, it’s getting cold.","Eat your food, it's getting cold.",0.16666666666666666,1,6
+Who benefits from this policy?,Who benefits from this policy?,0.0,0,5
+My daughter likes to play outside in the yard.,My daughter likes to play outside in the yard.,0.0,0,9
+I will understand when I talk to him,He will understand when I talk to him.,0.125,1,8
+How many candlealties were there,How many casualties were there?,0.2,1,5
+Luxury does not have to be expensive,Luxury does not have to be expensive.,0.0,0,7
+I like all this open space around the house,I like all this open space around the house.,0.0,0,9
+Evening is the best time for reading.,Evening is the best time for reading.,0.0,0,7
+Nothing can stop me from doing this,Nothing can stop me from doing this.,0.0,0,7
+She will sit across the room.,She will sit across the room.,0.0,0,6
+Seventy awful years,Seventy awful years.,0.0,0,3
+Appeal of nuggery things is something else,Appeal of luxury things is something else.,0.14285714285714285,1,7
+This is a special city is the special country,This is a special city in the special country.,0.1111111111111111,1,9
+Certain people enjoy this kind of music,Certain people enjoy this kind of music.,0.0,0,7
+Camping is getting more expensive,Camping is getting more expensive.,0.0,0,5
+Who thought of this wonderful idea?,Who thought of this wonderful idea?,0.0,0,6
+Some more time in the morning would be nice,Some more time in the morning would be nice.,0.0,0,9
+What was the exact line in the play?,What was the exact line in the play?,0.0,0,8
+We must always get looking forward,We must always keep looking forward.,0.16666666666666666,1,6
+Check the oil in the car first,Check the oil in the car first.,0.0,0,7
+The view from here is not with it.,The view from here is not worth it.,0.125,1,8
+He is quite a social person.,He is quite a social person.,0.0,0,6
+There will be more like somewhere around here,There will be more light somewhere around here.,0.125,1,8
+That woman will check this fact,That woman will check this fact.,0.0,0,6
+Do not sell your free time or your space of mind.,Do not sell your free time or your peace of mind.,0.09090909090909091,1,11
+It all worked out quite well for our family.,It all worked out quite well for our family.,0.0,0,9
+The joy of an early merry murk,The joy of an early morning walk.,0.2857142857142857,2,7
+It is easier to go without moon,It is easier to go without food.,0.14285714285714285,1,7
+My vision does not abound to anything,My vision does not amount to anything.,0.14285714285714285,1,7
+The baby will stick it in the food.,The baby will stick its head in the food.,0.2222222222222222,2,9
+How's Ben? Do you go for a walk with him?,How often do you go for a walk with him?,0.2,2,10
+We should turn around at big erup from goo,We should turn around and pick her up from school.,0.5,5,10
+The guy will go north the here,The car will go north from here.,0.2857142857142857,2,7
+They must think if they can love with this decision,They must think if they can live with this decision.,0.1,1,10
+I am not sure this will be interesting to the kids,I am not sure if this will be interesting to the kids.,0.08333333333333333,1,12
+That was a close call.,That was a close call.,0.0,0,5
+First of all remember to be nice,"First of all, remember to be nice.",0.0,0,7
+Can you put the book down for a little bit?,Can you put the book down for a few minutes?,0.2,2,10
+Yes I am taking to you,"Yes, I am talking to you.",0.16666666666666666,1,6
+This will make somebody care for the situation.,This will make somebody care for the situation.,0.0,0,8
+We we talked about this the other day,We talked about this the other day.,0.14285714285714285,1,7
+What was your experience working with him,What was your experience working with him?,0.0,0,7
+She was the division head in the college.,She was the division head in the college.,0.0,0,8
+He wanted it to make four miles,He wanted to walk for miles.,0.5,3,6
+Please that's a guff music for today,"Please, that's enough music for today.",0.3333333333333333,2,6
+We need to work more on the social part.,We need to work more on the social part.,0.0,0,9
+This married couple will enjoy their visit,This married couple will enjoy their visit.,0.0,0,7
+I don't see what the problem is.,I don't see what the problem is.,0.0,0,7
+I guess something has to go,I guess something has to go.,0.0,0,6
+Do you know that have never seen a budgie,Do you know that I've never seen a monkey?,0.2222222222222222,2,9
+They've enjoyed the school,They've enjoyed the school.,0.0,0,4
+Prince of Persia,Prince of Persia.,0.0,0,3
+Seeing as you have got some older children,Seeing as you've got some older children.,0.2857142857142857,2,7
+I think it’s cost a lot,I think it's caused a lot.,0.3333333333333333,2,6
+If you haven't loaned town,If you haven't slowed down.,0.4,2,5
+Keeps to their old turf,Keeps to their own turf.,0.2,1,5
+We also set aside money for entertainment.,We also set aside money for entertainment.,0.0,0,7
+I enjoy the news,I enjoy the news.,0.0,0,4
+Everything I lurked about engine room,Everything I learned about ancient Rome.,0.5,3,6
+As far as doing things for them,As far as doing things for them.,0.0,0,7
+Right now I'm busy chasing my kids,Right now I'm busy chasing my kids.,0.0,0,7
+Wasn't I allowed to write and learn more,Wasn't allowed to run a lawn mower.,0.7142857142857143,5,7
+The toast line was just incredible.,The coastline was just incredible.,0.4,2,5
+Why do you say that actually,Why do you say that actually.,0.0,0,6
+You were great.,You were great.,0.0,0,3
+Ten months later he said,Ten months later he said.,0.0,0,5
+I'm like to hear that,I'm glad to hear that.,0.2,1,5
+I had to change the water in that,I had to change the water in that.,0.0,0,8
+I mean I've haven't had it that like,I mean I've haven't had it that long.,0.125,1,8
+When the fall over,When they fall over.,0.25,1,4
+Check out our free versions,Check out our free versions!,0.0,0,5
+I make my living by first,I make my living by phone.,0.16666666666666666,1,6
+I'm in charge of raising them.,I'm in charge of raising them.,0.0,0,6
+I think it would work out well,I think it would work out well.,0.0,0,7
+They will not get everything done anyway.,They will not get everything done anyway.,0.0,0,7
+People from my college were already there,People from my college were already there.,0.0,0,7
+I will probably say no to this,I will probably say no to this.,0.0,0,7
+It is the policy in this country,It is the policy in this country.,0.0,0,7
+Having too much Perry can be difficult,Having too much power can be difficult.,0.14285714285714285,1,7
+Luxuriously clothed these days are quite expensive,Luxury clothes these days are quite expensive.,0.2857142857142857,2,7
+Is your family from Dallas,Is your family from Dallas?,0.0,0,5
+There seems to be some confusion about this.,There seems to be some confusion about this.,0.0,0,8
+There are some awful blouses in that country,There are some awful places in that country.,0.125,1,8
+My computer is not working anymore,My computer is not working anymore.,0.0,0,6
+Employees should do some field work when the join.,Employees should do some field work when they join.,0.1111111111111111,1,9
+Where it is that awful noise coming from,Where is that awful noise coming from?,0.14285714285714285,1,7
+My emperor and friends are from Texas,My American friends are from Texas.,0.3333333333333333,2,6
+The old newspaper will have a rereport on this,The old newspaper will have a report on this.,0.1111111111111111,1,9
+How much do you have to pay for your credit card?,How much do you have to pay for your credit card?,0.0,0,11
+"We’re in a knot, go there without you.",We cannot go there without you.,0.6666666666666666,4,6
+Not everyone can exercise in the morning.,Not everyone can exercise in the morning.,0.0,0,7
+The work that is easy with experience,The work gets easier with experience.,0.5,3,6
+We will have to place a large jar harder.,We will have to place a large order.,0.25,2,8
+I have been working on this since all the money,I have been working on this since early morning.,0.3333333333333333,3,9
+The air is clear at naught,The air is clear at night.,0.16666666666666666,1,6
+I will probably heard a car soon,I will probably own a car soon.,0.14285714285714285,1,7
+With their good luck they will avoid these problems,"With their good luck, they will avoid these problems.",0.0,0,9
+How many minutes did it take to cook this food,How many minutes did it take to cook this food?,0.0,0,10
+Let's play this new version of my favorite music.,Let's play this new version of my favorite music.,0.0,0,9
+"Bust of us think we know the story of Detroit, Michigan.","Most of us think we know the story of Detroit, Michigan.",0.09090909090909091,1,11
+That was one thing that's been really nice to have.,That was one thing that's been really nice to have.,0.0,0,10
+They shot him point blank in the verse.,They shot him point blank in the face.,0.125,1,8
+These are made with a flower tutorial,These are made with a flour tortilla.,0.2857142857142857,2,7
+Did you hear from another person,Did you hear from another person?,0.0,0,6
+It has been like fifteen years,It has been like fifteen years.,0.0,0,6
+Here are my notes from the first draft of the paper.,Here are my notes from the first draft of the paper.,0.0,0,11
+Do you have any pets now?,Do you have any pets now?,0.0,0,6
+My mom lives like I do.,My mom lives like I do.,0.0,0,6
+That is a very good point.,That is a very good point.,0.0,0,6
+Who is related to who,Who is related to who?,0.0,0,5
+How much time do you spend with your children,How much time do you spend with your children?,0.0,0,9
+She is more famous since she did that.,She is more famous since she did that.,0.0,0,8
+They will financially recover from the learn,They will financially recover from the loan.,0.14285714285714285,1,7
+They don't make them anymore,They don't make them anymore.,0.0,0,5
+There were none left by the year two thousand.,There were none left by the year two thousand.,0.0,0,9
+"When State University is in Detroit, Michigan.","Wayne State University is in Detroit, Michigan.",0.14285714285714285,1,7
+It's an invasion of pharmacy,It's an invasion of privacy.,0.2,1,5
+There were no reports of casualties.,There were no reports of casualties.,0.0,0,6
+The blue sky looks so pretty.,The blue sky looks so pretty.,0.0,0,6
+It is impression in more than just wanton tea.,It is impressive in more than just quantity.,0.375,3,8
+That is trains to me,That is strange to me.,0.2,1,5
+I’m out more money than they are,I'm out more money than they are.,0.14285714285714285,1,7
+I am from Argentina,I am from Argentina.,0.0,0,4
+It is like many the clittery,It is like winning the lottery.,0.3333333333333333,2,6
+I did it all of the time,I did it all on the job.,0.2857142857142857,2,7
+Bus can be a little of juvel,Pets can be a lot of trouble.,0.42857142857142855,3,7
+Whatever you like,Whatever you like.,0.0,0,3
+The movie is throw bunny,The movie is slow burning.,0.4,2,5
+We don't listen to any elevator music at my house.,We don't listen to any elevator music at my house.,0.0,0,10
+What do you think,What do you think?,0.0,0,4
+He was a god prior.,He was a good player.,0.4,2,5
+You game out on comp.,You came out on top.,0.4,2,5
+That really sticks me off,That really ticks me off.,0.2,1,5
+There were thousands of calls on the five m,There were thousands of cows on the farm.,0.375,3,8
+"Now some people are unjacked, rearing primary dependents.",Now some people object during primary debates.,0.5714285714285714,4,7
+You have to do the random drug testing,You have to do the random drug testing.,0.0,0,8
+The recipe restaurant requi and dating the toe,The recipe doesn't require kneading the dough.,0.7142857142857143,5,7
+They want to sell five million of things,They could sell five million of those.,0.42857142857142855,3,7
+The ray tracing was along well with that,The ranch dressing goes along well with that.,0.375,3,8
+It used to cost since bucks,It used to cost six bucks.,0.16666666666666666,1,6
+"In this situation, I don’t know how to behave.",In those situations I don't know how to behave.,0.3333333333333333,3,9
+It would be fuck just to wait one,It would be fun just to win one.,0.25,2,8
+The full decision stepdown is available here.,The full decision statement is available here.,0.14285714285714285,1,7
+Especially with Marty in Arie on them,Especially with butter and honey on them.,0.42857142857142855,3,7
+I'm interested in the evening. It is my office.,I'm interested in having it in my office.,0.375,3,8
+I do that talk to many people on the pelotery.,I do not talk to many people in the military.,0.3,3,10
+Who do they need to trade before the deadline,Who do they need to trade before the deadline?,0.0,0,9
+You will gain competence with respect to the material.,You will gain competence with respect to the material.,0.0,0,9
+It's not hard to find a job that's part time.,It's not hard to find a job that's part time.,0.0,0,10
+Do you still drive that old car,Do you still drive that old car?,0.0,0,7
+They would have to be supported in some way.,They would have to be supported in some way.,0.0,0,9
+I mix the interactual chimdyalation of taking classes in college,I miss the intellectual stimulation of taking classes in college.,0.3,3,10
+As you get older you will understand,As you get older you will understand.,0.0,0,7
+You would know if you lost it or something,You would know if you lost it or something.,0.0,0,9
+Are you a computer hacker?,Are you a computer hacker?,0.0,0,5
+There is a very serious situation across the strait.,There is a very serious situation across the street.,0.1111111111111111,1,9
+I don't make that much money,I don't make that much money.,0.0,0,6
+It's actually just twelve years old.,It's actually just twelve years old.,0.0,0,6
+They were not really into sports.,They were not really into sports.,0.0,0,6
+Thank you and please enjoy your stay,"Thank you, and please enjoy your stay!",0.0,0,7
+My favorite author just released a brand new book.,My favorite author just released a brand new book.,0.0,0,9
+I didn't know there was such a thing,I didn't know there was such a thing.,0.0,0,8
+That is my retirement plan,That is my retirement plan.,0.0,0,5
+I would like to see a little bit more of that,I would like to see a little bit more of that.,0.0,0,11
+She jumped at the sound of the summer storm.,She jumped at the sound of the thunder storm.,0.1111111111111111,1,9
+I have to balance work and life,I have to balance work and life.,0.0,0,7
+He took care of it,He took care of it.,0.0,0,5
+I love to watch cartoons on Saturday morning.,I love to watch cartoons on Saturday morning.,0.0,0,8
+She will be a sophomore in high school next year.,She will be a sophomore in high school next year.,0.0,0,10
+Some internet news will be a lot more casual.,Some interviews will be a lot more casual.,0.25,2,8
+You have just was sore to buy,You have a choice of which car to buy.,0.5555555555555556,5,9
+My real exorcist is this,My real concern is this.,0.2,1,5
+It’s been a bit obscure.,It's been kind of scary.,0.8,4,5
+They would have never bit it,They would have never picked it out.,0.2857142857142857,2,7
+That is way there kind bade out week,That is why they're kind of behind on work.,0.6666666666666666,6,9
+She can do it,She can do it.,0.0,0,4
+"Jeez, like, seventy-four years old now.",She's like seventy four years old now.,0.42857142857142855,3,7
+I got an actor's type.,I couldn't understand.,1.3333333333333333,4,3
+I just want to enjoy Mrs. a little bit,I just want to enjoy myself a little bit.,0.1111111111111111,1,9
+It got be relocated,It could be recycled.,0.5,2,4
+It costs a gap or one tea dollar boo ends,It costs ten or twenty dollars per ounce.,0.875,7,8
+I've noticed it's really develyan for you,Of course it's real convenient for you.,0.5714285714285714,4,7
+It's something that interests me,It's something that interests me.,0.0,0,5
+At my ignorance is b to expiry,And my insurance is about to expire.,0.5714285714285714,4,7
+I saw her clothes for them every works a more,I sew clothes for them every once in a while.,0.5,5,10
+We were distasted in the long sluice,We were interested in the local schools.,0.42857142857142855,3,7
+He won a wee drape or something along those yachts.,He won a free trip or something along those lines.,0.3,3,10
+The brain to lose fad unto rear it,The sport looks fun until you're playing it.,0.75,6,8
+You have to look out at the school,You have to look around at the school.,0.125,1,8
+I still like the New York triathlons,I still like the New York Giants.,0.14285714285714285,1,7
+I taught environmental engineering in college.,I studied environmental engineering in college.,0.16666666666666666,1,6
+My youth really wanted bit met,My son really wanted a pet bird.,0.5714285714285714,4,7
+What of the biggish creakies as the animal victim,One of the biggest creatures in the animal kingdom.,0.5555555555555556,5,9
+Have you sought the what about the Verviz the Vazon reek reread,Have you seen that one about survivors in the Amazon rain forest?,0.6666666666666666,8,12
+I hope everything works out up there,I hope everything works out up there.,0.0,0,7
+Are you pleased with this decision,Are you pleased with this decision?,0.0,0,6
+The town is just over the hill here,The town is just over the hill here.,0.0,0,8
+It's totally ridiculous,It's totally ridiculous.,0.0,0,3
+In other words there is a choice to make,"In other words, there is a choice to make.",0.0,0,9
+That does not seem quite fair,That does not seem quite fair.,0.0,0,6
+That is horrible,That is horrible.,0.0,0,3
+Feel the jar to the top with boiling water.,Fill the jar to the top with boiling water.,0.1111111111111111,1,9
+It was a prime time football game,It was a prime time football game.,0.0,0,7
+Not too long ago,Not too long ago.,0.0,0,4
+She has had really good luck this year,She has had really good luck this year.,0.0,0,8
+I went back to school and got my master's degree.,I went back to school and got my Master's degree.,0.0,0,10
+Then I heard a very loud explosion,Then I heard a very loud explosion.,0.0,0,7
+My dad is a potato farmer,My dad is a potato farmer.,0.0,0,6
+That's a good option to consider.,That's a good option to consider.,0.0,0,6
+Do you want to eat inside or outside?,Do you want to eat inside or outside?,0.0,0,8
+And so we usually sit outside.,And so we usually sit outside.,0.0,0,6
+Professors from other universities will present their reason.,Professors from other universities will present their research.,0.125,1,8
+They are now starting to make them,They are now starting to make them.,0.0,0,7
+I guess there are a few things around still.,I guess there are a few things around still.,0.0,0,9
+They are so small,They are so small.,0.0,0,4
+It is a fairly large liberal arts college as well.,It is a fairly large liberal arts college as well.,0.0,0,10
+Having a job will keep you out of trouble.,Having a job will keep you out of trouble.,0.0,0,9
+I like it here,I like it here.,0.0,0,4
+I think they already did that.,I think they already did that.,0.0,0,6
+Usually the conversation takes into an alloment,"Occasionally, the conversation turns into an argument.",0.42857142857142855,3,7
+We need to buy more and four of them.,We need to buy more and more of them.,0.1111111111111111,1,9
+I got that a go just taught a top there,A guy that I know just got a job there.,0.6,6,10
+I hope you all enjoying this,I hope you all enjoy this!,0.16666666666666666,1,6
+We’re I go to chich now,Where I go to church now.,0.3333333333333333,2,6
+It’s hard for me to addict.,It's hard for me to admit.,0.3333333333333333,2,6
+You don't get nearly enough exercise.,You don't get nearly enough exercise.,0.0,0,6
+She’ll be two years old and delight.,She'll be two years old in July.,0.42857142857142855,3,7
+I filed my taxes early this year,I filed my taxes early this year.,0.0,0,7
+You still need your mother’s permission.,You still need your mother's permission.,0.16666666666666666,1,6
+And a very good afternoon to you,And a very good afternoon to you.,0.0,0,7
+American car companies,American car companies.,0.0,0,3
+I've got a two year old and a four year old,I've got a two year old and a four year old.,0.0,0,11
+We definitely need a case in the system,We definitely need a change in the system.,0.125,1,8
+That's really much the sound end of the state.,That's pretty much the south end of the state.,0.2222222222222222,2,9
+I was kind of into it for a while there,I was kind of into it for a while there.,0.0,0,10
+Occasionally these things may not be true,"Occasionally, these things may not be true.",0.0,0,7
+I'll get around to it.,I'll get around to it.,0.0,0,5
+It’s a package deal,It's a package deal.,0.25,1,4
+The result of the test was nullative,The result of the test was negative.,0.14285714285714285,1,7
+I will be visiting New England,I will be visiting New England.,0.0,0,6
+I guess because we don't care about that much,I guess because we don't go out that much.,0.2222222222222222,2,9
+The daycare except in the fun starting at six ways old,The day care accepted infants starting at six weeks old.,0.6,6,10
+An absolute certainty,An absolute certainty.,0.0,0,3
+I hope I'm on the right trunk.,I hope I'm on the right track.,0.14285714285714285,1,7
+I think it is a wonderful intoam place,I think it is a wonderful interim place.,0.125,1,8
+We did go tapping in Akasu.,We did go camping in Arkansas.,0.3333333333333333,2,6
+That would have been something,That would have been something.,0.0,0,5
+I would contemplate going in a ruse now,I would contemplate going on a cruise now.,0.25,2,8
+You know what I would love,You know what I would love.,0.0,0,6
+It was out of his hands at that point.,It was out of his hands at that point.,0.0,0,9
+For legal existed and that's what I know,For legal assistant and that's what I know.,0.125,1,8
+My wife and I both like it,My wife and I both like it.,0.0,0,7
+How do you measure it,How do you measure it?,0.0,0,5
+I don't really follow the happy very closely.,I don't really follow the NBA very closely.,0.125,1,8
+She was over a little bit leery of her,She was always a little bit leery of her.,0.1111111111111111,1,9
+It’s really out to.,It's really hard to.,0.5,2,4
+It looks like it would be,It looks like it would be.,0.0,0,6
+That would be devastating I'm sure,That would be devastating I'm sure.,0.0,0,6
+If it's run by the intuitional stent,If it's run by the individual state.,0.2857142857142857,2,7
+And so you know and it’s his choice to make,"And so, you know, and it's his choice to make.",0.1,1,10
+You just gave it away,You just gave it away.,0.0,0,5
+The accent ran situation or the olsent diplaycent,The acid rain situation or the ozone depletion?,0.5,4,8
+Employment income,Employment income.,0.0,0,2
+I have to be rear cuffle,I have to be real careful.,0.3333333333333333,2,6
+I hope the enjoyed this ethical,I hope you enjoyed this article.,0.3333333333333333,2,6
+My husband Travis,My husband travels.,0.3333333333333333,1,3
+They're not homing ops,They're not owning homes.,0.5,2,4
+Where do you go camping at around here?,Where do you go camping at around here?,0.0,0,8
+I try to save that for the weekend,I try to save that for the weekend.,0.0,0,8
+When does cool snort,When does school start?,0.5,2,4
+We've got these ones,We've got these ones.,0.0,0,4
+That's just the way it was,That's just the way it was.,0.0,0,6
+Fictimals crawl in the fends,Vegetables grow in the fields.,0.6,3,5
+It’s kind of like drawing this lawn.,It's kind of like drawing this line.,0.2857142857142857,2,7
+I had gone to a very tiddly loot area.,I had gone to a very dimly lit area.,0.2222222222222222,2,9
+Which one is the durance area,Which one is the tourist area?,0.16666666666666666,1,6
+I was raised in New U.,I was raised in New York.,0.16666666666666666,1,6
+When you leave a job,When you leave a job.,0.0,0,5
+That's the only pollution this been there,That's the only pollution that's been there.,0.14285714285714285,1,7
+They needn't a smaller seating,They needed a smaller setting.,0.4,2,5
+They put it out in a video.,They put it out in a video.,0.0,0,7
+Especially in the winter,Especially in the winter.,0.0,0,4
+You like bakes in things,You like pets and things.,0.4,2,5
+Like building a house or anything,Like building a house or anything.,0.0,0,6
+Take a lot of chances.,Take a lot of chances.,0.0,0,5
+I don't think I would have instruments,I don't think I would have insurance.,0.14285714285714285,1,7
+It's home by read bay,It's up by Green Bay.,0.4,2,5
+I always wantin to go to school for nursing,I always wanted to go to school for nursing.,0.1111111111111111,1,9
+I make a lot of my rinse promise mesent,I make a lot of my Christmas presents.,0.375,3,8
+I think a lot of choices,I think a lot of choices.,0.0,0,6
+Because not in dollars,Perhaps not in Dallas.,0.5,2,4
+Get erected or what not,Get arrested or what not.,0.2,1,5
+That decision is a spouted early next week,That decision is expected early next week.,0.2857142857142857,2,7
+My printer is five years younger than my sister is.,My brother is five years younger than my sister is.,0.1,1,10
+It is fine.,It is fine.,0.0,0,3
+I was raised in this area,I was raised in this area.,0.0,0,6
+He sure bet her that we did on the follow exam.,He scored better than we did on the final exam.,0.5,5,10
+Did you see it the other night,Did you see it the other night?,0.0,0,7
+You're I really been that,Yeah I really mean that.,0.4,2,5
+Here's been a listed for so many years.,He's been a legend for so many years.,0.25,2,8
+You're that book is about the same kind of thing,Yeah that book is about the same kind of thing.,0.1,1,10
+I can still read my music,I can still read music.,0.2,1,5
+How are you knocking it,How are you liking it?,0.2,1,5
+I was an end of silly drawers,I was accused of selling drugs.,0.6666666666666666,4,6
+What was the eventual starting point for the story?,What was the actual starting point for the story?,0.1111111111111111,1,9
+Did you find it hard to make decisions?,Did you find it hard to make decisions?,0.0,0,8
+How did you come to join that team?,How did you come to join that team?,0.0,0,8
+I went back up tonight,I went back home tonight.,0.2,1,5
+The door may be right.,The door bell rang.,0.75,3,4
+I tried to use insecticide on my lawn.,I try not to use insecticides on my lawn.,0.3333333333333333,3,9
+It does not still has much as I remember while during a up.,It does not snow as much as I remember while growing up.,0.3333333333333333,4,12
+We just threw El Cajon a city,We drove through Oklahoma City.,1.0,5,5
+After consummation the two deans will go on to a variety of calluses.,"After graduation, the students will go on to a variety of colleges.",0.3333333333333333,4,12
+It's still in great shape.,It's still in great shape.,0.0,0,5
+The military has a strong presence in the Persian Gulf.,The military has a strong presence in the Persian Gulf.,0.0,0,10
+That is PM compared to work a tessellate by,That is cheap compared to what I usually buy.,0.5555555555555556,5,9
+"On the other hand, I am quite good.","On the other hand, I am quite good.",0.0,0,8
+I love this country so much,I love this country so much.,0.0,0,6
+You get the point,You get the point.,0.0,0,4
+"Were you touring, be from Texas?",Were you calling me from Texas?,0.3333333333333333,2,6
+"I love eating pickles, bye.",I love eating pecan pie.,0.4,2,5
+We went to do see the level point three.,We went to go see The Godfather Part Three.,0.3333333333333333,3,9
+It is strange enough,It is strange enough.,0.0,0,4
+I think it's relevance is pretty repetitive.,I think its relevance is pretty limited.,0.2857142857142857,2,7
+Came a first to the recess,Give a voice to the voiceless!,0.5,3,6
+There has been a change in the laws of our,There has been a change in the price of oil.,0.2,2,10
+I absolutely left it,I absolutely loved it.,0.25,1,4
+Other way they always pull it wrong,"Either way, they always spell it wrong.",0.2857142857142857,2,7
+I guess what you have to do is just relax.,I guess what you have to do is just relax.,0.0,0,10
+I think that's a really unjusty region,I think that's a really interesting question.,0.2857142857142857,2,7
+I think Tesson homes can be good for same people,I think nursing homes can be good for some people.,0.2,2,10
+I was arrested for something really barter,I was arrested for something really minor.,0.14285714285714285,1,7
+He’s going to be traveling to Europe with a group of friends.,He's going to be traveling to Europe with a group of friends.,0.08333333333333333,1,12
+The life in a little white frame else,They live in a little white frame house.,0.375,3,8
+The event was really oriented toward litter cages.,The event was really oriented toward little kids.,0.25,2,8
+They feel it because of his drag intention,They fell out because of his drug addiction.,0.5,4,8
+Dobate remembers him as a loser,Nobody remembers him as a loser.,0.16666666666666666,1,6
+Teach children to love reading for pleasure.,Teach children to love reading for pleasure.,0.0,0,7
+So would company to you work for,So what company do you work for?,0.2857142857142857,2,7
+We had sex a good time,We had such a good time.,0.16666666666666666,1,6
+It's kind of funny,It's kind of funny.,0.0,0,4
+Because a lot of our friends will be coming over later.,Because a lot of our friends will be coming over later.,0.0,0,11
+That will be a pig three or four of them,That will be a big thrill for them.,0.625,5,8
+Do you have any kids or pets?,Do you have any kids or pets?,0.0,0,7
+Well that just pretty good,Well that sounds pretty good.,0.2,1,5
+That's what I was about to say.,That's what I was about to say.,0.0,0,7
+But they're planning on doing it very soon.,But they're planning on doing it very soon.,0.0,0,8
+You live right across the street from my daughter.,You live right across the street from my daughter.,0.0,0,9
+You know some of that,You know some of that.,0.0,0,5
+I don't understand any of that,I don't understand any of that.,0.0,0,6
+It's actually turning out to be even worse than we thought.,It's actually turning out to be even worse than we thought.,0.0,0,11
+My daughter is in kindergarten,My daughter is in kindergarten.,0.0,0,5
+You don't have to worry that much.,You don't have to worry that much.,0.0,0,7
+I am pretty aware of what goes on here,I am pretty aware of what goes on here.,0.0,0,9
+I really don't have any problem with it,I really don't have any problem with it.,0.0,0,8
+I did not earn my degree until later on in my life,I did not earn my degree until later on in my life.,0.0,0,12
+That was the point,That was the point.,0.0,0,4
+He's just so tall,He's just so tall.,0.0,0,4
+It is important for women who need to work,It is important for women who need to work.,0.0,0,9
+They are here for a purpose,They are here for a purpose.,0.0,0,6
+We got together every summer for vacation.,We got together every summer for vacation.,0.0,0,7
+We could spend that money very quickly.,We could spend that money very quickly.,0.0,0,7
+I took care of the children,I took care of the children.,0.0,0,6
+It's not like he had a choice.,It's not like he had a choice.,0.0,0,7
+Lunch was like thirteen dollars or something,Lunch was like thirteen dollars or something.,0.0,0,7
+And I think he’s as cunty as the devil.,And I think he's as guilty as the devil.,0.2222222222222222,2,9
+I couldn't believe how much it cost,I couldn't believe how much it cost.,0.0,0,7
+We know what we can do.,We know what we can do.,0.0,0,6
+I like being involved in things like this,I like being involved in things like this.,0.0,0,8
+The brand new company is making a lot of money.,The brand new company is making a lot of money.,0.0,0,10
+I'm going to go to the grocery store.,I'm going to go to the grocery store.,0.0,0,8
+I was the shroud that they visited me,I was so thrilled that they visited me.,0.25,2,8
+So a badger in all of his lost being spoken in that voice,So imagine all of his lines being spoken in that voice.,0.36363636363636365,4,11
+It has been a really nice spring.,It has been a really nice spring.,0.0,0,7
+The movie had a lot of nerdy and curse words.,The movie had a lot of nudity and curse words.,0.1,1,10
+Take a piece of paper to draw on.,Take a piece of paper to draw on.,0.0,0,8
+I think it's important to know about this,I think it's important to know about this.,0.0,0,8
+You will learn more about the characters in the book.,You will learn more about the characters in the book.,0.0,0,10
+People are having their sever rights taken away.,People are having their civil rights taken away.,0.125,1,8
+What some of these people went through is terrible.,What some of these people went through is terrible.,0.0,0,9
+I played a large role in that decision.,I played a large role in that decision.,0.0,0,8
+We have had new snow this winter.,We have had no snow this winter.,0.14285714285714285,1,7
+Vote for your top choice,Vote for your top choice.,0.0,0,5
+Some of them did say that,Some of them did say that.,0.0,0,6
+I can understand their viewpoint.,I can understand their viewpoint.,0.0,0,5
+"Divide the money up, Briggery, all of us.",Divide the money up between all of us.,0.125,1,8
+"That would be devastating, I'm sure.",That would be devastating I'm sure.,0.0,0,6
+If in run by the intervisual stent,If it's run by the individual state.,0.42857142857142855,3,7
+It’s his choice to make,It's his choice to make.,0.2,1,5
+You just gave it away,You just gave it away.,0.0,0,5
+Are you talking about the accident situation or the owner depletion?,Are you talking about the acid rain situation or the ozone depletion?,0.25,3,12
+Employment income,Employment income.,0.0,0,2
+I have to be very careful,I have to be real careful.,0.16666666666666666,1,6
+I hope you enjoyed this article,I hope you enjoyed this article.,0.0,0,6
+My unndun travels weakwuntly,My husband travels frequently.,0.5,2,4
+They're not buying homes.,They're not buying homes.,0.0,0,4
+The girls at school are all wearing clothes from the sixties.,The girls at school are all wearing clothes from the sixties.,0.0,0,11
+You probably want to weakenize me.,You probably wouldn't recognize me.,0.6,3,5
+It was on the news every night.,It was on the news every night.,0.0,0,7
+This story is not unusual,His story is not unusual.,0.2,1,5
+The fix was cooked with some olives.,The fish was cooked with some olives.,0.14285714285714285,1,7
+I had found and injury point,I had found an entry point.,0.3333333333333333,2,6
+They don't kill the anonymous,They don't kill the animals.,0.2,1,5
+Sailing boaters of water,Selling bottles of water.,0.5,2,4
+Basis as usual for traders,Business as usual for traders.,0.2,1,5
+They give us a backal deal,They gave us a special deal.,0.3333333333333333,2,6
+The reality is that's usually not the case.,The reality is that's usually not the case.,0.0,0,8
+"I wonder where they lurked to, to that.",I wonder where they learned to do that.,0.25,2,8
+He kept his tone light and casual but fume,"He kept his tone light and casual, but firm.",0.1111111111111111,1,9
+They're moving to Florida.,They're moving to Florida.,0.0,0,4
+I really like that show,I really like that show.,0.0,0,5
+I feel good amount,A fairly good amount.,0.5,2,4
+That pleased me,That pleased me.,0.0,0,3
+We are good people,We are good people.,0.0,0,4
+I've heard him talk about that for hours,I've heard him talk about that for hours.,0.0,0,8
+Of course,Of course.,0.0,0,2
+It wasn't even funny,It wasn't even funny.,0.0,0,4
+If only I could remember the name,If only I could remember the name.,0.0,0,7
+I don't think the teachers are the problem.,I don't think the teachers are the problem.,0.0,0,8
+Public relations,Public relations.,0.0,0,2
+It’s where it’s easy to swing in there for breakfast.,It's real easy to swing in there for breakfast.,0.3333333333333333,3,9
+Then you find it again and lose it again.,Then you find it again and lose it again.,0.0,0,9
+We've got four kids,We've got four kids.,0.0,0,4
+My little girl likes blue more than pink.,My little girl likes blue more than pink.,0.0,0,8
+"In May, it will be five years since I met him.",In May it will be five years since I met him.,0.0,0,11
+She used to love to do stuff like that,She used to love to do stuff like that.,0.0,0,9
+My wife and daughter were kidnapped.,My wife and daughter were kidnapped.,0.0,0,6
+Sentence restored with his birth,Satan rejoiced with his birth.,0.4,2,5
+It was his decision and you have to respect it.,It was his decision and you have to respect it.,0.0,0,10
+"No, I didn’t go to the store.",No I didn't go to the store.,0.14285714285714285,1,7
+We will head to Relada for vaynation.,We will head to Florida for vacation.,0.2857142857142857,2,7
+Take a stack of books or small quiet toys.,Take a stash of books or small quiet toys.,0.1111111111111111,1,9
+I would rentersider where I was buying it from,I would reconsider where I was buying it from.,0.1111111111111111,1,9
+It was renting at a third red level.,It was written at a third grade level.,0.25,2,8
+There knew of a knot of that runs I’m here,They're doing a lot of good research here.,0.875,7,8
+If it does the time,If it does the job.,0.2,1,5
+Do you like to diver,Do you like to travel?,0.2,1,5
+The state and the saty are contentain t its told,The state and the city are contradicting each other.,0.5555555555555556,5,9
+I did presupposers write this conclusion,How did researchers reach this conclusion?,0.5,3,6
+You don't need a person one,You don't need a personal one.,0.16666666666666666,1,6
+The measure passed the House by a lizard moot.,The measure passed the House by a landslide vote.,0.2222222222222222,2,9
+They said has a little bulletin to read,They sent us a little booklet to read.,0.375,3,8
+Why is this just an occasional thing to do?,Why is this such an unusual thing to do?,0.2222222222222222,2,9
+Report the rides in all,Between the rows and all.,0.6,3,5
+We have a day to so got as to in,We have a dog too so that adds to it.,0.5,5,10
+To a seat on the much,Take a seat on the bench.,0.3333333333333333,2,6
+My husband is real into joist too,My husband is real into sports too.,0.14285714285714285,1,7
+I don't know if it that yearia,I don't know if it's that serious.,0.2857142857142857,2,7
+I'm going to visit a relative and do lose a tooth.,I'm going to visit Florida and Louisiana.,0.8571428571428571,6,7
+Cars have come down; it rises on every vigil.,Cars have come down in price significantly.,0.7142857142857143,5,7
+When we bought it last year,When we bought it last year.,0.0,0,6
+I kind of weeks that they had a little look for the was,I kind of wish that they had a little league for the boys.,0.23076923076923078,3,13
+And not is the mustberg to lerd through,And that is the best book to go through.,0.4444444444444444,4,9
+It's nice to have a bad dog,It's nice to have a pet dog.,0.14285714285714285,1,7
+That's one got think about every a can't though,That's one good thing about having a cat though.,0.4444444444444444,4,9
+They rest paper sat at a living the dinner,The rich people started leaving the city.,1.1428571428571428,8,7
+He what over all that with is dalters,He went over all that with his doctors.,0.375,3,8
+Actually it makes sense to a certain extent.,"Actually, it makes sense to a certain extent.",0.0,0,8
+Doesn't seem like it so far,Doesn't seem like it so far.,0.0,0,6
+When was it,When was it?,0.0,0,3
+That's a science in itself.,That's a science in itself.,0.0,0,5
+But it didn’t get the happier part of my Marty.,But it didn't get the upper part of my body.,0.3,3,10
+When you decide to make a step,When you decide to make the step.,0.14285714285714285,1,7
+We seem to agree on that,We seem to agree on that.,0.0,0,6
+Get the recipe from them,Get the recipe from them.,0.0,0,5
+About three years ago,About three years ago.,0.0,0,4
+What shall we do,What shall we do?,0.0,0,4
+The immune system can slow down at first.,The immune system can slow down at first.,0.0,0,8
+I have two other sisters,I have two other sisters.,0.0,0,5
+I think it could have worked the outcome,I think it could affect the outcome.,0.2857142857142857,2,7
+Some of the students are failing the class.,Some of the students are failing the class.,0.0,0,8
+Now I remember it,Now I remember it.,0.0,0,4
+I'm sure you will find something,I'm sure you will find something.,0.0,0,6
+About the same I dress for school,About the same I dress for school.,0.0,0,7
+I mean he's doing around.,I mean he's doing alright.,0.2,1,5
+It was a real special day.,It was a real special day.,0.0,0,6
+I guess I never heard the history of that,I guess I never heard the history of that.,0.0,0,9
+I wanted one of them to be on drugs.,I wouldn't want them to be on drugs.,0.375,3,8
+The neighbor across the street just moved in.,The neighbor across the street just moved in.,0.0,0,8
+A nasal gas explosion,A natural gas explosion.,0.25,1,4
+Decisions that are being made by world ladies,Decisions that are being made by world leaders.,0.125,1,8
+She was delivering the next day.,She was delivered the next day.,0.16666666666666666,1,6
+I wouldn't say it's as bad as new you.,I wouldn't say it's as bad as New York.,0.1111111111111111,1,9
+He could get hurt,He could get hurt.,0.0,0,4
+Some of them are our problems,Some of them are our problems.,0.0,0,6
+Who would they ask for laugh-uh-jay-shun,Who would they ask for clarification?,0.16666666666666666,1,6
+We all like my oldest brother,We all like my oldest brother.,0.0,0,6
+Did you see any of those,Did you see any of those?,0.0,0,6
+Don't you hate that,Don't you hate that?,0.0,0,4
+It would be nice if they could do that them together.,It would be nice if they could get them together.,0.2,2,10
+But do you think Bill Gates should resign,But do you think Bill Gates should resign?,0.0,0,8
+Evidently he was elected president.,Evidently he was elected president.,0.0,0,5
+We not have we pretrain here and there,We met half way between here and there.,0.5,4,8
+I'm getting a godly here.,I'm getting a gut feeling here.,0.3333333333333333,2,6
+"Turn it, rentify the cost.",Does it justify the cost?,0.4,2,5
+"Well, is Englanding, Tay it easy.",While it's healing take it easy.,0.6666666666666666,4,6
+So that's got overbody extorted,So that's got everybody excited.,0.4,2,5
+Didn't mean to get you off there,Didn't mean to cut you off there.,0.14285714285714285,1,7
+These are just what an tission,These guys just want attention.,0.8,4,5
+To really challenge them,To really challenge them.,0.0,0,4
+It’s actually the first car we ever bought you.,It's actually the first car we ever bought new.,0.2222222222222222,2,9
+Competing things count as is usually the way to go,Keeping things concise is usually the way to go.,0.3333333333333333,3,9
+When I had my magazines at home,When I had my magazines at home.,0.0,0,7
+That's really funny but also disturbing,That's really funny but also disturbing.,0.0,0,6
+I it easing goose owl owl nor,I hope everything works out up there.,0.8571428571428571,6,7
+I uh lease the this tigashion,Are you pleased with this decision?,0.8333333333333334,5,6
+The dog is just overly the heel here.,The town is just over the hill here.,0.375,3,8
+It is digitally digloss.,It is totally ridiculous.,0.5,2,4
+It other most the is joying to beak,"In other words, there is a choice to make.",0.6666666666666666,6,9
+That do the from big your,That does not seem quite fair.,0.8333333333333334,5,6
+This is a margarita,That is horrible.,1.0,3,3
+Full the jog to the tog with bowling water,Fill the jar to the top with boiling water.,0.4444444444444444,4,9
+It was a prize ten fifbble game,It was a prime time football game.,0.42857142857142855,3,7
+Bat to sacago,Not too long ago.,1.0,4,4
+"He is hard, please get lock this year.",She has had really good luck this year.,0.75,6,8
+I went back to school and got me a master's degree.,I went back to school and got my Master's degree.,0.2,2,10
+I hope other thing watch out up there,I hope everything works out up there.,0.42857142857142855,3,7
+I you please the this is tomation,Are you pleased with this decision?,0.8333333333333334,5,6
+The town is just over the hill here.,The town is just over the hill here.,0.0,0,8
+It is totally runnishon lass,It is totally ridiculous.,0.5,2,4
+It | other | was | there | is | a | joy | to | bake,"In other words, there is a choice to make.",0.4444444444444444,4,9
+That is that same what fair,That does not seem quite fair.,0.6666666666666666,4,6
+That is carabiner,That is horrible.,0.3333333333333333,1,3
+Feel the try to the tom with blowing matter.,Fill the jar to the top with boiling water.,0.5555555555555556,5,9
+It was a big time circle game,It was a prime time football game.,0.2857142857142857,2,7
+But to lock a go,Not too long ago.,1.25,5,4
+She have had pretty good like this year,She has had really good luck this year.,0.375,3,8
+I went by to school and got my versus degree,I went back to school and got my Master's degree.,0.2,2,10
+In the next five years,In the next five years.,0.0,0,5
+Galaj Reddit for company service is a good idea,College credit for community service is a good idea.,0.3333333333333333,3,9
+Exical and rigidious fields and need and measure,Ethical and religious views on need and pleasure.,0.625,5,8
+The best you weeks are a case it point,The past few weeks are a case in point.,0.3333333333333333,3,9
+The deviled ant offers financial services.,The government offers financial services.,0.4,2,5
+Miss some ream sauce with it and boil it over ways,Mix some cream sauce with it and pour it over rice.,0.36363636363636365,4,11
+People are strapping out of school.,People are dropping out of school.,0.16666666666666666,1,6
+A lot of teaching and rest,A lot of chicken and rice.,0.3333333333333333,2,6
+As nude as I had them,As soon as I had them.,0.16666666666666666,1,6
+I was tired during that all month,I was tired during that whole month.,0.14285714285714285,1,7
+We hope you enjoy your stay.,We hope you enjoy your stay!,0.0,0,6
+We are not trying to resent them or anything,We are not trying to mistreat them or anything.,0.1111111111111111,1,9
+How can I appoint be invented by a virus,How can I avoid being infected by a virus?,0.3333333333333333,3,9
+You don't have to be an ex-husband to play this game.,You don't have to be an expert to play this game.,0.09090909090909091,1,11
+I live in a farming community.,I live in a farming community.,0.0,0,6
+Do you have any finds with older tribron?,Do you have any friends with older children?,0.25,2,8
+When things don't go right you have to enjoy it,When things don't go right you have to adjust.,0.2222222222222222,2,9
+What should I do,What should I do?,0.0,0,4
+The first dempensation of a church reen dislol,The first demonstration of a touch screen display.,0.5,4,8
+Not in a civilized society,Not in a civilized society.,0.0,0,5
+And they really same ways,And they really seem wise.,0.4,2,5
+If you mean some more stuff,If you bring some more stuff.,0.16666666666666666,1,6
+They're not really even participating,They're not really even participating.,0.0,0,5
+Not we all the other things going on today.,Not with all the other things going on today.,0.1111111111111111,1,9
+We used to always enjoy watching that show.,We used to always enjoy watching that show.,0.0,0,8
+You go on outside and play,You go on outside and play.,0.0,0,6
+So do you like your new truck,So do you like your new truck?,0.0,0,7
+You'd think it that it was a private school.,You'd think that it was a private school.,0.125,1,8
+They've started a drug testing policy.,They've started a drug testing policy.,0.0,0,6
+I think there’s about seventy-five been all here.,I think there's about seventy five people here.,0.5,4,8
+"Rutherford, they told you, is a lie.",Whatever they tell you is a lie.,0.2857142857142857,2,7
+They can't to as to up a gum,They can't do as good of a job.,0.5,4,8
+It's I know's place,It's a nice place.,0.5,2,4
+Everybody is sit here stumming,Everybody is sitting here screaming.,0.4,2,5
+I just can’t do those type some panels,I just can't do those types of puzzles.,0.5,4,8
+If there are kids or every other knee the are to shied,If their skirts are above the knee they are too short.,0.8181818181818182,9,11
+I long have you believed in this office,How long have you lived in this house?,0.375,3,8
+Excruciatingly if guides a pretty offender,Especially if he's a repeat offender.,0.5,3,6
+It’s I Burke Corey industry,It's a quick growing industry.,0.8,4,5
+Some new takes are manager,Some new types of furniture.,0.6,3,5
+This where am,That's where I am.,0.5,2,4
+It was about nine along at night.,It was about nine o'clock at night.,0.14285714285714285,1,7
+How is so bass at your move rough,How is your boss at your new job?,0.5,4,8
+With is probably about what their opportunity is,Which is probably about what their equity is.,0.25,2,8
+My song is the main in the gotteray docken,My father is the man in the corduroy jacket.,0.4444444444444444,4,9
+They get rid of anything,They can't read anything.,0.75,3,4
+The two scenes of what are happy.,The two seats up front are empty.,0.5714285714285714,4,7
+It's a ponsical decision,It's a personal decision.,0.25,1,4
+She doesn't wall,She doesn't work.,0.3333333333333333,1,3
+Keep it clean please,Keep it clean please.,0.0,0,4
+I think is just that you see you Kansas's frameably,I think it's good that you see your cousins frequently.,0.5,5,10
+About how many calls you paid on this self-timem?,About how many calls have you made on this system?,0.3,3,10
+I don't know what to think about that.,I don't know what you think about that.,0.125,1,8
+"It’s slowly true, well, and I toy the pale all.","Eat slowly, chew well, and enjoy the meal.",0.75,6,8
+I'd like to see reliance of the limes,I'd like to see Silence of the Lambs.,0.25,2,8
+We are quite simply at a paper point.,"We are, quite simply, at a tipping point.",0.125,1,8
+What you have and what you don't have,What you have and what you don't have.,0.0,0,8
+Just funny wiles north of here,Just forty miles north of here.,0.3333333333333333,2,6
+Low at the census office,Look at the statistics.,0.75,3,4
+Who did they play?,Who did they play?,0.0,0,4
+Luscious all the way around,Losers all the way around.,0.2,1,5
+I threw a dandelion then,I drove a Cadillac back then.,0.5,3,6
+I would them to come pick up this year,I want them to come back up next year.,0.3333333333333333,3,9
+You you’d an unsatisfied things,You don't understand this.,1.0,4,4
+It doesn't seem that low,It doesn't seem that long.,0.2,1,5
+This is an invention of promise in shoe,This is an invasion of privacy issue.,0.5714285714285714,4,7
+A really good thing to do,A really good thing to do.,0.0,0,6
+My son just adopted a cat,My son just adopted a cat.,0.0,0,6
+The only other place I've ever vacationed.,The only other place I've ever vacationed.,0.0,0,7
+But they have six over there,But they have snakes over there.,0.16666666666666666,1,6
+They had skirngts and tory time and a breather,They had snacks and story time and everything.,0.5,4,8
+Be ours is a service that they could reified,Because of a service that they could provide.,0.5,4,8
+Dot just with the question to pin sir.,Not just with the visit to Pittsburgh.,0.5714285714285714,4,7
+There’s two tenacious,There's no deductions.,1.0,3,3
+What if you were in your kids shoes,What if you were in your kid's shoes?,0.125,1,8
+I don't know if you've tried it.,I don't know if you've tried it.,0.0,0,7
+Paramoshri presser dress doing a conito,Barometric pressure drops during a tornado.,0.8333333333333334,5,6
+Fever him at and came im roar m,Cover him up and keep him warm.,0.8571428571428571,6,7
+There very a peckshunt with one another,They're very affectionate with one another.,0.5,3,6
