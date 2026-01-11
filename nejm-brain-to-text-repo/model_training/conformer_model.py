@@ -357,9 +357,12 @@ class ConformerDecoder(nn.Module):
             for _ in range(n_layers)
         ])
 
-        # CTC output head
+        # CTC output head - small init for near-uniform softmax at initialization
+        # LayerNorm produces std=1.0 input; we want logits with std≈0.07 (matching RNN)
+        # output_std = input_std × weight_std × √fan_in → weight_std = 0.07 / √d_model
         self.output = nn.Linear(d_model, n_classes)
-        nn.init.xavier_uniform_(self.output.weight)
+        nn.init.normal_(self.output.weight, std=0.07 / math.sqrt(d_model))
+        nn.init.zeros_(self.output.bias)
 
     def forward(
         self,
