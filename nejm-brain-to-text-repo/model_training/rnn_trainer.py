@@ -1,4 +1,4 @@
-import torch 
+import torch
 from torch.utils.data import DataLoader
 from torch.optim.lr_scheduler import LambdaLR
 import random
@@ -11,6 +11,12 @@ import logging
 import sys
 import json
 import pickle
+
+try:
+    import wandb
+    WANDB_AVAILABLE = True
+except ImportError:
+    WANDB_AVAILABLE = False
 
 from dataset import BrainToTextDataset, train_test_split_indicies
 from data_augmentations import gauss_smooth

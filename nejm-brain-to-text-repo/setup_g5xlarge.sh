@@ -71,7 +71,8 @@ pip install \
     accelerate==1.8.1 \
     bitsandbytes==0.46.0 \
     peft==0.14.0 \
-    datasets==3.2.0
+    datasets==3.2.0 \
+    wandb==0.19.1
 
 # Install the local package
 pip install -e .
