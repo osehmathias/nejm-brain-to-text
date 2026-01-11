@@ -327,12 +327,13 @@ class ConformerDecoder(nn.Module):
 
         # Day-specific input layers (same as GRUDecoder)
         self.day_layer_activation = nn.Softsign()
-        self.day_weights = nn.ParameterList(
-            [nn.Parameter(torch.eye(neural_dim)) for _ in range(n_days)]
-        )
-        self.day_biases = nn.ParameterList(
-            [nn.Parameter(torch.zeros(1, neural_dim)) for _ in range(n_days)]
-        )
+        # Use stacked tensors instead of ParameterList for torch.compile compatibility
+        self.day_weights = nn.Parameter(
+            torch.stack([torch.eye(neural_dim) for _ in range(n_days)], dim=0)
+        )  # Shape: (n_days, neural_dim, neural_dim)
+        self.day_biases = nn.Parameter(
+            torch.zeros(n_days, 1, neural_dim)
+        )  # Shape: (n_days, 1, neural_dim)
         self.day_layer_dropout = nn.Dropout(input_dropout)
         self.input_dropout = input_dropout
 
@@ -374,9 +375,9 @@ class ConformerDecoder(nn.Module):
         Returns:
             Logits (batch, time', n_classes) where time' is reduced by patching
         """
-        # Apply day-specific transformation
-        day_weights = torch.stack([self.day_weights[i] for i in day_idx], dim=0)
-        day_biases = torch.cat([self.day_biases[i] for i in day_idx], dim=0).unsqueeze(1)
+        # Apply day-specific transformation (tensor indexing for torch.compile compatibility)
+        day_weights = self.day_weights[day_idx]  # (batch, neural_dim, neural_dim)
+        day_biases = self.day_biases[day_idx]    # (batch, 1, neural_dim)
 
         x = torch.einsum("btd,bdk->btk", x, day_weights) + day_biases
         x = self.day_layer_activation(x)
