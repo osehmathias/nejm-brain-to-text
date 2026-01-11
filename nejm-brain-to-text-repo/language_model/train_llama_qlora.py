@@ -77,6 +77,10 @@ class QLoRAConfig:
     save_steps: int = 500
     logging_steps: int = 50
 
+    # Wandb
+    wandb_project: str = "brain-to-text-llm"
+    wandb_run_name: Optional[str] = None
+
 
 def load_training_data(data_path: str) -> Dataset:
     """
@@ -254,6 +258,21 @@ def train(
     eval_dataset: Optional[Dataset] = None,
 ):
     """Run QLoRA fine-tuning."""
+    import wandb
+
+    # Initialize wandb
+    wandb.init(
+        project=config.wandb_project,
+        name=config.wandb_run_name,
+        config={
+            'model_name': config.model_name,
+            'lora_r': config.lora_r,
+            'lora_alpha': config.lora_alpha,
+            'learning_rate': config.learning_rate,
+            'num_epochs': config.num_epochs,
+            'batch_size': config.batch_size,
+        }
+    )
 
     # Setup model and tokenizer
     model, tokenizer = setup_model_and_tokenizer(config)
@@ -288,7 +307,8 @@ def train(
         gradient_checkpointing=True,
         optim="paged_adamw_8bit",
         lr_scheduler_type="cosine",
-        report_to="none",
+        report_to="wandb",
+        run_name=config.wandb_run_name,
         remove_unused_columns=False,
     )
 
