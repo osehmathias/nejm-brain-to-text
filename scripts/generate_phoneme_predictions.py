@@ -187,7 +187,7 @@ def main():
     parser = argparse.ArgumentParser(description='Generate phoneme predictions for all samples')
     parser.add_argument('--model_path', type=str, required=True,
                         help='Path to model directory (e.g., trained_models/baseline_rnn)')
-    parser.add_argument('--data_dir', type=str, default='data/hdf5_data_final',
+    parser.add_argument('--data_dir', type=str, default='../data/hdf5_data_final',
                         help='Path to dataset directory')
     parser.add_argument('--split', type=str, default='both', choices=['train', 'val', 'both'],
                         help='Which split to process')
@@ -243,6 +243,11 @@ def main():
                     })
 
     print(f'Found {len(trials)} total trials to process')
+
+    if len(trials) == 0:
+        print(f"ERROR: No trials found in {args.data_dir}")
+        print("Check that the data directory exists and contains session folders.")
+        return 1
 
     # Process trials and write results
     results = []
