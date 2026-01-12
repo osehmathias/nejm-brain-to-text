@@ -35,8 +35,8 @@ wandb_run_name: conformer-rnn-matched
 
 output_dir: trained_models/conformer_rnn_matched
 checkpoint_dir: trained_models/conformer_rnn_matched/checkpoint
-init_from_checkpoint: false
-init_checkpoint_path: null
+init_from_checkpoint: true
+init_checkpoint_path: trained_models/conformer_rnn_matched_killed/checkpoint/best_checkpoint
 save_best_checkpoint: true
 save_all_val_steps: false
 save_final_model: false
