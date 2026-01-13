@@ -21,6 +21,7 @@
 #include <string>
 #include <type_traits>
 #include "cxx_utils.h"
+#include <cstdint>
 
 namespace sw {
 

@@ -1,3 +1,5 @@
+cmake_policy(SET CMP0135 NEW)
+set(CMAKE_POLICY_VERSION_MINIMUM 3.5)
 cmake_minimum_required(VERSION 3.14 FATAL_ERROR)
 
 find_program(CCACHE_FOUND ccache)
@@ -16,7 +18,7 @@ execute_process(
   OUTPUT_STRIP_TRAILING_WHITESPACE
 )
 if(TORCH_CXX11_ABI STREQUAL "True")
-  add_definitions(-D_GLIBCXX_USE_CXX11_ABI=1)
+  add_definitions(-D_GLIBCXX_USE_CXX11_ABI=0)
   message(STATUS "Using C++11 ABI (matching PyTorch)")
 else()
   add_definitions(-D_GLIBCXX_USE_CXX11_ABI=0)
@@ -39,7 +41,7 @@ set(FETCHCONTENT_BASE_DIR ${fc_base})
 
 if(NOT MSVC)
   # Keep the same with openfst, -fPIC or -fpic
-  set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++14 -pthread -fPIC")
+  set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++17 -include cstdint -Wno-error=template-body -pthread -fPIC")
 endif()
 
 # third_party: gflags
@@ -83,7 +85,7 @@ include_directories(${cnpy_SOURCE_DIR})
 
 # Redis
 add_subdirectory(${CMAKE_SOURCE_DIR}/third_party/hiredis)
-set(REDIS_PLUS_PLUS_CXX_STANDARD 14)
+set(REDIS_PLUS_PLUS_CXX_STANDARD 17)
 set(HIREDIS_HEADER ${CMAKE_SOURCE_DIR}/third_party)
 set(HIREDIS_LIB hiredis)
 set(TEST_HIREDIS_LIB hiredis)
@@ -97,6 +99,7 @@ execute_process(
   OUTPUT_STRIP_TRAILING_WHITESPACE
 )
 message(STATUS "Using system PyTorch from: ${TORCH_CMAKE_PREFIX}")
+find_package(CUDAToolkit REQUIRED)
 find_package(Torch REQUIRED PATHS ${TORCH_CMAKE_PREFIX} NO_DEFAULT_PATH)
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${TORCH_CXX_FLAGS} -DC10_USE_GLOG")
 
@@ -115,12 +118,11 @@ if(NOT MSVC)
   set(openfst_BINARY_DIR ${fc_base}/openfst-build)
   set(openfst_PREFIX_DIR ${fc_base}/openfst-subbuild/openfst-populate-prefix)
   ExternalProject_Add(openfst
-    URL               https://github.com/mjansche/openfst/archive/1.6.5.zip
-    URL_HASH          SHA256=b720357a464f42e181d7e33f60867b54044007f50baedc8f4458a3926f4a5a78
+    URL               https://github.com/mjansche/openfst/archive/refs/tags/1.8.0.zip
     SOURCE_DIR        ${openfst_SOURCE_DIR}
     BINARY_DIR        ${openfst_BINARY_DIR}
     CONFIGURE_COMMAND ${openfst_SOURCE_DIR}/configure --prefix=${openfst_PREFIX_DIR}
-                        "CPPFLAGS=-I${gflags_BINARY_DIR}/include -I${glog_SOURCE_DIR}/src -I${glog_BINARY_DIR} -D_GLIBCXX_USE_CXX11_ABI=0"
+                        "CXXFLAGS=-D_GLIBCXX_USE_CXX11_ABI=0 -Wno-error=template-body" "CPPFLAGS=-I${gflags_BINARY_DIR}/include -I${glog_SOURCE_DIR}/src -I${glog_BINARY_DIR} -D_GLIBCXX_USE_CXX11_ABI=0"
                         "LDFLAGS=-L${gflags_BINARY_DIR} -L${glog_BINARY_DIR}"
                         "LIBS=-lgflags_nothreads -lglog -lpthread"
     COMMAND           ${CMAKE_COMMAND} -E copy_directory ${CMAKE_SOURCE_DIR}/patch/openfst ${openfst_SOURCE_DIR}
@@ -151,6 +153,7 @@ include_directories(${openfst_SOURCE_DIR}/src/include)
 # kaldi: wfst based decoder
 add_subdirectory(kaldi)
 
+
 # decoder
 add_library(decoder STATIC
   decoder/ctc_prefix_beam_search.cc
@@ -167,6 +170,7 @@ target_link_libraries(brain_speech_decoder_main PUBLIC decoder cnpy-static ${ZLI
 #add_executable(redis_server_main bin/redis_server_main.cc)
 #target_link_libraries(redis_server_main PUBLIC redis++_static hiredis_static decoder)
 
+find_package(Python 3.11 REQUIRED COMPONENTS Interpreter Development)
 add_subdirectory(pybind11)
 pybind11_add_module(lm_decoder python/lm_decoder.cc)
 target_link_libraries(lm_decoder PUBLIC decoder)
